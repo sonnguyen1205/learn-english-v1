@@ -20,10 +20,8 @@
              part, partTime: times[part.id] || 0, partsDone: Object.keys(done).length };
   }
 
-  function thumb(img, v) {
-    img.src = v.thumb;                                         // made by cut.bat
-    img.onerror = () => { img.onerror = null; img.src = `https://i.ytimg.com/vi/${v.videoId}/hqdefault.jpg`; };
-  }
+  // thumbnail from YouTube (hqdefault is 4:3 with black bars; object-fit: cover crops them)
+  function thumb(img, v) { img.src = `https://i.ytimg.com/vi/${v.videoId}/hqdefault.jpg`; }
 
   function card(v) {
     const pr = progress(v);

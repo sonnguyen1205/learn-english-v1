@@ -3,7 +3,7 @@
 //   cut.bat <video> <source.mp4> [--part N] [--dry-run] [--ffmpeg path]
 //   node scripts/cut.js what-world-class What-World-Class-SnapYT.App.mp4
 //
-// Output: web/media/<slug>/<slug>-01.mp4 ... + thumb.jpg (home page thumbnail)
+// Output: web/media/<slug>/<slug>-01.mp4 ...
 // ffmpeg: --ffmpeg, else bin/ffmpeg(.exe) in this repo, else "ffmpeg" from PATH.
 const fs = require("fs");
 const path = require("path");
@@ -55,9 +55,5 @@ for (const p of lesson.parts) {
   const out = path.relative(process.cwd(), path.join(ROOT, "web", p.file)) || ".";
   run(["-hide_banner", "-loglevel", "error", "-y", "-ss", hms(p.start), "-t", hms(p.end - p.start),
        "-i", source, "-c", "copy", out], `${p.id}. ${p.title}`);
-}
-if (!onlyPart) {
-  run(["-hide_banner", "-loglevel", "error", "-y", "-ss", hms(lesson.parts[0].start + 5), "-i", source,
-       "-frames:v", "1", "-vf", "scale=640:-2", path.relative(process.cwd(), path.join(outDir, "thumb.jpg"))], "thumbnail");
 }
 console.log(dry ? "\n(dry run, nothing was cut)" : `\nDone -> web/media/${slug}/`);

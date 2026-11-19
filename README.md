@@ -34,7 +34,7 @@ cut.bat <video> <source file>
 cut.bat what-world-class What-World-Class-SnapYT.App.mp4
 ```
 
-- Creates `web/media/<video>/<video>-01.mp4 …` and `thumb.jpg` (the home page thumbnail).
+- Creates `web/media/<video>/<video>-01.mp4 …`. Home page thumbnails come from YouTube.
 - Uses `bin\ffmpeg.exe` if it exists, otherwise `ffmpeg` from PATH, or the one given with `--ffmpeg <path>`.
 - `--part 3` cuts only part 3. `--dry-run` only prints the ffmpeg commands.
 - `cut.bat` with no arguments lists the available videos.

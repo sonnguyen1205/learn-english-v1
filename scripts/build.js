@@ -87,7 +87,6 @@ for (const slug of fs.readdirSync(SRC).sort()) {
     parts: p.length, start: p[0].start, end: p[p.length - 1].end,
     duration: p.reduce((s, x) => s + x.end - x.start, 0),
     lines: p.reduce((s, x) => s + x.lines.length, 0), words: vocab.length,
-    thumb: `media/${slug}/thumb.jpg`,
     partList: p.map((x) => ({ id: x.id, title: x.title, len: x.end - x.start })),
   });
   console.log(`${slug}: ${p.length} parts, ${list[list.length - 1].lines} lines, ${vocab.length} words`);
