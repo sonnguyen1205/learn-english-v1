@@ -1,54 +1,43 @@
 # Learn English v1
 
-A one-page web app for learning English from a YouTube video
-(default: https://www.youtube.com/watch?v=OkXuLNAjrSg).
+A one-page app for learning English from the video
+[What World Class Software Engineers Do That You Don't](https://www.youtube.com/watch?v=OkXuLNAjrSg) (Beyond Coding).
 
-- **Left column:** video player, with the list of cut parts below it (progress bar per part)
-- **Right column:** transcript of the current part, with **EN / VI** tabs; the current line is highlighted, click a line to jump to it
-- Line tools: previous / replay / next line, loop a line, playback speed
-- **Remembers playback:** the current part, the position in each part, the language tab and the speed are saved in `localStorage`. Reopen the page and it continues where you left off.
+- **Left column:** video player, with the 18 parts listed below it (a progress bar for each part)
+- **Right column:** transcript of the current part, with **EN / VI** tabs; the current line is highlighted, and clicking a line jumps to it
+- Previous / replay / next line, loop a line, playback speed
+- **Remembers playback** (in `localStorage`): the current part, the position in each part, the language tab and the speed
 
-## Setup (run on your own machine)
+Node.js only, no dependencies.
 
-Requires Python 3.9+ and `ffmpeg`.
+## 1. Cut the video
 
-```bash
-pip install -r requirements.txt
-python scripts/prepare.py https://www.youtube.com/watch?v=OkXuLNAjrSg
-python scripts/serve.py
+Put `What-World-Class-SnapYT.App.mp4` and `bin\ffmpeg.exe` in the repo folder, then run:
+
+```bat
+cut.bat
 ```
 
-Open http://localhost:8000
+This creates `web\media\What-World-Class-01.mp4` … `-18.mp4`. On macOS or Linux, use `./cut.sh` instead.
 
-`prepare.py` will:
-1. Download the video (≤720p) to `web/media/full.mp4`
-2. Fetch the English transcript and merge caption fragments into sentences
-3. Make the Vietnamese transcript (YouTube auto-translate, or Google Translate as a fallback)
-4. Split the video into parts: by YouTube chapters if the video has them, otherwise every ~3 minutes (`--chunk-minutes N`) on sentence boundaries
-5. Cut each part with ffmpeg → `web/media/part_XX.mp4`
-6. Write `web/data/lesson.json`
+## 2. Run
 
-Options:
-- `--no-download`: don't download or cut the video; the app plays parts straight from a YouTube embed (start/end per part)
-- `--cookies cookies.txt`: if YouTube asks you to "Sign in to confirm you're not a bot"
+```bash
+npm start
+```
 
-> Use `scripts/serve.py` instead of `python -m http.server`: it supports HTTP Range requests, which the browser needs to seek in the video.
+Then open http://localhost:8000. `server.js` supports HTTP Range requests, which the browser needs to seek in the video.
 
-Keyboard shortcuts: `Shift+←` / `Shift+→` previous/next line, `R` replay line.
+## Editing the transcript
 
-## Lesson data from a transcript you provide
-
-The transcript (with Vietnamese translations) lives in `data/transcript_*.txt`:
+The transcript (EN + VI) is in `data/transcript_*.txt`:
 
 ```
 ## Part title
 m:ss|English line|Vietnamese line
 ```
 
-Build `web/data/lesson.json` from it:
+After editing, run `npm run build` to regenerate `web/data/lesson.json`, `cut.bat` and `cut.sh`.
+To change the source file name or output prefix, edit `CONFIG` in `scripts/build.js`.
 
-```bash
-python scripts/build_lesson.py                 # parts play web/media/part_01.mp4 … part_18.mp4
-python scripts/build_lesson.py --cut full.mp4  # also cut your full video into those files
-python scripts/build_lesson.py --youtube       # no local files, play from the YouTube embed
-```
+> `-c copy` cuts on keyframes, so a part may start a little before the timestamp.
