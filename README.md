@@ -9,8 +9,15 @@ A one-page app for learning English from the video
 - Hover a line to see a tooltip in the other language (in "Ẩn" mode the tooltip shows both EN and VI)
 - Video size: full / 1/2 / hidden; when hidden, a "now playing" bar shows with play/pause
 - Speed slider from 0.5× to 2× (double-click to reset to 1×)
-- Previous / replay / next line, loop a line, `Space` to play/pause
+- Previous / replay / next line, **loop a line**, **loop a part**, `Space` to play/pause
 - **Remembers** (in `localStorage`): the current part, the position in each part, the tab, the speed and the video size
+
+**Vocabulary page** (`vocab.html`, 167 words/phrases from the video):
+- List view grouped by part: IPA, part of speech, Vietnamese meaning, and the example sentence from the video (EN + VI, word highlighted)
+- 🔊 pronunciation of the word and the example sentence (browser text-to-speech)
+- "▶ Xem trong video" jumps to the exact moment in the video page
+- Flashcards: flip, mark as known or not yet known, shuffle; shortcuts are Space, ← →, 1, 2 and S
+- Filter by part, by status (known / not yet known), or by search; known words are remembered
 
 Node.js only, no dependencies.
 
@@ -41,7 +48,9 @@ The transcript (EN + VI) is in `data/transcript_*.txt`:
 m:ss|English line|Vietnamese line
 ```
 
-After editing, run `npm run build` to regenerate `web/data/lesson.json`, `cut.bat` and `cut.sh`.
+Vocabulary is in `data/vocab.txt`: `word|IPA|part of speech|Vietnamese meaning|m:ss`, where `m:ss` is the time of the transcript line that uses the word. The example sentence and the part are filled in automatically.
+
+After editing, run `npm run build` to regenerate `web/data/lesson.json`, `web/data/vocab.json`, `cut.bat` and `cut.sh`.
 To change the source file name or output prefix, edit `CONFIG` in `scripts/build.js`.
 
 > `-c copy` cuts on keyframes, so a part may start a little before the timestamp.

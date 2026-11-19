@@ -1,0 +1,169 @@
+# word|IPA|part of speech|Vietnamese meaning|m:ss of the transcript line that uses it
+# (the example sentence and the part are taken from the transcript automatically)
+breadth|/bredθ/|n|bề rộng, tầm hiểu biết rộng|0:44
+perpetuate|/pərˈpetʃueɪt/|v|duy trì, làm cho tồn tại mãi|0:37
+dismiss|/dɪsˈmɪs/|v|gạt bỏ, xem nhẹ|0:44
+tackle|/ˈtækl/|v|giải quyết, xử lý (vấn đề)|0:58
+encounter|/ɪnˈkaʊntər/|v|gặp phải|0:58
+deter|/dɪˈtɜːr/|v|ngăn cản, làm nản lòng|1:19
+perpetual learner|/pərˈpetʃuəl ˈlɜːrnər/|n|người học suốt đời|1:28
+comfort zone|/ˈkʌmfərt zoʊn/|n|vùng an toàn|1:39
+proficiency|/prəˈfɪʃnsi/|n|sự thành thạo|1:39
+attain|/əˈteɪn/|v|đạt được|1:39
+mastery|/ˈmæstəri/|n|sự tinh thông|1:47
+cringe|/krɪndʒ/|v|thấy ngượng, xấu hổ thay|2:16
+scrape|/skreɪp/|v|cào (thu thập) dữ liệu tự động|2:20
+refugee crisis|/ˌrefjuˈdʒiː ˈkraɪsɪs/|n|khủng hoảng người tị nạn|2:26
+end all be all|/ˌend ɔːl ˌbiː ˈɔːl/|idiom|thứ tốt nhất, quan trọng nhất|2:37
+stagnation|/stæɡˈneɪʃn/|n|sự trì trệ|3:01
+vendor lock|/ˈvendər lɑːk/|n|sự phụ thuộc vào nhà cung cấp|3:52
+hurdle|/ˈhɜːrdl/|n|rào cản|3:57
+nuance|/ˈnuːɑːns/|n|sắc thái, khác biệt nhỏ|4:05
+billing model|/ˈbɪlɪŋ ˈmɑːdl/|n|mô hình tính phí|4:05
+sovereignty|/ˈsɑːvrənti/|n|chủ quyền|4:15
+buzzword|/ˈbʌzwɜːrd/|n|từ ngữ thời thượng|4:37
+on steroids|/ɑːn ˈsterɔɪdz/|idiom|được tăng cường, mạnh hơn hẳn|4:54
+compute|/kəmˈpjuːt/|n|sức mạnh tính toán|4:54
+contain|/kənˈteɪn/|v|chứa|4:59
+decade|/ˈdekeɪd/|n|thập kỷ|5:05
+core problem|/kɔːr ˈprɑːbləm/|n|vấn đề cốt lõi|5:15
+miscommunication|/ˌmɪskəˌmjuːnɪˈkeɪʃn/|n|sự hiểu lầm trong giao tiếp|5:26
+stem from|/stem frʌm/|phr v|bắt nguồn từ|5:26
+figure out|/ˈfɪɡjər aʊt/|phr v|tìm ra, hiểu ra|5:30
+synthetic data|/sɪnˈθetɪk ˈdeɪtə/|n|dữ liệu tổng hợp (nhân tạo)|5:59
+outsource|/ˈaʊtsɔːrs/|v|thuê ngoài|6:15
+automate|/ˈɔːtəmeɪt/|v|tự động hóa|6:15
+the problem behind the problem|/ðə ˈprɑːbləm bɪˈhaɪnd ðə ˈprɑːbləm/|phrase|vấn đề gốc rễ nằm sau vấn đề|6:27
+binary choice|/ˈbaɪnəri tʃɔɪs/|n|lựa chọn có-hoặc-không|6:59
+business card|/ˈbɪznəs kɑːrd/|n|danh thiếp|7:03
+mindset|/ˈmaɪndset/|n|tư duy|7:09
+spot|/spɑːt/|v|nhận ra, phát hiện|7:16
+spew out|/spjuː aʊt/|phr v|tuôn ra (nhiều lời)|7:28
+loosely coupled|/ˈluːsli ˈkʌpld/|adj|liên kết lỏng|7:28
+mantra|/ˈmæntrə/|n|câu thần chú, phương châm|7:52
+amplifier|/ˈæmplɪfaɪər/|n|bộ khuếch đại|8:00
+oracle|/ˈɔːrəkl/|n|nhà tiên tri|8:09
+blind spot|/ˈblaɪnd spɑːt/|n|điểm mù|8:32
+trade-off|/ˈtreɪd ɔːf/|n|sự đánh đổi|8:39
+ivory tower|/ˌaɪvəri ˈtaʊər/|n|tháp ngà (xa rời thực tế)|8:50
+distinguish|/dɪˈstɪŋɡwɪʃ/|v|phân biệt|9:01
+uniform|/ˈjuːnɪfɔːrm/|adj|đồng nhất|9:19
+from the get go|/frʌm ðə ˈɡet ɡoʊ/|idiom|ngay từ đầu|9:19
+adopt|/əˈdɑːpt/|v|áp dụng|9:40
+for the sake of it|/fər ðə seɪk əv ɪt/|idiom|chỉ vì muốn thế, không có lý do thực sự|9:40
+jump on the bandwagon|/dʒʌmp ɑːn ðə ˈbændwæɡən/|idiom|chạy theo trào lưu|9:59
+proven|/ˈpruːvn/|adj|đã được chứng minh|10:16
+gut feeling|/ɡʌt ˈfiːlɪŋ/|n|cảm giác bản năng|10:39
+craftsman|/ˈkræftsmən/|n|người thợ lành nghề|10:49
+hallmark|/ˈhɔːlmɑːrk/|n|dấu hiệu đặc trưng|11:34
+iteration|/ˌɪtəˈreɪʃn/|n|phiên bản, vòng phát triển|11:52
+forecast|/ˈfɔːrkæst/|v|dự báo|11:52
+firm believer|/fɜːrm bɪˈliːvər/|n|người tin tưởng mạnh mẽ|12:03
+reach the masses|/riːtʃ ðə ˈmæsɪz/|idiom|đến với đông đảo mọi người|12:03
+replication|/ˌreplɪˈkeɪʃn/|n|sự nhân bản dữ liệu|12:29
+vertical scaling|/ˈvɜːrtɪkl ˈskeɪlɪŋ/|n|mở rộng theo chiều dọc (nâng cấp máy)|12:45
+sharding|/ˈʃɑːrdɪŋ/|n|chia nhỏ dữ liệu ra nhiều máy|12:57
+fancy|/ˈfænsi/|adj|cầu kỳ, phức tạp|12:57
+horizontal scaling|/ˌhɔːrɪˈzɑːntl ˈskeɪlɪŋ/|n|mở rộng theo chiều ngang (thêm máy)|13:19
+perfectionist|/pərˈfekʃənɪst/|n|người cầu toàn|13:24
+selfish|/ˈselfɪʃ/|adj|ích kỷ|13:39
+genuinely|/ˈdʒenjuɪnli/|adv|thật lòng|13:39
+misinformation|/ˌmɪsɪnfərˈmeɪʃn/|n|thông tin sai lệch|13:48
+dogmatic|/dɔːɡˈmætɪk/|adj|giáo điều|13:48
+venture into|/ˈventʃər ˈɪntuː/|phr v|mạo hiểm bước vào|13:58
+elegance|/ˈelɪɡəns/|n|sự thanh lịch|14:07
+maintain|/meɪnˈteɪn/|v|bảo trì|14:18
+spectrum|/ˈspektrəm/|n|phổ, dải (từ cực này sang cực kia)|14:40
+abstraction|/æbˈstrækʃn/|n|sự trừu tượng, lớp trừu tượng|14:46
+reason about|/ˈriːzn əˈbaʊt/|phr v|suy luận về|14:46
+in your face|/ɪn jʊr ˈfeɪs/|idiom|hiện ra rõ ràng ngay trước mắt|15:20
+trace|/treɪs/|v|lần theo|15:26
+edge case|/ˈedʒ keɪs/|n|trường hợp biên|15:39
+memory leak|/ˈmeməri liːk/|n|rò rỉ bộ nhớ|15:50
+catastrophic|/ˌkætəˈstrɑːfɪk/|adj|thảm khốc, tai hại|15:50
+garbage collector|/ˈɡɑːrbɪdʒ kəˈlektər/|n|bộ thu gom rác (bộ nhớ)|15:57
+latency|/ˈleɪtənsi/|n|độ trễ|15:57
+evolve|/ɪˈvɑːlv/|v|phát triển, tiến hóa|16:08
+revamp|/ˌriːˈvæmp/|v|cải tổ, làm lại|16:17
+mentality|/menˈtæləti/|n|tư duy, lối nghĩ|16:57
+order of magnitude|/ˈɔːrdər əv ˈmæɡnɪtuːd/|n|bậc độ lớn (gấp 10 lần)|17:05
+continual|/kənˈtɪnjuəl/|adj|liên tục|17:14
+anticipate|/ænˈtɪsɪpeɪt/|v|lường trước|17:22
+extrapolate|/ɪkˈstræpəleɪt/|v|ngoại suy|17:22
+fuzziness|/ˈfʌzinəs/|n|sự mơ hồ|17:30
+bottom line|/ˌbɑːtəm ˈlaɪn/|n|lợi nhuận ròng|17:34
+projection|/prəˈdʒekʃn/|n|dự báo, dự phóng|17:34
+publicly traded|/ˈpʌblɪkli ˈtreɪdɪd/|adj|được niêm yết công khai|17:40
+revenue|/ˈrevənuː/|n|doanh thu|17:49
+margin|/ˈmɑːrdʒɪn/|n|biên lợi nhuận|17:49
+revisit|/ˌriːˈvɪzɪt/|v|xem xét lại|18:00
+standpoint|/ˈstændpɔɪnt/|n|quan điểm, góc độ|18:24
+entail|/ɪnˈteɪl/|v|kéo theo|18:31
+constraint|/kənˈstreɪnt/|n|ràng buộc|18:31
+convince|/kənˈvɪns/|v|thuyết phục|18:37
+intuitive|/ɪnˈtuːɪtɪv/|adj|trực quan|18:37
+comprehend|/ˌkɑːmprɪˈhend/|v|hiểu thấu|18:50
+intuition|/ˌɪntuˈɪʃn/|n|trực giác|18:56
+assimilate|/əˈsɪməleɪt/|v|tiếp thu|19:13
+container terminal|/kənˈteɪnər ˈtɜːrmɪnl/|n|cảng container|19:30
+furnish|/ˈfɜːrnɪʃ/|v|trang bị|19:38
+hazardous|/ˈhæzərdəs/|adj|nguy hiểm|19:50
+dock|/dɑːk/|v|cập cảng|20:05
+capacity|/kəˈpæsəti/|n|công suất|20:12
+life threatening|/ˈlaɪf θretnɪŋ/|adj|đe dọa tính mạng|20:44
+malfunction|/ˌmælˈfʌŋkʃn/|v|trục trặc|20:56
+sloppiness|/ˈslɑːpinəs/|n|sự cẩu thả|20:59
+scorching heat|/ˈskɔːrtʃɪŋ hiːt/|n|cái nóng như thiêu đốt|21:21
+vantage point|/ˈvæntɪdʒ pɔɪnt/|n|góc nhìn, vị trí quan sát|21:40
+bombard|/bɑːmˈbɑːrd/|v|dội bom, tấn công dồn dập|22:00
+assumption|/əˈsʌmpʃn/|n|giả định|22:30
+snapshot|/ˈsnæpʃɑːt/|v|chụp nhanh (trạng thái)|22:39
+landscape|/ˈlændskeɪp/|n|bức tranh toàn cảnh|22:51
+catalog|/ˈkætəlɔːɡ/|v|lập danh mục|22:58
+cartographer|/kɑːrˈtɑːɡrəfər/|n|người vẽ bản đồ|23:07
+metaphor|/ˈmetəfɔːr/|n|ẩn dụ|23:22
+scout|/skaʊt/|n|trinh sát|23:22
+objective|/əbˈdʒektɪv/|n|mục tiêu|23:35
+situational|/ˌsɪtʃuˈeɪʃənl/|adj|theo tình huống|23:58
+depict|/dɪˈpɪkt/|v|mô tả, thể hiện|24:14
+viable|/ˈvaɪəbl/|adj|khả thi|24:17
+purpose driven|/ˈpɜːrpəs ˈdrɪvn/|adj|hướng mục đích|24:58
+subject matter|/ˈsʌbdʒɪkt ˈmætər/|n|chuyên môn, nội dung chủ đề|25:07
+timely|/ˈtaɪmli/|adj|kịp thời|25:49
+historian|/hɪˈstɔːriən/|n|nhà sử học|25:52
+transparency|/trænsˈpærənsi/|n|sự minh bạch|26:06
+discipline|/ˈdɪsəplɪn/|n|kỷ luật|26:06
+on the same page|/ɑːn ðə seɪm peɪdʒ/|idiom|hiểu ý nhau, thống nhất|26:14
+a means to an end|/ə miːnz tu ən end/|idiom|phương tiện để đạt mục đích|26:22
+worthless|/ˈwɜːrθləs/|adj|vô giá trị|26:22
+obsolete|/ˌɑːbsəˈliːt/|adj|lỗi thời|26:49
+soft skills|/sɔːft skɪlz/|n|kỹ năng mềm|26:54
+gray area|/ˈɡreɪ ˌeriə/|n|vùng xám (chưa rõ ràng)|27:05
+open minded|/ˌoʊpən ˈmaɪndɪd/|adj|cởi mở|27:10
+familiarize yourself with|/fəˈmɪliəraɪz jərˈself wɪð/|v|làm quen với|27:10
+foundational knowledge|/faʊnˈdeɪʃənl ˈnɑːlɪdʒ/|n|kiến thức nền tảng|27:19
+a fool with a tool|/ə fuːl wɪð ə tuːl/|idiom|kẻ ngốc chỉ biết một công cụ|27:32
+double down on|/ˌdʌbl ˈdaʊn ɑːn/|phr v|dốc sức hơn nữa vào|28:09
+ins and outs|/ˌɪnz ən ˈaʊts/|idiom|mọi ngóc ngách, chi tiết|28:09
+open source|/ˌoʊpən ˈsɔːrs/|adj|mã nguồn mở|28:09
+sue|/suː/|v|kiện|28:18
+explicit|/ɪkˈsplɪsɪt/|adj|tường minh, rõ ràng|28:57
+implicit|/ɪmˈplɪsɪt/|adj|ngầm, ẩn|28:57
+memorize|/ˈmeməraɪz/|v|ghi nhớ, học thuộc|29:10
+disinformation|/ˌdɪsɪnfərˈmeɪʃn/|n|tin giả (có chủ đích)|29:31
+drown in|/draʊn ɪn/|v|chìm ngập trong|29:31
+scarce|/skers/|adj|khan hiếm|29:43
+flood|/flʌd/|v|tràn ngập|29:51
+deep fake|/ˈdiːp feɪk/|n|nội dung giả mạo bằng AI|29:58
+cockpit|/ˈkɑːkpɪt/|n|buồng lái|30:07
+triangulate|/traɪˈæŋɡjuleɪt/|v|đối chiếu từ nhiều nguồn|30:21
+regurgitate|/rɪˈɡɜːrdʒɪteɪt/|v|lặp lại như vẹt|30:28
+frustrated|/ˈfrʌstreɪtɪd/|adj|bực bội, thất vọng|30:28
+quote|/kwoʊt/|n|câu trích dẫn|30:38
+leverage|/ˈlevərɪdʒ/|v|tận dụng|31:06
+validation|/ˌvælɪˈdeɪʃn/|n|sự kiểm chứng|31:29
+extend|/ɪkˈstend/|v|mở rộng|31:37
+trip up|/trɪp ʌp/|phr v|mắc lỗi, vấp|31:55
+gap|/ɡæp/|n|khoảng trống|31:55
+validate|/ˈvælɪdeɪt/|v|kiểm chứng|32:03
+in the long run|/ɪn ðə lɔːŋ rʌn/|idiom|về lâu dài|32:37

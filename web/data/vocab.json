@@ -1,0 +1,2173 @@
+[
+ {
+  "id": "breadth",
+  "word": "breadth",
+  "ipa": "/bredθ/",
+  "pos": "n",
+  "vi": "bề rộng, tầm hiểu biết rộng",
+  "part": 1,
+  "t": 44,
+  "example": {
+   "en": "But at the same time, don't dismiss everything else that's happening. Increase your breadth.",
+   "vi": "Nhưng đồng thời, đừng gạt bỏ mọi thứ khác đang diễn ra. Hãy mở rộng tầm hiểu biết."
+  }
+ },
+ {
+  "id": "perpetuate",
+  "word": "perpetuate",
+  "ipa": "/pərˈpetʃueɪt/",
+  "pos": "v",
+  "vi": "duy trì, làm cho tồn tại mãi",
+  "part": 1,
+  "t": 37,
+  "example": {
+   "en": "And there's an advice that perpetuates which says, focus. True - focus.",
+   "vi": "Và có một lời khuyên cứ được truyền tai nhau, đó là: hãy tập trung. Đúng vậy - tập trung."
+  }
+ },
+ {
+  "id": "dismiss",
+  "word": "dismiss",
+  "ipa": "/dɪsˈmɪs/",
+  "pos": "v",
+  "vi": "gạt bỏ, xem nhẹ",
+  "part": 1,
+  "t": 44,
+  "example": {
+   "en": "But at the same time, don't dismiss everything else that's happening. Increase your breadth.",
+   "vi": "Nhưng đồng thời, đừng gạt bỏ mọi thứ khác đang diễn ra. Hãy mở rộng tầm hiểu biết."
+  }
+ },
+ {
+  "id": "tackle",
+  "word": "tackle",
+  "ipa": "/ˈtækl/",
+  "pos": "v",
+  "vi": "giải quyết, xử lý (vấn đề)",
+  "part": 1,
+  "t": 58,
+  "example": {
+   "en": "And that's why whenever I tackle a problem, I don't have a problem digging very deep into anything new I encounter.",
+   "vi": "Và đó là lý do mỗi khi giải quyết một vấn đề, tôi không ngại đào thật sâu vào bất cứ điều gì mới mà tôi gặp."
+  }
+ },
+ {
+  "id": "encounter",
+  "word": "encounter",
+  "ipa": "/ɪnˈkaʊntər/",
+  "pos": "v",
+  "vi": "gặp phải",
+  "part": 1,
+  "t": 58,
+  "example": {
+   "en": "And that's why whenever I tackle a problem, I don't have a problem digging very deep into anything new I encounter.",
+   "vi": "Và đó là lý do mỗi khi giải quyết một vấn đề, tôi không ngại đào thật sâu vào bất cứ điều gì mới mà tôi gặp."
+  }
+ },
+ {
+  "id": "deter",
+  "word": "deter",
+  "ipa": "/dɪˈtɜːr/",
+  "pos": "v",
+  "vi": "ngăn cản, làm nản lòng",
+  "part": 1,
+  "t": 79,
+  "example": {
+   "en": "but that did not deter me from picking up that education myself and really digging deep into all sorts of theoretical topics, but also practical areas and topics.",
+   "vi": "nhưng điều đó không ngăn tôi tự học lấy kiến thức đó và đào sâu vào đủ loại chủ đề lý thuyết, lẫn các lĩnh vực và chủ đề thực tiễn."
+  }
+ },
+ {
+  "id": "perpetual-learner",
+  "word": "perpetual learner",
+  "ipa": "/pərˈpetʃuəl ˈlɜːrnər/",
+  "pos": "n",
+  "vi": "người học suốt đời",
+  "part": 1,
+  "t": 88,
+  "example": {
+   "en": "And I'm a perpetual learner.",
+   "vi": "Và tôi là người học suốt đời."
+  }
+ },
+ {
+  "id": "comfort-zone",
+  "word": "comfort zone",
+  "ipa": "/ˈkʌmfərt zoʊn/",
+  "pos": "n",
+  "vi": "vùng an toàn",
+  "part": 1,
+  "t": 99,
+  "example": {
+   "en": "get out of their comfort zone really fast, dig deep really fast, and attain high levels of functional proficiency in any new area.",
+   "vi": "bước ra khỏi vùng an toàn thật nhanh, đào sâu thật nhanh, và đạt mức thành thạo cao để làm việc được trong bất kỳ lĩnh vực mới nào."
+  }
+ },
+ {
+  "id": "proficiency",
+  "word": "proficiency",
+  "ipa": "/prəˈfɪʃnsi/",
+  "pos": "n",
+  "vi": "sự thành thạo",
+  "part": 1,
+  "t": 99,
+  "example": {
+   "en": "get out of their comfort zone really fast, dig deep really fast, and attain high levels of functional proficiency in any new area.",
+   "vi": "bước ra khỏi vùng an toàn thật nhanh, đào sâu thật nhanh, và đạt mức thành thạo cao để làm việc được trong bất kỳ lĩnh vực mới nào."
+  }
+ },
+ {
+  "id": "attain",
+  "word": "attain",
+  "ipa": "/əˈteɪn/",
+  "pos": "v",
+  "vi": "đạt được",
+  "part": 1,
+  "t": 99,
+  "example": {
+   "en": "get out of their comfort zone really fast, dig deep really fast, and attain high levels of functional proficiency in any new area.",
+   "vi": "bước ra khỏi vùng an toàn thật nhanh, đào sâu thật nhanh, và đạt mức thành thạo cao để làm việc được trong bất kỳ lĩnh vực mới nào."
+  }
+ },
+ {
+  "id": "mastery",
+  "word": "mastery",
+  "ipa": "/ˈmæstəri/",
+  "pos": "n",
+  "vi": "sự tinh thông",
+  "part": 1,
+  "t": 107,
+  "example": {
+   "en": "And then attaining mastery is not always required in everything.",
+   "vi": "Còn việc đạt đến mức tinh thông thì không phải lúc nào cũng cần cho mọi thứ."
+  }
+ },
+ {
+  "id": "cringe",
+  "word": "cringe",
+  "ipa": "/krɪndʒ/",
+  "pos": "v",
+  "vi": "thấy ngượng, xấu hổ thay",
+  "part": 2,
+  "t": 136,
+  "example": {
+   "en": "Back in the day, some at some people in the audience will be cringing right now.",
+   "vi": "Ngày xưa, chắc vài người đang xem sẽ thấy ngượng thay cho tôi lúc này."
+  }
+ },
+ {
+  "id": "scrape",
+  "word": "scrape",
+  "ipa": "/skreɪp/",
+  "pos": "v",
+  "vi": "cào (thu thập) dữ liệu tự động",
+  "part": 2,
+  "t": 140,
+  "example": {
+   "en": "SPSS taught myself, to scrape Twitter back before it became shitter.",
+   "vi": "Tôi tự học SPSS, tự học cách thu thập dữ liệu từ Twitter hồi nó còn chưa trở nên tệ hại."
+  }
+ },
+ {
+  "id": "refugee-crisis",
+  "word": "refugee crisis",
+  "ipa": "/ˌrefjuˈdʒiː ˈkraɪsɪs/",
+  "pos": "n",
+  "vi": "khủng hoảng người tị nạn",
+  "part": 2,
+  "t": 146,
+  "example": {
+   "en": "And to to model the 2013 14 Syrian refugee crisis. I hated Putin before I knew where Ukraine was on the map.",
+   "vi": "Và để mô hình hóa cuộc khủng hoảng người tị nạn Syria năm 2013-2014. Tôi ghét Putin trước cả khi biết Ukraine nằm ở đâu trên bản đồ."
+  }
+ },
+ {
+  "id": "end-all-be-all",
+  "word": "end all be all",
+  "ipa": "/ˌend ɔːl ˌbiː ˈɔːl/",
+  "pos": "idiom",
+  "vi": "thứ tốt nhất, quan trọng nhất",
+  "part": 2,
+  "t": 157,
+  "example": {
+   "en": "But from I went into Python and now Python is the end all be all. But I'm from an era where people were still asking like, are you sure?",
+   "vi": "Rồi tôi chuyển sang Python, và giờ Python là thứ \"nhất\" rồi. Nhưng tôi đến từ thời mà người ta vẫn còn hỏi kiểu: bạn có chắc không?"
+  }
+ },
+ {
+  "id": "stagnation",
+  "word": "stagnation",
+  "ipa": "/stæɡˈneɪʃn/",
+  "pos": "n",
+  "vi": "sự trì trệ",
+  "part": 2,
+  "t": 181,
+  "example": {
+   "en": "We might actually see a stagnation in the development, in the development of coding languages.",
+   "vi": "Có khi chúng ta sẽ thấy sự trì trệ trong việc phát triển các ngôn ngữ lập trình."
+  }
+ },
+ {
+  "id": "vendor-lock",
+  "word": "vendor lock",
+  "ipa": "/ˈvendər lɑːk/",
+  "pos": "n",
+  "vi": "sự phụ thuộc vào nhà cung cấp",
+  "part": 2,
+  "t": 232,
+  "example": {
+   "en": "They just call every damn button differently and that's how they vendor lock.",
+   "vi": "Họ chỉ đặt tên khác nhau cho từng cái nút chết tiệt, và đó là cách họ \"khóa\" khách hàng vào nhà cung cấp."
+  }
+ },
+ {
+  "id": "hurdle",
+  "word": "hurdle",
+  "ipa": "/ˈhɜːrdl/",
+  "pos": "n",
+  "vi": "rào cản",
+  "part": 2,
+  "t": 237,
+  "example": {
+   "en": "So so you can go go to the other cloud platform because the names is different, which is less of a hurdle than you would think.",
+   "vi": "Để bạn ngại chuyển sang nền tảng khác vì tên gọi khác nhau, nhưng thật ra rào cản đó nhỏ hơn bạn nghĩ."
+  }
+ },
+ {
+  "id": "nuance",
+  "word": "nuance",
+  "ipa": "/ˈnuːɑːns/",
+  "pos": "n",
+  "vi": "sắc thái, khác biệt nhỏ",
+  "part": 2,
+  "t": 245,
+  "example": {
+   "en": "And then there's of course nuance, like the billing models are different. The scaling is different.",
+   "vi": "Và tất nhiên có những khác biệt nhỏ, như mô hình tính phí khác nhau. Cách mở rộng quy mô khác nhau."
+  }
+ },
+ {
+  "id": "billing-model",
+  "word": "billing model",
+  "ipa": "/ˈbɪlɪŋ ˈmɑːdl/",
+  "pos": "n",
+  "vi": "mô hình tính phí",
+  "part": 2,
+  "t": 245,
+  "example": {
+   "en": "And then there's of course nuance, like the billing models are different. The scaling is different.",
+   "vi": "Và tất nhiên có những khác biệt nhỏ, như mô hình tính phí khác nhau. Cách mở rộng quy mô khác nhau."
+  }
+ },
+ {
+  "id": "sovereignty",
+  "word": "sovereignty",
+  "ipa": "/ˈsɑːvrənti/",
+  "pos": "n",
+  "vi": "chủ quyền",
+  "part": 3,
+  "t": 255,
+  "example": {
+   "en": "Local host I mean, sovereign, this this version, you remember that people sovereignty is the new local host.",
+   "vi": "Localhost, ý tôi là \"sovereign\" (chủ quyền), phiên bản này, mọi người nhớ nhé: \"sovereignty\" chính là localhost kiểu mới."
+  }
+ },
+ {
+  "id": "buzzword",
+  "word": "buzzword",
+  "ipa": "/ˈbʌzwɜːrd/",
+  "pos": "n",
+  "vi": "từ ngữ thời thượng",
+  "part": 3,
+  "t": 277,
+  "example": {
+   "en": "And I mentioned that before understanding the words because buzzwords will come, but they usually mean something that wasn't new at all.",
+   "vi": "Tôi đã nhắc trước đó về việc hiểu đúng từ ngữ, vì các từ thời thượng sẽ liên tục xuất hiện, nhưng chúng thường chỉ những thứ chẳng mới chút nào."
+  }
+ },
+ {
+  "id": "on-steroids",
+  "word": "on steroids",
+  "ipa": "/ɑːn ˈsterɔɪdz/",
+  "pos": "idiom",
+  "vi": "được tăng cường, mạnh hơn hẳn",
+  "part": 3,
+  "t": 294,
+  "example": {
+   "en": "But we mainly meant just deep learning on steroids with a lot a lot of GPU and compute.",
+   "vi": "Nhưng chủ yếu chúng ta chỉ muốn nói deep learning được \"tăng lực\" với rất rất nhiều GPU và sức tính toán."
+  }
+ },
+ {
+  "id": "compute",
+  "word": "compute",
+  "ipa": "/kəmˈpjuːt/",
+  "pos": "n",
+  "vi": "sức mạnh tính toán",
+  "part": 3,
+  "t": 294,
+  "example": {
+   "en": "But we mainly meant just deep learning on steroids with a lot a lot of GPU and compute.",
+   "vi": "Nhưng chủ yếu chúng ta chỉ muốn nói deep learning được \"tăng lực\" với rất rất nhiều GPU và sức tính toán."
+  }
+ },
+ {
+  "id": "contain",
+  "word": "contain",
+  "ipa": "/kənˈteɪn/",
+  "pos": "v",
+  "vi": "chứa",
+  "part": 3,
+  "t": 299,
+  "example": {
+   "en": "Big data was just data that you store on multiple different servers, because you don't have a single server that can contain it all.",
+   "vi": "Big data chỉ là dữ liệu bạn lưu trên nhiều máy chủ khác nhau, vì không có máy chủ nào chứa hết được."
+  }
+ },
+ {
+  "id": "decade",
+  "word": "decade",
+  "ipa": "/ˈdekeɪd/",
+  "pos": "n",
+  "vi": "thập kỷ",
+  "part": 3,
+  "t": 305,
+  "example": {
+   "en": "But nowadays, my laptop has more storage than a whole complex of servers a decade ago, meaning big data is dead long, long live big data.",
+   "vi": "Nhưng ngày nay, laptop của tôi có dung lượng lưu trữ lớn hơn cả một cụm máy chủ cách đây mười năm, nghĩa là big data đã chết, big data muôn năm."
+  }
+ },
+ {
+  "id": "core-problem",
+  "word": "core problem",
+  "ipa": "/kɔːr ˈprɑːbləm/",
+  "pos": "n",
+  "vi": "vấn đề cốt lõi",
+  "part": 3,
+  "t": 315,
+  "example": {
+   "en": "The core problem here is the core problem of humanity, which is that sometimes we say the same words, but we mean different things, and sometimes we say different words, but we mean the same thing.",
+   "vi": "Vấn đề cốt lõi ở đây cũng là vấn đề cốt lõi của nhân loại: đôi khi chúng ta nói cùng một từ nhưng ý khác nhau, và đôi khi nói những từ khác nhau nhưng lại cùng một ý."
+  }
+ },
+ {
+  "id": "miscommunication",
+  "word": "miscommunication",
+  "ipa": "/ˌmɪskəˌmjuːnɪˈkeɪʃn/",
+  "pos": "n",
+  "vi": "sự hiểu lầm trong giao tiếp",
+  "part": 4,
+  "t": 326,
+  "example": {
+   "en": "And all of miscommunication stems from this.",
+   "vi": "Và mọi sự hiểu lầm đều bắt nguồn từ đó."
+  }
+ },
+ {
+  "id": "stem-from",
+  "word": "stem from",
+  "ipa": "/stem frʌm/",
+  "pos": "phr v",
+  "vi": "bắt nguồn từ",
+  "part": 4,
+  "t": 326,
+  "example": {
+   "en": "And all of miscommunication stems from this.",
+   "vi": "Và mọi sự hiểu lầm đều bắt nguồn từ đó."
+  }
+ },
+ {
+  "id": "figure-out",
+  "word": "figure out",
+  "ipa": "/ˈfɪɡjər aʊt/",
+  "pos": "phr v",
+  "vi": "tìm ra, hiểu ra",
+  "part": 4,
+  "t": 330,
+  "example": {
+   "en": "And in our field, it is important to figure out not just what words people are using, which is what sales heavily focuses on,",
+   "vi": "Và trong ngành của chúng ta, điều quan trọng là phải tìm ra không chỉ những từ người ta dùng, vốn là thứ bộ phận bán hàng rất chú trọng,"
+  }
+ },
+ {
+  "id": "synthetic-data",
+  "word": "synthetic data",
+  "ipa": "/sɪnˈθetɪk ˈdeɪtə/",
+  "pos": "n",
+  "vi": "dữ liệu tổng hợp (nhân tạo)",
+  "part": 4,
+  "t": 359,
+  "example": {
+   "en": "It can mean producing synthetic data of bananas using 3D models. It can mean so many different things, but they all use the same word.",
+   "vi": "Có thể là tạo dữ liệu tổng hợp về quả chuối bằng mô hình 3D. Nó có thể mang rất nhiều nghĩa khác nhau, nhưng tất cả đều dùng cùng một từ."
+  }
+ },
+ {
+  "id": "outsource",
+  "word": "outsource",
+  "ipa": "/ˈaʊtsɔːrs/",
+  "pos": "v",
+  "vi": "thuê ngoài",
+  "part": 4,
+  "t": 375,
+  "example": {
+   "en": "because that job will be outsourced and automated to hell and back by whatever cloud copilot thing they, they buy and or consume.",
+   "vi": "vì công việc đó sẽ bị thuê ngoài và tự động hóa triệt để bởi bất cứ công cụ copilot đám mây nào mà họ mua hoặc sử dụng."
+  }
+ },
+ {
+  "id": "automate",
+  "word": "automate",
+  "ipa": "/ˈɔːtəmeɪt/",
+  "pos": "v",
+  "vi": "tự động hóa",
+  "part": 4,
+  "t": 375,
+  "example": {
+   "en": "because that job will be outsourced and automated to hell and back by whatever cloud copilot thing they, they buy and or consume.",
+   "vi": "vì công việc đó sẽ bị thuê ngoài và tự động hóa triệt để bởi bất cứ công cụ copilot đám mây nào mà họ mua hoặc sử dụng."
+  }
+ },
+ {
+  "id": "the-problem-behind-the-problem",
+  "word": "the problem behind the problem",
+  "ipa": "/ðə ˈprɑːbləm bɪˈhaɪnd ðə ˈprɑːbləm/",
+  "pos": "phrase",
+  "vi": "vấn đề gốc rễ nằm sau vấn đề",
+  "part": 4,
+  "t": 387,
+  "example": {
+   "en": "But the core skill to figure out what the fluff they actually want and need, and what is the problem behind the problem, because if they understood the problem, they wouldn't be hiring you.",
+   "vi": "Nhưng kỹ năng cốt lõi là tìm ra họ thực sự muốn và cần gì, và vấn đề nằm sau vấn đề là gì, vì nếu họ hiểu vấn đề thì họ đã không thuê bạn."
+  }
+ },
+ {
+  "id": "binary-choice",
+  "word": "binary choice",
+  "ipa": "/ˈbaɪnəri tʃɔɪs/",
+  "pos": "n",
+  "vi": "lựa chọn có-hoặc-không",
+  "part": 5,
+  "t": 419,
+  "example": {
+   "en": "Yeah, I always say, I mean, first comment would be it's not a sort of binary choice.",
+   "vi": "Vâng, tôi luôn nói, ý kiến đầu tiên là đây không phải một lựa chọn có-hoặc-không."
+  }
+ },
+ {
+  "id": "business-card",
+  "word": "business card",
+  "ipa": "/ˈbɪznəs kɑːrd/",
+  "pos": "n",
+  "vi": "danh thiếp",
+  "part": 5,
+  "t": 423,
+  "example": {
+   "en": "So I don't think that being an architect is determined by what's on your business card.",
+   "vi": "Tôi không nghĩ việc là một kiến trúc sư được quyết định bởi chức danh trên danh thiếp của bạn."
+  }
+ },
+ {
+  "id": "mindset",
+  "word": "mindset",
+  "ipa": "/ˈmaɪndset/",
+  "pos": "n",
+  "vi": "tư duy",
+  "part": 5,
+  "t": 429,
+  "example": {
+   "en": "So I think it could be a technical product person with a very architecture mindset, right, for me.",
+   "vi": "Theo tôi, đó có thể là một người làm sản phẩm kỹ thuật có tư duy kiến trúc rất rõ."
+  }
+ },
+ {
+  "id": "spot",
+  "word": "spot",
+  "ipa": "/spɑːt/",
+  "pos": "v",
+  "vi": "nhận ra, phát hiện",
+  "part": 5,
+  "t": 436,
+  "example": {
+   "en": "But let me start the other way around. The the bad architects are easier to spot.",
+   "vi": "Nhưng để tôi bắt đầu theo chiều ngược lại. Những kiến trúc sư tồi thì dễ nhận ra hơn."
+  }
+ },
+ {
+  "id": "spew-out",
+  "word": "spew out",
+  "ipa": "/spjuː aʊt/",
+  "pos": "phr v",
+  "vi": "tuôn ra (nhiều lời)",
+  "part": 5,
+  "t": 448,
+  "example": {
+   "en": "It's like people who spew out a lot of buzz where it's, you know, it's like, oh, everything must be cloud native or loosely coupled.",
+   "vi": "Đó là những người tuôn ra cả đống từ thời thượng, kiểu như: ồ, mọi thứ phải cloud native, hoặc phải loosely coupled."
+  }
+ },
+ {
+  "id": "loosely-coupled",
+  "word": "loosely coupled",
+  "ipa": "/ˈluːsli ˈkʌpld/",
+  "pos": "adj",
+  "vi": "liên kết lỏng",
+  "part": 5,
+  "t": 448,
+  "example": {
+   "en": "It's like people who spew out a lot of buzz where it's, you know, it's like, oh, everything must be cloud native or loosely coupled.",
+   "vi": "Đó là những người tuôn ra cả đống từ thời thượng, kiểu như: ồ, mọi thứ phải cloud native, hoặc phải loosely coupled."
+  }
+ },
+ {
+  "id": "mantra",
+  "word": "mantra",
+  "ipa": "/ˈmæntrə/",
+  "pos": "n",
+  "vi": "câu thần chú, phương châm",
+  "part": 5,
+  "t": 472,
+  "example": {
+   "en": "Those I find the not so stellar architects, the, the mantra that we have in the workshop and that I very much follow",
+   "vi": "Tôi thấy đó là những kiến trúc sư không mấy xuất sắc. Câu thần chú mà chúng tôi có trong workshop và tôi rất tâm đắc"
+  }
+ },
+ {
+  "id": "amplifier",
+  "word": "amplifier",
+  "ipa": "/ˈæmplɪfaɪər/",
+  "pos": "n",
+  "vi": "bộ khuếch đại",
+  "part": 5,
+  "t": 480,
+  "example": {
+   "en": "is that architects shouldn't try to be the smartest people, but they should make everybody else smarter. That's an amplifier.",
+   "vi": "là kiến trúc sư không nên cố làm người thông minh nhất, mà nên giúp mọi người khác thông minh hơn. Đó là một bộ khuếch đại."
+  }
+ },
+ {
+  "id": "oracle",
+  "word": "oracle",
+  "ipa": "/ˈɔːrəkl/",
+  "pos": "n",
+  "vi": "nhà tiên tri",
+  "part": 5,
+  "t": 489,
+  "example": {
+   "en": "You don't want to be a kind of oracle. People come with the questions and look for magic answers. Oh, what should we do?",
+   "vi": "Bạn không muốn trở thành một kiểu nhà tiên tri, nơi mọi người mang câu hỏi đến và tìm câu trả lời thần kỳ. Ồ, chúng tôi nên làm gì?"
+  }
+ },
+ {
+  "id": "blind-spot",
+  "word": "blind spot",
+  "ipa": "/ˈblaɪnd spɑːt/",
+  "pos": "n",
+  "vi": "điểm mù",
+  "part": 5,
+  "t": 512,
+  "example": {
+   "en": "You can absorb the context, things that people explain to you, but you can uncover blind spots or maybe help people",
+   "vi": "Bạn có thể nắm được bối cảnh, những điều mọi người giải thích cho bạn, nhưng bạn cũng có thể phát hiện ra những điểm mù, hoặc giúp mọi người"
+  }
+ },
+ {
+  "id": "trade-off",
+  "word": "trade-off",
+  "ipa": "/ˈtreɪd ɔːf/",
+  "pos": "n",
+  "vi": "sự đánh đổi",
+  "part": 5,
+  "t": 519,
+  "example": {
+   "en": "see different points of view, different angles, distill trade offs that they might be implicitly making, but they're not aware of those kind of examples.",
+   "vi": "nhìn từ những quan điểm khác, góc độ khác, chắt lọc ra những đánh đổi mà họ có thể đang ngầm thực hiện nhưng không nhận ra, những ví dụ kiểu như vậy."
+  }
+ },
+ {
+  "id": "ivory-tower",
+  "word": "ivory tower",
+  "ipa": "/ˌaɪvəri ˈtaʊər/",
+  "pos": "n",
+  "vi": "tháp ngà (xa rời thực tế)",
+  "part": 6,
+  "t": 530,
+  "example": {
+   "en": "I think that makes a great architect, and it makes a nice architect if you wish, because you're not trying to be the ivory tower big boss.",
+   "vi": "Tôi nghĩ điều đó tạo nên một kiến trúc sư giỏi, và cũng là một kiến trúc sư dễ mến, vì bạn không cố làm ông sếp lớn ngồi trên tháp ngà."
+  }
+ },
+ {
+  "id": "distinguish",
+  "word": "distinguish",
+  "ipa": "/dɪˈstɪŋɡwɪʃ/",
+  "pos": "v",
+  "vi": "phân biệt",
+  "part": 6,
+  "t": 541,
+  "example": {
+   "en": "Any other foundations or fundamentals you want to highlight that distinguishes great engineers from not so great ones?",
+   "vi": "Còn nền tảng hay yếu tố cơ bản nào khác anh muốn nhấn mạnh, giúp phân biệt kỹ sư giỏi với kỹ sư không giỏi lắm không?"
+  }
+ },
+ {
+  "id": "uniform",
+  "word": "uniform",
+  "ipa": "/ˈjuːnɪfɔːrm/",
+  "pos": "adj",
+  "vi": "đồng nhất",
+  "part": 6,
+  "t": 559,
+  "example": {
+   "en": "our, our engineering culture is relatively, uniform in the sense that when we started, ten years ago, we have a very strong, developer platform that was, developed from the get go.",
+   "vi": "văn hóa kỹ thuật của chúng tôi khá đồng nhất, theo nghĩa là khi bắt đầu mười năm trước, chúng tôi đã có một nền tảng cho developer rất mạnh, được xây dựng ngay từ đầu."
+  }
+ },
+ {
+  "id": "from-the-get-go",
+  "word": "from the get go",
+  "ipa": "/frʌm ðə ˈɡet ɡoʊ/",
+  "pos": "idiom",
+  "vi": "ngay từ đầu",
+  "part": 6,
+  "t": 559,
+  "example": {
+   "en": "our, our engineering culture is relatively, uniform in the sense that when we started, ten years ago, we have a very strong, developer platform that was, developed from the get go.",
+   "vi": "văn hóa kỹ thuật của chúng tôi khá đồng nhất, theo nghĩa là khi bắt đầu mười năm trước, chúng tôi đã có một nền tảng cho developer rất mạnh, được xây dựng ngay từ đầu."
+  }
+ },
+ {
+  "id": "adopt",
+  "word": "adopt",
+  "ipa": "/əˈdɑːpt/",
+  "pos": "v",
+  "vi": "áp dụng",
+  "part": 6,
+  "t": 580,
+  "example": {
+   "en": "So there's a lot of, people trying to adopt new technology just for the sake of it.",
+   "vi": "có rất nhiều người cố áp dụng công nghệ mới chỉ vì nó mới."
+  }
+ },
+ {
+  "id": "for-the-sake-of-it",
+  "word": "for the sake of it",
+  "ipa": "/fər ðə seɪk əv ɪt/",
+  "pos": "idiom",
+  "vi": "chỉ vì muốn thế, không có lý do thực sự",
+  "part": 6,
+  "t": 580,
+  "example": {
+   "en": "So there's a lot of, people trying to adopt new technology just for the sake of it.",
+   "vi": "có rất nhiều người cố áp dụng công nghệ mới chỉ vì nó mới."
+  }
+ },
+ {
+  "id": "jump-on-the-bandwagon",
+  "word": "jump on the bandwagon",
+  "ipa": "/dʒʌmp ɑːn ðə ˈbændwæɡən/",
+  "pos": "idiom",
+  "vi": "chạy theo trào lưu",
+  "part": 6,
+  "t": 599,
+  "example": {
+   "en": "whether it's actually an improvement over work, you have, make very clear also, why did this the case, and not just jump on any, any bandwagon.",
+   "vi": "liệu nó có thực sự tốt hơn thứ bạn đang có không, và làm rõ tại sao lại như vậy, chứ không chỉ chạy theo bất kỳ trào lưu nào."
+  }
+ },
+ {
+  "id": "proven",
+  "word": "proven",
+  "ipa": "/ˈpruːvn/",
+  "pos": "adj",
+  "vi": "đã được chứng minh",
+  "part": 6,
+  "t": 616,
+  "example": {
+   "en": "I don't know it. That sounds very funny. Yeah, yeah. We should have asked this, for, use what works. Use what is proven.",
+   "vi": "Tôi không biết. Nghe vui đấy. Vâng, vâng. Ý chính là: dùng những gì hiệu quả. Dùng những gì đã được chứng minh."
+  }
+ },
+ {
+  "id": "gut-feeling",
+  "word": "gut feeling",
+  "ipa": "/ɡʌt ˈfiːlɪŋ/",
+  "pos": "n",
+  "vi": "cảm giác bản năng",
+  "part": 6,
+  "t": 639,
+  "example": {
+   "en": "And also maybe a bit more of an art than the science sometimes, but precisely. That's kind of, gut feeling.",
+   "vi": "Và có lẽ đôi khi nó là nghệ thuật nhiều hơn là khoa học, đúng vậy. Đó là một kiểu cảm nhận bản năng."
+  }
+ },
+ {
+  "id": "craftsman",
+  "word": "craftsman",
+  "ipa": "/ˈkræftsmən/",
+  "pos": "n",
+  "vi": "người thợ lành nghề",
+  "part": 6,
+  "t": 649,
+  "example": {
+   "en": "I would say that that the knowledge and the wisdom that you have as a, as a, as a craftsman, as an engineer that sets you apart from people who,",
+   "vi": "Tôi cho rằng kiến thức và sự khôn ngoan mà bạn có với tư cách một người thợ lành nghề, một kỹ sư, là thứ giúp bạn khác biệt với những người"
+  }
+ },
+ {
+  "id": "hallmark",
+  "word": "hallmark",
+  "ipa": "/ˈhɔːlmɑːrk/",
+  "pos": "n",
+  "vi": "dấu hiệu đặc trưng",
+  "part": 6,
+  "t": 694,
+  "example": {
+   "en": "I think, one of the hallmarks to go back to your question of a good engineer is to actually also, limit this and, and stick to, yeah, proven things and what works.",
+   "vi": "tôi nghĩ, quay lại câu hỏi của bạn, một trong những dấu hiệu của kỹ sư giỏi là biết hạn chế điều này và gắn bó với những thứ đã được chứng minh, những gì hiệu quả."
+  }
+ },
+ {
+  "id": "iteration",
+  "word": "iteration",
+  "ipa": "/ˌɪtəˈreɪʃn/",
+  "pos": "n",
+  "vi": "phiên bản, vòng phát triển",
+  "part": 7,
+  "t": 712,
+  "example": {
+   "en": "And then stick with it until you actually reach certain limits. And you can kind of based on your usage forecast what the next iteration would be.",
+   "vi": "Rồi giữ nguyên nó cho đến khi thực sự chạm tới giới hạn nhất định. Và dựa trên mức sử dụng, bạn có thể dự đoán phiên bản tiếp theo sẽ thế nào."
+  }
+ },
+ {
+  "id": "forecast",
+  "word": "forecast",
+  "ipa": "/ˈfɔːrkæst/",
+  "pos": "v",
+  "vi": "dự báo",
+  "part": 7,
+  "t": 712,
+  "example": {
+   "en": "And then stick with it until you actually reach certain limits. And you can kind of based on your usage forecast what the next iteration would be.",
+   "vi": "Rồi giữ nguyên nó cho đến khi thực sự chạm tới giới hạn nhất định. Và dựa trên mức sử dụng, bạn có thể dự đoán phiên bản tiếp theo sẽ thế nào."
+  }
+ },
+ {
+  "id": "firm-believer",
+  "word": "firm believer",
+  "ipa": "/fɜːrm bɪˈliːvər/",
+  "pos": "n",
+  "vi": "người tin tưởng mạnh mẽ",
+  "part": 7,
+  "t": 723,
+  "example": {
+   "en": "I would never go and start building for 100 x scale, even if I'm a like a firm believer in my idea and know that it's going to reach the masses and it's going to be global, I would never design for that.",
+   "vi": "tôi sẽ không bao giờ bắt đầu xây dựng cho quy mô gấp 100 lần, kể cả khi tôi rất tin vào ý tưởng của mình và biết nó sẽ đến với đông đảo người dùng, sẽ vươn ra toàn cầu, tôi cũng không bao giờ thiết kế cho điều đó."
+  }
+ },
+ {
+  "id": "reach-the-masses",
+  "word": "reach the masses",
+  "ipa": "/riːtʃ ðə ˈmæsɪz/",
+  "pos": "idiom",
+  "vi": "đến với đông đảo mọi người",
+  "part": 7,
+  "t": 723,
+  "example": {
+   "en": "I would never go and start building for 100 x scale, even if I'm a like a firm believer in my idea and know that it's going to reach the masses and it's going to be global, I would never design for that.",
+   "vi": "tôi sẽ không bao giờ bắt đầu xây dựng cho quy mô gấp 100 lần, kể cả khi tôi rất tin vào ý tưởng của mình và biết nó sẽ đến với đông đảo người dùng, sẽ vươn ra toàn cầu, tôi cũng không bao giờ thiết kế cho điều đó."
+  }
+ },
+ {
+  "id": "replication",
+  "word": "replication",
+  "ipa": "/ˌreplɪˈkeɪʃn/",
+  "pos": "n",
+  "vi": "sự nhân bản dữ liệu",
+  "part": 7,
+  "t": 749,
+  "example": {
+   "en": "Yeah, just start with one, maybe two nodes. Stops replication. That's it. And this will like tell you really, really far to be honest.",
+   "vi": "Vâng, chỉ bắt đầu với một, có thể hai node. Thêm replication. Thế thôi. Và thật lòng mà nói, điều này sẽ đưa bạn đi rất, rất xa."
+  }
+ },
+ {
+  "id": "vertical-scaling",
+  "word": "vertical scaling",
+  "ipa": "/ˈvɜːrtɪkl ˈskeɪlɪŋ/",
+  "pos": "n",
+  "vi": "mở rộng theo chiều dọc (nâng cấp máy)",
+  "part": 7,
+  "t": 765,
+  "example": {
+   "en": "And by the way, vertical scaling can take you a long way. Like you have no idea.",
+   "vi": "Và nhân tiện, mở rộng theo chiều dọc có thể đưa bạn đi rất xa. Xa hơn bạn tưởng nhiều."
+  }
+ },
+ {
+  "id": "sharding",
+  "word": "sharding",
+  "ipa": "/ˈʃɑːrdɪŋ/",
+  "pos": "n",
+  "vi": "chia nhỏ dữ liệu ra nhiều máy",
+  "part": 7,
+  "t": 777,
+  "example": {
+   "en": "So you don't really need to go and start sharding and doing all sorts of fancy stuff.",
+   "vi": "Vì vậy bạn không thực sự cần bắt đầu sharding và làm đủ thứ phức tạp."
+  }
+ },
+ {
+  "id": "fancy",
+  "word": "fancy",
+  "ipa": "/ˈfænsi/",
+  "pos": "adj",
+  "vi": "cầu kỳ, phức tạp",
+  "part": 7,
+  "t": 777,
+  "example": {
+   "en": "So you don't really need to go and start sharding and doing all sorts of fancy stuff.",
+   "vi": "Vì vậy bạn không thực sự cần bắt đầu sharding và làm đủ thứ phức tạp."
+  }
+ },
+ {
+  "id": "horizontal-scaling",
+  "word": "horizontal scaling",
+  "ipa": "/ˌhɔːrɪˈzɑːntl ˈskeɪlɪŋ/",
+  "pos": "n",
+  "vi": "mở rộng theo chiều ngang (thêm máy)",
+  "part": 8,
+  "t": 799,
+  "example": {
+   "en": "You don't need to start doing horizontal scaling before you get you really start hitting these limits.",
+   "vi": "Bạn không cần bắt đầu mở rộng theo chiều ngang trước khi thực sự chạm tới các giới hạn đó."
+  }
+ },
+ {
+  "id": "perfectionist",
+  "word": "perfectionist",
+  "ipa": "/pərˈfekʃənɪst/",
+  "pos": "n",
+  "vi": "người cầu toàn",
+  "part": 8,
+  "t": 804,
+  "example": {
+   "en": "That's what I've seen where it's challenging for people, where they say, okay, I'm a little bit of a perfectionist. I value quality in what I do on a day to day.",
+   "vi": "Đó là điều tôi thấy nhiều người gặp khó khăn, khi họ nói: tôi hơi cầu toàn một chút. Tôi coi trọng chất lượng trong những gì tôi làm hằng ngày."
+  }
+ },
+ {
+  "id": "selfish",
+  "word": "selfish",
+  "ipa": "/ˈselfɪʃ/",
+  "pos": "adj",
+  "vi": "ích kỷ",
+  "part": 8,
+  "t": 819,
+  "example": {
+   "en": "And it's very like if I lay it out like that, it might sound selfish, but those people have no clue that what they're saying is selfish. They genuinely think it's best for the organization.",
+   "vi": "Và nếu tôi trình bày như vậy thì nghe có vẻ ích kỷ, nhưng những người đó không hề biết điều họ nói là ích kỷ. Họ thực lòng nghĩ đó là điều tốt nhất cho tổ chức."
+  }
+ },
+ {
+  "id": "genuinely",
+  "word": "genuinely",
+  "ipa": "/ˈdʒenjuɪnli/",
+  "pos": "adv",
+  "vi": "thật lòng",
+  "part": 8,
+  "t": 819,
+  "example": {
+   "en": "And it's very like if I lay it out like that, it might sound selfish, but those people have no clue that what they're saying is selfish. They genuinely think it's best for the organization.",
+   "vi": "Và nếu tôi trình bày như vậy thì nghe có vẻ ích kỷ, nhưng những người đó không hề biết điều họ nói là ích kỷ. Họ thực lòng nghĩ đó là điều tốt nhất cho tổ chức."
+  }
+ },
+ {
+  "id": "misinformation",
+  "word": "misinformation",
+  "ipa": "/ˌmɪsɪnfərˈmeɪʃn/",
+  "pos": "n",
+  "vi": "thông tin sai lệch",
+  "part": 8,
+  "t": 828,
+  "example": {
+   "en": "It's just some misinformation and misunderstanding because there's a dogmatic aspect of software engineering, and it was perpetuated in the previous era until 2000, 2000",
+   "vi": "Đó chỉ là thông tin sai lệch và hiểu lầm, vì kỹ thuật phần mềm có một khía cạnh giáo điều, và nó được duy trì trong thời kỳ trước, cho tới những năm 2000."
+  }
+ },
+ {
+  "id": "dogmatic",
+  "word": "dogmatic",
+  "ipa": "/dɔːɡˈmætɪk/",
+  "pos": "adj",
+  "vi": "giáo điều",
+  "part": 8,
+  "t": 828,
+  "example": {
+   "en": "It's just some misinformation and misunderstanding because there's a dogmatic aspect of software engineering, and it was perpetuated in the previous era until 2000, 2000",
+   "vi": "Đó chỉ là thông tin sai lệch và hiểu lầm, vì kỹ thuật phần mềm có một khía cạnh giáo điều, và nó được duy trì trong thời kỳ trước, cho tới những năm 2000."
+  }
+ },
+ {
+  "id": "venture-into",
+  "word": "venture into",
+  "ipa": "/ˈventʃər ˈɪntuː/",
+  "pos": "phr v",
+  "vi": "mạo hiểm bước vào",
+  "part": 8,
+  "t": 838,
+  "example": {
+   "en": "I when I ventured into working professionals in 2007, eight nine, there was a lot of dogma, like there's a lot of this is how you do things and this is how you should do things.",
+   "vi": "Khi tôi bắt đầu đi làm chuyên nghiệp vào khoảng 2007, 2008, 2009, có rất nhiều giáo điều, kiểu như: đây là cách làm, và đây là cách bạn phải làm."
+  }
+ },
+ {
+  "id": "elegance",
+  "word": "elegance",
+  "ipa": "/ˈelɪɡəns/",
+  "pos": "n",
+  "vi": "sự thanh lịch",
+  "part": 8,
+  "t": 847,
+  "example": {
+   "en": "And if you do things any other way, you're wrong. Yeah. And part of that is elegance of code. Code cleanliness, code quality.",
+   "vi": "Và nếu bạn làm theo bất kỳ cách nào khác, bạn sai. Vâng. Và một phần trong đó là sự thanh lịch của code. Code sạch, chất lượng code."
+  }
+ },
+ {
+  "id": "maintain",
+  "word": "maintain",
+  "ipa": "/meɪnˈteɪn/",
+  "pos": "v",
+  "vi": "bảo trì",
+  "part": 8,
+  "t": 858,
+  "example": {
+   "en": "And everybody always complained about bad code and horrible code because it was difficult to maintain. Nobody enjoys that.",
+   "vi": "Và ai cũng luôn phàn nàn về code tồi, code kinh khủng, vì nó khó bảo trì. Không ai thích điều đó."
+  }
+ },
+ {
+  "id": "spectrum",
+  "word": "spectrum",
+  "ipa": "/ˈspektrəm/",
+  "pos": "n",
+  "vi": "phổ, dải (từ cực này sang cực kia)",
+  "part": 8,
+  "t": 880,
+  "example": {
+   "en": "And then we ended up on the complete other end of the spectrum, where we tried to clean up everything that we started adopting.",
+   "vi": "Rồi chúng ta lại rơi vào thái cực hoàn toàn ngược lại, khi cố làm sạch mọi thứ và bắt đầu áp dụng"
+  }
+ },
+ {
+  "id": "abstraction",
+  "word": "abstraction",
+  "ipa": "/æbˈstrækʃn/",
+  "pos": "n",
+  "vi": "sự trừu tượng, lớp trừu tượng",
+  "part": 8,
+  "t": 886,
+  "example": {
+   "en": "All sorts of design, overcomplicated abstractions that are are just horrible to me. Horrible to reason about.",
+   "vi": "đủ loại design pattern, những lớp trừu tượng quá phức tạp mà với tôi thật kinh khủng. Rất khó để suy luận."
+  }
+ },
+ {
+  "id": "reason-about",
+  "word": "reason about",
+  "ipa": "/ˈriːzn əˈbaʊt/",
+  "pos": "phr v",
+  "vi": "suy luận về",
+  "part": 8,
+  "t": 886,
+  "example": {
+   "en": "All sorts of design, overcomplicated abstractions that are are just horrible to me. Horrible to reason about.",
+   "vi": "đủ loại design pattern, những lớp trừu tượng quá phức tạp mà với tôi thật kinh khủng. Rất khó để suy luận."
+  }
+ },
+ {
+  "id": "in-your-face",
+  "word": "in your face",
+  "ipa": "/ɪn jʊr ˈfeɪs/",
+  "pos": "idiom",
+  "vi": "hiện ra rõ ràng ngay trước mắt",
+  "part": 9,
+  "t": 920,
+  "example": {
+   "en": "It's amazing. It's dumb. You don't have to think too much. It's just all in your face.",
+   "vi": "Nó tuyệt vời. Nó \"ngốc\". Bạn không phải nghĩ nhiều. Mọi thứ đều hiện ra ngay trước mắt."
+  }
+ },
+ {
+  "id": "trace",
+  "word": "trace",
+  "ipa": "/treɪs/",
+  "pos": "v",
+  "vi": "lần theo",
+  "part": 9,
+  "t": 926,
+  "example": {
+   "en": "Whenever you want to understand how something is built, you just trace it wrong. It's there, it's there. Fantastic.",
+   "vi": "Bất cứ khi nào muốn hiểu thứ gì đó được xây dựng thế nào, bạn chỉ cần lần theo nó. Nó ở đó, ngay đó. Tuyệt vời."
+  }
+ },
+ {
+  "id": "edge-case",
+  "word": "edge case",
+  "ipa": "/ˈedʒ keɪs/",
+  "pos": "n",
+  "vi": "trường hợp biên",
+  "part": 9,
+  "t": 939,
+  "example": {
+   "en": "I don't want to think about edge cases.",
+   "vi": "Tôi không muốn nghĩ về các trường hợp biên."
+  }
+ },
+ {
+  "id": "memory-leak",
+  "word": "memory leak",
+  "ipa": "/ˈmeməri liːk/",
+  "pos": "n",
+  "vi": "rò rỉ bộ nhớ",
+  "part": 9,
+  "t": 950,
+  "example": {
+   "en": "Memory leaks happen often, and they are very catastrophic at scale. I don't want to think about these things.",
+   "vi": "Rò rỉ bộ nhớ xảy ra thường xuyên, và chúng cực kỳ tai hại ở quy mô lớn. Tôi không muốn nghĩ về những thứ đó."
+  }
+ },
+ {
+  "id": "catastrophic",
+  "word": "catastrophic",
+  "ipa": "/ˌkætəˈstrɑːfɪk/",
+  "pos": "adj",
+  "vi": "thảm khốc, tai hại",
+  "part": 9,
+  "t": 950,
+  "example": {
+   "en": "Memory leaks happen often, and they are very catastrophic at scale. I don't want to think about these things.",
+   "vi": "Rò rỉ bộ nhớ xảy ra thường xuyên, và chúng cực kỳ tai hại ở quy mô lớn. Tôi không muốn nghĩ về những thứ đó."
+  }
+ },
+ {
+  "id": "garbage-collector",
+  "word": "garbage collector",
+  "ipa": "/ˈɡɑːrbɪdʒ kəˈlektər/",
+  "pos": "n",
+  "vi": "bộ thu gom rác (bộ nhớ)",
+  "part": 9,
+  "t": 957,
+  "example": {
+   "en": "I don't want to think about how my garbage collector is going to, you know, shut down the whole world and start causing multi second latency on my API requests, which at scale again become a gigantic problem for me.",
+   "vi": "Tôi không muốn nghĩ về việc bộ thu gom rác sẽ, bạn biết đấy, dừng cả thế giới lại và gây độ trễ nhiều giây cho các request API, điều mà ở quy mô lớn lại trở thành vấn đề khổng lồ."
+  }
+ },
+ {
+  "id": "latency",
+  "word": "latency",
+  "ipa": "/ˈleɪtənsi/",
+  "pos": "n",
+  "vi": "độ trễ",
+  "part": 9,
+  "t": 957,
+  "example": {
+   "en": "I don't want to think about how my garbage collector is going to, you know, shut down the whole world and start causing multi second latency on my API requests, which at scale again become a gigantic problem for me.",
+   "vi": "Tôi không muốn nghĩ về việc bộ thu gom rác sẽ, bạn biết đấy, dừng cả thế giới lại và gây độ trễ nhiều giây cho các request API, điều mà ở quy mô lớn lại trở thành vấn đề khổng lồ."
+  }
+ },
+ {
+  "id": "evolve",
+  "word": "evolve",
+  "ipa": "/ɪˈvɑːlv/",
+  "pos": "v",
+  "vi": "phát triển, tiến hóa",
+  "part": 9,
+  "t": 968,
+  "example": {
+   "en": "I just want things to be simple, easy to reason about and that's it. What is then your perspective on building systems that can evolve?",
+   "vi": "Tôi chỉ muốn mọi thứ đơn giản, dễ suy luận, vậy thôi. Vậy quan điểm của anh về việc xây dựng hệ thống có khả năng phát triển là gì?"
+  }
+ },
+ {
+  "id": "revamp",
+  "word": "revamp",
+  "ipa": "/ˌriːˈvæmp/",
+  "pos": "v",
+  "vi": "cải tổ, làm lại",
+  "part": 9,
+  "t": 977,
+  "example": {
+   "en": "Because some people you can say, okay, this is the system design that we have and we're going to continue on this until we reach a certain level of scale, and then we're going to revamp and say this would be the next iteration.",
+   "vi": "Vì có người sẽ nói: đây là thiết kế hệ thống của chúng ta, ta sẽ tiếp tục với nó cho tới khi đạt quy mô nhất định, rồi sẽ làm lại và đó sẽ là phiên bản tiếp theo."
+  }
+ },
+ {
+  "id": "mentality",
+  "word": "mentality",
+  "ipa": "/menˈtæləti/",
+  "pos": "n",
+  "vi": "tư duy, lối nghĩ",
+  "part": 10,
+  "t": 1017,
+  "example": {
+   "en": "That's what that's how that was the design mentality.",
+   "vi": "Đó là tư duy thiết kế thời đó."
+  }
+ },
+ {
+  "id": "order-of-magnitude",
+  "word": "order of magnitude",
+  "ipa": "/ˈɔːrdər əv ˈmæɡnɪtuːd/",
+  "pos": "n",
+  "vi": "bậc độ lớn (gấp 10 lần)",
+  "part": 10,
+  "t": 1025,
+  "example": {
+   "en": "So I would always come with the mindset that I'm just going to design for the next order of magnitude, and then I'm going to evolve it from there, and that's going to require another round of investment.",
+   "vi": "Vì vậy tôi luôn mang tư duy: tôi chỉ thiết kế cho bậc quy mô tiếp theo (gấp 10 lần), rồi sẽ phát triển tiếp từ đó, và điều đó sẽ cần thêm một vòng đầu tư nữa."
+  }
+ },
+ {
+  "id": "continual",
+  "word": "continual",
+  "ipa": "/kənˈtɪnjuəl/",
+  "pos": "adj",
+  "vi": "liên tục",
+  "part": 10,
+  "t": 1034,
+  "example": {
+   "en": "There's going to be continual investments in this and that business people are not going to love this, because that makes accounting much harder.",
+   "vi": "Sẽ có những khoản đầu tư liên tục, và dân kinh doanh sẽ không thích điều này, vì nó khiến việc kế toán khó hơn nhiều."
+  }
+ },
+ {
+  "id": "anticipate",
+  "word": "anticipate",
+  "ipa": "/ænˈtɪsɪpeɪt/",
+  "pos": "v",
+  "vi": "lường trước",
+  "part": 10,
+  "t": 1042,
+  "example": {
+   "en": "That makes strategic finance much harder because they cannot predict or anticipate the costs that might come in the future. They cannot extrapolate from today.",
+   "vi": "Nó khiến việc hoạch định tài chính chiến lược khó hơn nhiều vì họ không thể dự đoán chi phí trong tương lai. Họ không thể ngoại suy từ hiện tại."
+  }
+ },
+ {
+  "id": "extrapolate",
+  "word": "extrapolate",
+  "ipa": "/ɪkˈstræpəleɪt/",
+  "pos": "v",
+  "vi": "ngoại suy",
+  "part": 10,
+  "t": 1042,
+  "example": {
+   "en": "That makes strategic finance much harder because they cannot predict or anticipate the costs that might come in the future. They cannot extrapolate from today.",
+   "vi": "Nó khiến việc hoạch định tài chính chiến lược khó hơn nhiều vì họ không thể dự đoán chi phí trong tương lai. Họ không thể ngoại suy từ hiện tại."
+  }
+ },
+ {
+  "id": "fuzziness",
+  "word": "fuzziness",
+  "ipa": "/ˈfʌzinəs/",
+  "pos": "n",
+  "vi": "sự mơ hồ",
+  "part": 10,
+  "t": 1050,
+  "example": {
+   "en": "You know, they don't like this fuzziness software. It's all risk. Yes.",
+   "vi": "Bạn biết đấy, họ không thích sự mơ hồ này của phần mềm. Toàn là rủi ro. Đúng vậy."
+  }
+ },
+ {
+  "id": "bottom-line",
+  "word": "bottom line",
+  "ipa": "/ˌbɑːtəm ˈlaɪn/",
+  "pos": "n",
+  "vi": "lợi nhuận ròng",
+  "part": 10,
+  "t": 1054,
+  "example": {
+   "en": "So and also like they cannot calculate like their bottom line or projections for the future, which are things that are very realistic,",
+   "vi": "Và họ cũng không thể tính được lợi nhuận hay dự báo cho tương lai, vốn là những nhu cầu rất thực tế,"
+  }
+ },
+ {
+  "id": "projection",
+  "word": "projection",
+  "ipa": "/prəˈdʒekʃn/",
+  "pos": "n",
+  "vi": "dự báo, dự phóng",
+  "part": 10,
+  "t": 1054,
+  "example": {
+   "en": "So and also like they cannot calculate like their bottom line or projections for the future, which are things that are very realistic,",
+   "vi": "Và họ cũng không thể tính được lợi nhuận hay dự báo cho tương lai, vốn là những nhu cầu rất thực tế,"
+  }
+ },
+ {
+  "id": "publicly-traded",
+  "word": "publicly traded",
+  "ipa": "/ˈpʌblɪkli ˈtreɪdɪd/",
+  "pos": "adj",
+  "vi": "được niêm yết công khai",
+  "part": 10,
+  "t": 1060,
+  "example": {
+   "en": "like publicly, publicly traded companies want to be able to do these projections, and they want to be able to say that, hey, we're not going to be spending more here",
+   "vi": "ví dụ các công ty niêm yết muốn đưa ra được những dự báo đó, và họ muốn có thể nói: chúng tôi sẽ không chi nhiều hơn"
+  }
+ },
+ {
+  "id": "revenue",
+  "word": "revenue",
+  "ipa": "/ˈrevənuː/",
+  "pos": "n",
+  "vi": "doanh thu",
+  "part": 10,
+  "t": 1069,
+  "example": {
+   "en": "than on evolving our software, but we're going to make much more revenue and increase our bottom line and margin. That's what businesses look for. So it's understandable.",
+   "vi": "cho việc phát triển phần mềm, nhưng sẽ tạo ra nhiều doanh thu hơn, tăng lợi nhuận và biên lợi nhuận. Đó là điều doanh nghiệp tìm kiếm. Nên cũng dễ hiểu."
+  }
+ },
+ {
+  "id": "margin",
+  "word": "margin",
+  "ipa": "/ˈmɑːrdʒɪn/",
+  "pos": "n",
+  "vi": "biên lợi nhuận",
+  "part": 10,
+  "t": 1069,
+  "example": {
+   "en": "than on evolving our software, but we're going to make much more revenue and increase our bottom line and margin. That's what businesses look for. So it's understandable.",
+   "vi": "cho việc phát triển phần mềm, nhưng sẽ tạo ra nhiều doanh thu hơn, tăng lợi nhuận và biên lợi nhuận. Đó là điều doanh nghiệp tìm kiếm. Nên cũng dễ hiểu."
+  }
+ },
+ {
+  "id": "revisit",
+  "word": "revisit",
+  "ipa": "/ˌriːˈvɪzɪt/",
+  "pos": "v",
+  "vi": "xem xét lại",
+  "part": 10,
+  "t": 1080,
+  "example": {
+   "en": "And I think the only approachable way, which is something we do at GitHub, is to continuously revisit these investments on a quarterly by quarterly half a year or a year basis.",
+   "vi": "Và tôi nghĩ cách khả thi duy nhất, điều chúng tôi làm ở GitHub, là liên tục xem xét lại các khoản đầu tư này theo từng quý, nửa năm hoặc mỗi năm."
+  }
+ },
+ {
+  "id": "standpoint",
+  "word": "standpoint",
+  "ipa": "/ˈstændpɔɪnt/",
+  "pos": "n",
+  "vi": "quan điểm, góc độ",
+  "part": 11,
+  "t": 1104,
+  "example": {
+   "en": "Also, from a business standpoint, how would I, for example, say we're going to design for this until we reach scale and then we're going to need to revamp.",
+   "vi": "Ngoài ra, từ góc độ kinh doanh, làm sao tôi có thể nói, ví dụ, chúng ta sẽ thiết kế cho mức này đến khi đạt quy mô, rồi sẽ cần làm lại."
+  }
+ },
+ {
+  "id": "entail",
+  "word": "entail",
+  "ipa": "/ɪnˈteɪl/",
+  "pos": "v",
+  "vi": "kéo theo",
+  "part": 11,
+  "t": 1111,
+  "example": {
+   "en": "And this is what that's going to entail for people that don't understand how to build software, understand the business constraints.",
+   "vi": "Và điều đó sẽ kéo theo những gì, với những người không hiểu cách xây dựng phần mềm, mà chỉ hiểu các ràng buộc kinh doanh."
+  }
+ },
+ {
+  "id": "constraint",
+  "word": "constraint",
+  "ipa": "/kənˈstreɪnt/",
+  "pos": "n",
+  "vi": "ràng buộc",
+  "part": 11,
+  "t": 1111,
+  "example": {
+   "en": "And this is what that's going to entail for people that don't understand how to build software, understand the business constraints.",
+   "vi": "Và điều đó sẽ kéo theo những gì, với những người không hiểu cách xây dựng phần mềm, mà chỉ hiểu các ràng buộc kinh doanh."
+  }
+ },
+ {
+  "id": "convince",
+  "word": "convince",
+  "ipa": "/kənˈvɪns/",
+  "pos": "v",
+  "vi": "thuyết phục",
+  "part": 11,
+  "t": 1117,
+  "example": {
+   "en": "So they're never going to be able to convince the business folks about how something technically there's just it's too abstract, even if it feels too intuitive for us, for them, it's magic.",
+   "vi": "Bạn sẽ không bao giờ thuyết phục được dân kinh doanh bằng chi tiết kỹ thuật, nó quá trừu tượng, dù với chúng ta nó rất trực quan, thì với họ đó là phép màu."
+  }
+ },
+ {
+  "id": "intuitive",
+  "word": "intuitive",
+  "ipa": "/ɪnˈtuːɪtɪv/",
+  "pos": "adj",
+  "vi": "trực quan",
+  "part": 11,
+  "t": 1117,
+  "example": {
+   "en": "So they're never going to be able to convince the business folks about how something technically there's just it's too abstract, even if it feels too intuitive for us, for them, it's magic.",
+   "vi": "Bạn sẽ không bao giờ thuyết phục được dân kinh doanh bằng chi tiết kỹ thuật, nó quá trừu tượng, dù với chúng ta nó rất trực quan, thì với họ đó là phép màu."
+  }
+ },
+ {
+  "id": "comprehend",
+  "word": "comprehend",
+  "ipa": "/ˌkɑːmprɪˈhend/",
+  "pos": "v",
+  "vi": "hiểu thấu",
+  "part": 11,
+  "t": 1130,
+  "example": {
+   "en": "And even if they try to understand how things work, they're never going to comprehend the magnitude of problems.",
+   "vi": "Và kể cả khi họ cố hiểu mọi thứ hoạt động thế nào, họ cũng sẽ không bao giờ hiểu được tầm cỡ của các vấn đề."
+  }
+ },
+ {
+  "id": "intuition",
+  "word": "intuition",
+  "ipa": "/ˌɪntuˈɪʃn/",
+  "pos": "n",
+  "vi": "trực giác",
+  "part": 11,
+  "t": 1136,
+  "example": {
+   "en": "And they're never going to have this intuition about how software is and how not hard, you know, how how evolve abilities.",
+   "vi": "Và họ sẽ không bao giờ có trực giác về phần mềm, về độ khó của nó, về khả năng phát triển của nó."
+  }
+ },
+ {
+  "id": "assimilate",
+  "word": "assimilate",
+  "ipa": "/əˈsɪməleɪt/",
+  "pos": "v",
+  "vi": "tiếp thu",
+  "part": 11,
+  "t": 1153,
+  "example": {
+   "en": "It's easier for you to acquire or assimilate some of the not everything some of the business constraints and discuss them from that perspective.",
+   "vi": "Bạn tiếp thu một số, không phải tất cả, ràng buộc kinh doanh rồi thảo luận từ góc nhìn đó thì dễ hơn."
+  }
+ },
+ {
+  "id": "container-terminal",
+  "word": "container terminal",
+  "ipa": "/kənˈteɪnər ˈtɜːrmɪnl/",
+  "pos": "n",
+  "vi": "cảng container",
+  "part": 12,
+  "t": 1170,
+  "example": {
+   "en": "So for example, I used to work in the container terminal industry for a while. We built a huge container terminal.",
+   "vi": "Ví dụ, tôi từng làm trong ngành cảng container một thời gian. Chúng tôi đã xây dựng một cảng container khổng lồ."
+  }
+ },
+ {
+  "id": "furnish",
+  "word": "furnish",
+  "ipa": "/ˈfɜːrnɪʃ/",
+  "pos": "v",
+  "vi": "trang bị",
+  "part": 12,
+  "t": 1178,
+  "example": {
+   "en": "We furnished everything from the fiber optics layer all the way to the three tier data center.",
+   "vi": "Chúng tôi trang bị mọi thứ, từ lớp cáp quang cho đến trung tâm dữ liệu cấp Tier 3."
+  }
+ },
+ {
+  "id": "hazardous",
+  "word": "hazardous",
+  "ipa": "/ˈhæzərdəs/",
+  "pos": "adj",
+  "vi": "nguy hiểm",
+  "part": 12,
+  "t": 1190,
+  "example": {
+   "en": "One of the most hazardous as well.",
+   "vi": "Và cũng là một trong những nơi nguy hiểm nhất."
+  }
+ },
+ {
+  "id": "dock",
+  "word": "dock",
+  "ipa": "/dɑːk/",
+  "pos": "v",
+  "vi": "cập cảng",
+  "part": 12,
+  "t": 1205,
+  "example": {
+   "en": "All they care about is. I have a ship here, was docked. There's, like, 10,000 containers on it. I need to empty them into my yard.",
+   "vi": "Tất cả những gì họ quan tâm là: tôi có một con tàu vừa cập cảng. Có khoảng 10.000 container trên đó. Tôi cần dỡ hết chúng vào bãi."
+  }
+ },
+ {
+  "id": "capacity",
+  "word": "capacity",
+  "ipa": "/kəˈpæsəti/",
+  "pos": "n",
+  "vi": "công suất",
+  "part": 12,
+  "t": 1212,
+  "example": {
+   "en": "I have a very fixed window of time. And if I don't do it in that window of time, this is going to cost me money. We were operating at 12% capacity.",
+   "vi": "Tôi có một khung thời gian rất cố định. Và nếu không làm xong trong khung thời gian đó, tôi sẽ mất tiền. Lúc đó chúng tôi mới vận hành ở 12% công suất."
+  }
+ },
+ {
+  "id": "life-threatening",
+  "word": "life threatening",
+  "ipa": "/ˈlaɪf θretnɪŋ/",
+  "pos": "adj",
+  "vi": "đe dọa tính mạng",
+  "part": 12,
+  "t": 1244,
+  "example": {
+   "en": "And sometimes it's life threatening impact, right.",
+   "vi": "Và đôi khi đó là tác động đe dọa tính mạng."
+  }
+ },
+ {
+  "id": "malfunction",
+  "word": "malfunction",
+  "ipa": "/ˌmælˈfʌŋkʃn/",
+  "pos": "v",
+  "vi": "trục trặc",
+  "part": 12,
+  "t": 1256,
+  "example": {
+   "en": "You cannot really have your software malfunction at this point.",
+   "vi": "Bạn không thể để phần mềm trục trặc vào thời điểm đó."
+  }
+ },
+ {
+  "id": "sloppiness",
+  "word": "sloppiness",
+  "ipa": "/ˈslɑːpinəs/",
+  "pos": "n",
+  "vi": "sự cẩu thả",
+  "part": 12,
+  "t": 1259,
+  "example": {
+   "en": "So sloppiness of the software sub millisecond latencies, all of these things matter, right? So you need to approach the discussions with the stakeholders. Yes.",
+   "vi": "Vì vậy sự cẩu thả của phần mềm, độ trễ dưới một mili giây, tất cả những điều đó đều quan trọng. Vậy bạn cần tiếp cận các cuộc thảo luận với các bên liên quan. Đúng vậy."
+  }
+ },
+ {
+  "id": "scorching-heat",
+  "word": "scorching heat",
+  "ipa": "/ˈskɔːrtʃɪŋ hiːt/",
+  "pos": "n",
+  "vi": "cái nóng như thiêu đốt",
+  "part": 12,
+  "t": 1281,
+  "example": {
+   "en": "So a truck driver who's driving a truck for six, seven, eight hours, and it was in Saudi Arabia in scorching heat, it's",
+   "vi": "Một tài xế xe tải lái xe sáu, bảy, tám tiếng, ở Ả Rập Xê Út dưới cái nóng như thiêu đốt,"
+  }
+ },
+ {
+  "id": "vantage-point",
+  "word": "vantage point",
+  "ipa": "/ˈvæntɪdʒ pɔɪnt/",
+  "pos": "n",
+  "vi": "góc nhìn, vị trí quan sát",
+  "part": 12,
+  "t": 1300,
+  "example": {
+   "en": "And then when you do you can start approaching discussions from that vantage point. And this applies to banks. This applies to hospitals to any other industry.",
+   "vi": "Và khi đã hiểu, bạn có thể bắt đầu tiếp cận các cuộc thảo luận từ góc nhìn đó. Điều này áp dụng cho ngân hàng, bệnh viện, cho bất kỳ ngành nào khác."
+  }
+ },
+ {
+  "id": "bombard",
+  "word": "bombard",
+  "ipa": "/bɑːmˈbɑːrd/",
+  "pos": "v",
+  "vi": "dội bom, tấn công dồn dập",
+  "part": 12,
+  "t": 1320,
+  "example": {
+   "en": "When you were speaking about hard skills, how much of an enterprise architecture or being an architect in essence, has changed nowadays because I feel like I get bombarded with tools.",
+   "vi": "Khi nói về kỹ năng cứng, kiến trúc doanh nghiệp, hay bản chất của việc làm kiến trúc sư, đã thay đổi bao nhiêu ngày nay? Vì tôi cảm thấy mình bị dội bom bởi đủ loại công cụ."
+  }
+ },
+ {
+  "id": "assumption",
+  "word": "assumption",
+  "ipa": "/əˈsʌmpʃn/",
+  "pos": "n",
+  "vi": "giả định",
+  "part": 13,
+  "t": 1350,
+  "example": {
+   "en": "So there's a couple of assumptions that architects used to be able to make to make their lives easier, that no longer hold.",
+   "vi": "Có một vài giả định mà trước đây kiến trúc sư có thể đặt ra để cuộc sống dễ dàng hơn, nay không còn đúng nữa."
+  }
+ },
+ {
+  "id": "snapshot",
+  "word": "snapshot",
+  "ipa": "/ˈsnæpʃɑːt/",
+  "pos": "v",
+  "vi": "chụp nhanh (trạng thái)",
+  "part": 13,
+  "t": 1359,
+  "example": {
+   "en": "The one is like snapshotting like the world is moving too fast to be able to pretend. It's like, okay, let's just assume nothing changes.",
+   "vi": "Một là kiểu \"chụp nhanh\" hiện trạng. Thế giới chuyển động quá nhanh để có thể giả vờ kiểu: thôi, cứ giả sử không có gì thay đổi."
+  }
+ },
+ {
+  "id": "landscape",
+  "word": "landscape",
+  "ipa": "/ˈlændskeɪp/",
+  "pos": "n",
+  "vi": "bức tranh toàn cảnh",
+  "part": 13,
+  "t": 1371,
+  "example": {
+   "en": "So that, for example, means exercises like trying to draw a giant ID landscape,",
+   "vi": "Ví dụ, điều đó có nghĩa là những việc như cố vẽ một bức tranh toàn cảnh IT khổng lồ,"
+  }
+ },
+ {
+  "id": "catalog",
+  "word": "catalog",
+  "ipa": "/ˈkætəlɔːɡ/",
+  "pos": "v",
+  "vi": "lập danh mục",
+  "part": 13,
+  "t": 1378,
+  "example": {
+   "en": "you know, or cataloging all the applications you have and putting that into some tool, taking a few months for that. Yeah. And then a few months by the time you're done.",
+   "vi": "hoặc lập danh mục tất cả ứng dụng bạn có rồi đưa vào một công cụ nào đó, mất vài tháng để làm. Vâng. Và sau vài tháng, khi bạn làm xong,"
+  }
+ },
+ {
+  "id": "cartographer",
+  "word": "cartographer",
+  "ipa": "/kɑːrˈtɑːɡrəfər/",
+  "pos": "n",
+  "vi": "người vẽ bản đồ",
+  "part": 13,
+  "t": 1387,
+  "example": {
+   "en": "So for me, the assumption of being able to snapshot and being, I call this the cartographer, being the person who makes all the great landscapes, that is very useful.",
+   "vi": "Với tôi, giả định có thể chụp nhanh hiện trạng, và làm người mà tôi gọi là \"nhà vẽ bản đồ\", người vẽ nên những bức tranh toàn cảnh tuyệt vời, điều đó rất hữu ích."
+  }
+ },
+ {
+  "id": "metaphor",
+  "word": "metaphor",
+  "ipa": "/ˈmetəfɔːr/",
+  "pos": "n",
+  "vi": "ẩn dụ",
+  "part": 13,
+  "t": 1402,
+  "example": {
+   "en": "So one of the metaphors I use, which captures the changing role for enterprise architects, is rather than trying to be the cartographer who walks around with a giant map of all the pieces, you need to be much more like a scout.",
+   "vi": "Một ẩn dụ tôi hay dùng để mô tả vai trò đang thay đổi của kiến trúc sư doanh nghiệp là: thay vì cố làm nhà vẽ bản đồ đi khắp nơi với tấm bản đồ khổng lồ chứa mọi thứ, bạn cần giống một trinh sát hơn nhiều."
+  }
+ },
+ {
+  "id": "scout",
+  "word": "scout",
+  "ipa": "/skaʊt/",
+  "pos": "n",
+  "vi": "trinh sát",
+  "part": 13,
+  "t": 1402,
+  "example": {
+   "en": "So one of the metaphors I use, which captures the changing role for enterprise architects, is rather than trying to be the cartographer who walks around with a giant map of all the pieces, you need to be much more like a scout.",
+   "vi": "Một ẩn dụ tôi hay dùng để mô tả vai trò đang thay đổi của kiến trúc sư doanh nghiệp là: thay vì cố làm nhà vẽ bản đồ đi khắp nơi với tấm bản đồ khổng lồ chứa mọi thứ, bạn cần giống một trinh sát hơn nhiều."
+  }
+ },
+ {
+  "id": "objective",
+  "word": "objective",
+  "ipa": "/əbˈdʒektɪv/",
+  "pos": "n",
+  "vi": "mục tiêu",
+  "part": 13,
+  "t": 1415,
+  "example": {
+   "en": "You have an objective in mind.",
+   "vi": "Bạn có một mục tiêu trong đầu."
+  }
+ },
+ {
+  "id": "situational",
+  "word": "situational",
+  "ipa": "/ˌsɪtʃuˈeɪʃənl/",
+  "pos": "adj",
+  "vi": "theo tình huống",
+  "part": 13,
+  "t": 1438,
+  "example": {
+   "en": "Yes. The enemy. The bridge is gone, but he is not. So DB, we can cross there. We can go right. Whatever it is. Right? But they have a very situational.",
+   "vi": "Kẻ thù ở đây. Cây cầu đã mất, nhưng chỗ này nước cạn, ta có thể vượt qua đó. Ta có thể đi bên phải. Đại loại vậy. Bản đồ của họ rất sát với tình huống."
+  }
+ },
+ {
+  "id": "depict",
+  "word": "depict",
+  "ipa": "/dɪˈpɪkt/",
+  "pos": "v",
+  "vi": "mô tả, thể hiện",
+  "part": 13,
+  "t": 1454,
+  "example": {
+   "en": "They only depict what's relevant to your move.",
+   "vi": "Nó chỉ thể hiện những gì liên quan đến bước đi của bạn."
+  }
+ },
+ {
+  "id": "viable",
+  "word": "viable",
+  "ipa": "/ˈvaɪəbl/",
+  "pos": "adj",
+  "vi": "khả thi",
+  "part": 13,
+  "t": 1457,
+  "example": {
+   "en": "And I think that is becoming a more viable metaphor of what enterprise architects should do.",
+   "vi": "Và tôi nghĩ đó đang trở thành ẩn dụ phù hợp hơn cho những gì kiến trúc sư doanh nghiệp nên làm."
+  }
+ },
+ {
+  "id": "purpose-driven",
+  "word": "purpose driven",
+  "ipa": "/ˈpɜːrpəs ˈdrɪvn/",
+  "pos": "adj",
+  "vi": "hướng mục đích",
+  "part": 13,
+  "t": 1498,
+  "example": {
+   "en": "Is that just another form of workflow integration or is that something novel? Right. Give me a point of view, but is very purpose driven.",
+   "vi": "Đó chỉ là một dạng tích hợp quy trình khác hay là thứ gì đó mới mẻ? Hãy cho tôi một quan điểm, nhưng phải rất có mục đích."
+  }
+ },
+ {
+  "id": "subject-matter",
+  "word": "subject matter",
+  "ipa": "/ˈsʌbdʒɪkt ˈmætər/",
+  "pos": "n",
+  "vi": "chuyên môn, nội dung chủ đề",
+  "part": 13,
+  "t": 1507,
+  "example": {
+   "en": "And as you will quickly see, you can only do that if you understand the subject matter right. You can sort of, wave your way through that.",
+   "vi": "Và bạn sẽ nhanh chóng thấy rằng bạn chỉ làm được điều đó nếu thực sự hiểu chuyên môn. Bạn không thể nói lấy lệ cho qua."
+  }
+ },
+ {
+  "id": "timely",
+  "word": "timely",
+  "ipa": "/ˈtaɪmli/",
+  "pos": "adj",
+  "vi": "kịp thời",
+  "part": 14,
+  "t": 1549,
+  "example": {
+   "en": "It's got to be situational and timely.",
+   "vi": "Nó phải sát với tình huống và kịp thời."
+  }
+ },
+ {
+  "id": "historian",
+  "word": "historian",
+  "ipa": "/hɪˈstɔːriən/",
+  "pos": "n",
+  "vi": "nhà sử học",
+  "part": 14,
+  "t": 1552,
+  "example": {
+   "en": "Otherwise it becomes hard work and we might like our ad work, but obviously we're not a museum. No. The it. Yeah, it's it can't be a historian. Yeah, exactly.",
+   "vi": "Nếu không, nó trở thành tác phẩm nghệ thuật, và có thể ta thích tác phẩm của mình, nhưng rõ ràng ta không phải viện bảo tàng. Không. Bộ phận IT không thể làm nhà sử học. Vâng, chính xác."
+  }
+ },
+ {
+  "id": "transparency",
+  "word": "transparency",
+  "ipa": "/trænsˈpærənsi/",
+  "pos": "n",
+  "vi": "sự minh bạch",
+  "part": 14,
+  "t": 1566,
+  "example": {
+   "en": "They help us make better decisions, get better decision, transparency and discipline. So aid the decision is, is clearer.",
+   "vi": "Chúng giúp ta ra quyết định tốt hơn, quyết định minh bạch và có kỷ luật hơn. Để quyết định được rõ ràng hơn."
+  }
+ },
+ {
+  "id": "discipline",
+  "word": "discipline",
+  "ipa": "/ˈdɪsəplɪn/",
+  "pos": "n",
+  "vi": "kỷ luật",
+  "part": 14,
+  "t": 1566,
+  "example": {
+   "en": "They help us make better decisions, get better decision, transparency and discipline. So aid the decision is, is clearer.",
+   "vi": "Chúng giúp ta ra quyết định tốt hơn, quyết định minh bạch và có kỷ luật hơn. Để quyết định được rõ ràng hơn."
+  }
+ },
+ {
+  "id": "on-the-same-page",
+  "word": "on the same page",
+  "ipa": "/ɑːn ðə seɪm peɪdʒ/",
+  "pos": "idiom",
+  "vi": "hiểu ý nhau, thống nhất",
+  "part": 14,
+  "t": 1574,
+  "example": {
+   "en": "And everybody's on the same page to what the decision was. Actually what drove the decision. What trade offs are we willing to make.",
+   "vi": "Và mọi người đều hiểu như nhau về quyết định là gì. Điều gì thực sự dẫn đến quyết định đó. Ta sẵn sàng chấp nhận những đánh đổi nào."
+  }
+ },
+ {
+  "id": "a-means-to-an-end",
+  "word": "a means to an end",
+  "ipa": "/ə miːnz tu ən end/",
+  "pos": "idiom",
+  "vi": "phương tiện để đạt mục đích",
+  "part": 14,
+  "t": 1582,
+  "example": {
+   "en": "That's what I think the value and that the picture just has to be a means to that end. If that end isn't there, the picture is also worthless.",
+   "vi": "Theo tôi đó là giá trị, và bức tranh chỉ là phương tiện để đạt mục đích đó. Nếu không có mục đích, bức tranh cũng vô giá trị."
+  }
+ },
+ {
+  "id": "worthless",
+  "word": "worthless",
+  "ipa": "/ˈwɜːrθləs/",
+  "pos": "adj",
+  "vi": "vô giá trị",
+  "part": 14,
+  "t": 1582,
+  "example": {
+   "en": "That's what I think the value and that the picture just has to be a means to that end. If that end isn't there, the picture is also worthless.",
+   "vi": "Theo tôi đó là giá trị, và bức tranh chỉ là phương tiện để đạt mục đích đó. Nếu không có mục đích, bức tranh cũng vô giá trị."
+  }
+ },
+ {
+  "id": "obsolete",
+  "word": "obsolete",
+  "ipa": "/ˌɑːbsəˈliːt/",
+  "pos": "adj",
+  "vi": "lỗi thời",
+  "part": 15,
+  "t": 1609,
+  "example": {
+   "en": "That step is now changing and people are asking, well, what do I do then to make myself not obsolete?",
+   "vi": "Bước đó giờ đang thay đổi, và mọi người hỏi: vậy tôi phải làm gì để mình không bị lỗi thời?"
+  }
+ },
+ {
+  "id": "soft-skills",
+  "word": "soft skills",
+  "ipa": "/sɔːft skɪlz/",
+  "pos": "n",
+  "vi": "kỹ năng mềm",
+  "part": 15,
+  "t": 1614,
+  "example": {
+   "en": "And we're talking about anything with regards to communication and soft skills and learning. I agree with all of that.",
+   "vi": "Chúng ta đã nói về mọi thứ liên quan đến giao tiếp, kỹ năng mềm và việc học. Tôi đồng ý với tất cả những điều đó."
+  }
+ },
+ {
+  "id": "gray-area",
+  "word": "gray area",
+  "ipa": "/ˈɡreɪ ˌeriə/",
+  "pos": "n",
+  "vi": "vùng xám (chưa rõ ràng)",
+  "part": 15,
+  "t": 1625,
+  "example": {
+   "en": "Okay, how do you go from junior to actually in the end, becoming a senior because it's such a gray area that I don't know yet.",
+   "vi": "Làm sao để đi từ junior đến cuối cùng trở thành senior, vì đó là vùng xám mà tôi vẫn chưa rõ."
+  }
+ },
+ {
+  "id": "open-minded",
+  "word": "open minded",
+  "ipa": "/ˌoʊpən ˈmaɪndɪd/",
+  "pos": "adj",
+  "vi": "cởi mở",
+  "part": 15,
+  "t": 1630,
+  "example": {
+   "en": "I feel like we're really figuring things out, and the only advice that I have is be as open minded as you can. Try and familiarize, familiarize yourself with a lot of things.",
+   "vi": "Tôi cảm thấy chúng ta vẫn đang tìm hiểu, và lời khuyên duy nhất tôi có là hãy cởi mở hết mức có thể. Hãy cố làm quen với thật nhiều thứ."
+  }
+ },
+ {
+  "id": "familiarize-yourself-with",
+  "word": "familiarize yourself with",
+  "ipa": "/fəˈmɪliəraɪz jərˈself wɪð/",
+  "pos": "v",
+  "vi": "làm quen với",
+  "part": 15,
+  "t": 1630,
+  "example": {
+   "en": "I feel like we're really figuring things out, and the only advice that I have is be as open minded as you can. Try and familiarize, familiarize yourself with a lot of things.",
+   "vi": "Tôi cảm thấy chúng ta vẫn đang tìm hiểu, và lời khuyên duy nhất tôi có là hãy cởi mở hết mức có thể. Hãy cố làm quen với thật nhiều thứ."
+  }
+ },
+ {
+  "id": "foundational-knowledge",
+  "word": "foundational knowledge",
+  "ipa": "/faʊnˈdeɪʃənl ˈnɑːlɪdʒ/",
+  "pos": "n",
+  "vi": "kiến thức nền tảng",
+  "part": 15,
+  "t": 1639,
+  "example": {
+   "en": "Try and build as much foundational knowledge as you can because tooling does change. I'm wondering what your perspective is on that. Don't be a fool with a tool.",
+   "vi": "Hãy cố xây dựng càng nhiều kiến thức nền tảng càng tốt vì công cụ thì luôn thay đổi. Tôi muốn biết quan điểm của anh về điều đó. Đừng làm kẻ ngốc chỉ biết một công cụ."
+  }
+ },
+ {
+  "id": "a-fool-with-a-tool",
+  "word": "a fool with a tool",
+  "ipa": "/ə fuːl wɪð ə tuːl/",
+  "pos": "idiom",
+  "vi": "kẻ ngốc chỉ biết một công cụ",
+  "part": 16,
+  "t": 1652,
+  "example": {
+   "en": "I got started my career some over nine years ago. Got don't be a fool with a tool",
+   "vi": "Khi tôi bắt đầu sự nghiệp hơn chín năm trước, tôi được dặn: đừng làm kẻ ngốc chỉ biết một công cụ."
+  }
+ },
+ {
+  "id": "double-down-on",
+  "word": "double down on",
+  "ipa": "/ˌdʌbl ˈdaʊn ɑːn/",
+  "pos": "phr v",
+  "vi": "dốc sức hơn nữa vào",
+  "part": 16,
+  "t": 1689,
+  "example": {
+   "en": "But I knew people who doubled down on only learning selenium and all the ins and outs, but selenium was open source and it was great.",
+   "vi": "Nhưng tôi biết có người dốc sức chỉ học Selenium với mọi ngóc ngách của nó. Selenium là mã nguồn mở và nó rất tuyệt."
+  }
+ },
+ {
+  "id": "ins-and-outs",
+  "word": "ins and outs",
+  "ipa": "/ˌɪnz ən ˈaʊts/",
+  "pos": "idiom",
+  "vi": "mọi ngóc ngách, chi tiết",
+  "part": 16,
+  "t": 1689,
+  "example": {
+   "en": "But I knew people who doubled down on only learning selenium and all the ins and outs, but selenium was open source and it was great.",
+   "vi": "Nhưng tôi biết có người dốc sức chỉ học Selenium với mọi ngóc ngách của nó. Selenium là mã nguồn mở và nó rất tuyệt."
+  }
+ },
+ {
+  "id": "open-source",
+  "word": "open source",
+  "ipa": "/ˌoʊpən ˈsɔːrs/",
+  "pos": "adj",
+  "vi": "mã nguồn mở",
+  "part": 16,
+  "t": 1689,
+  "example": {
+   "en": "But I knew people who doubled down on only learning selenium and all the ins and outs, but selenium was open source and it was great.",
+   "vi": "Nhưng tôi biết có người dốc sức chỉ học Selenium với mọi ngóc ngách của nó. Selenium là mã nguồn mở và nó rất tuyệt."
+  }
+ },
+ {
+  "id": "sue",
+  "word": "sue",
+  "ipa": "/suː/",
+  "pos": "v",
+  "vi": "kiện",
+  "part": 16,
+  "t": 1698,
+  "example": {
+   "en": "But then the blue prism came in, which was basically the, the company, or the company organization equivalent of it, but it was reliable because you could sue somebody if it didn't work.",
+   "vi": "Nhưng rồi Blue Prism xuất hiện, về cơ bản là phiên bản dành cho doanh nghiệp, nhưng nó đáng tin cậy vì bạn có thể kiện ai đó nếu nó không chạy."
+  }
+ },
+ {
+  "id": "explicit",
+  "word": "explicit",
+  "ipa": "/ɪkˈsplɪsɪt/",
+  "pos": "adj",
+  "vi": "tường minh, rõ ràng",
+  "part": 16,
+  "t": 1737,
+  "example": {
+   "en": "I think it, we are switching from an explicit knowledge economy to an implicit knowledge economy, and our education systems haven't adjusted to that.",
+   "vi": "Tôi nghĩ chúng ta đang chuyển từ nền kinh tế tri thức tường minh sang nền kinh tế tri thức ngầm, và hệ thống giáo dục của chúng ta chưa thích nghi với điều đó."
+  }
+ },
+ {
+  "id": "implicit",
+  "word": "implicit",
+  "ipa": "/ɪmˈplɪsɪt/",
+  "pos": "adj",
+  "vi": "ngầm, ẩn",
+  "part": 16,
+  "t": 1737,
+  "example": {
+   "en": "I think it, we are switching from an explicit knowledge economy to an implicit knowledge economy, and our education systems haven't adjusted to that.",
+   "vi": "Tôi nghĩ chúng ta đang chuyển từ nền kinh tế tri thức tường minh sang nền kinh tế tri thức ngầm, và hệ thống giáo dục của chúng ta chưa thích nghi với điều đó."
+  }
+ },
+ {
+  "id": "memorize",
+  "word": "memorize",
+  "ipa": "/ˈmeməraɪz/",
+  "pos": "v",
+  "vi": "ghi nhớ, học thuộc",
+  "part": 16,
+  "t": 1750,
+  "example": {
+   "en": "Yeah, that the worth of knowing stuff in your head, memorizing it, that worth is only going down.",
+   "vi": "Vâng, giá trị của việc biết mọi thứ trong đầu, ghi nhớ chúng, giá trị đó chỉ ngày càng giảm."
+  }
+ },
+ {
+  "id": "disinformation",
+  "word": "disinformation",
+  "ipa": "/ˌdɪsɪnfərˈmeɪʃn/",
+  "pos": "n",
+  "vi": "tin giả (có chủ đích)",
+  "part": 16,
+  "t": 1771,
+  "example": {
+   "en": "but the value of that of finding stuff in large amounts of information that is only going up, especially in the age of disinformation, because we are drowning it in the information.",
+   "vi": "giá trị của việc tìm ra điều cần thiết trong khối thông tin khổng lồ chỉ ngày càng tăng, đặc biệt trong thời đại tin giả, vì chúng ta đang chìm ngập trong thông tin."
+  }
+ },
+ {
+  "id": "drown-in",
+  "word": "drown in",
+  "ipa": "/draʊn ɪn/",
+  "pos": "v",
+  "vi": "chìm ngập trong",
+  "part": 16,
+  "t": 1771,
+  "example": {
+   "en": "but the value of that of finding stuff in large amounts of information that is only going up, especially in the age of disinformation, because we are drowning it in the information.",
+   "vi": "giá trị của việc tìm ra điều cần thiết trong khối thông tin khổng lồ chỉ ngày càng tăng, đặc biệt trong thời đại tin giả, vì chúng ta đang chìm ngập trong thông tin."
+  }
+ },
+ {
+  "id": "scarce",
+  "word": "scarce",
+  "ipa": "/skers/",
+  "pos": "adj",
+  "vi": "khan hiếm",
+  "part": 17,
+  "t": 1783,
+  "example": {
+   "en": "But truth and wisdom has only increased, invaluable, and has become relatively more scarce,",
+   "vi": "Nhưng sự thật và sự khôn ngoan thì ngày càng quý giá, và trở nên khan hiếm hơn,"
+  }
+ },
+ {
+  "id": "flood",
+  "word": "flood",
+  "ipa": "/flʌd/",
+  "pos": "v",
+  "vi": "tràn ngập",
+  "part": 17,
+  "t": 1791,
+  "example": {
+   "en": "because now there's more bots and more fake stuff flooding in the internet than actual real stuff.",
+   "vi": "vì giờ đây bot và nội dung giả tràn ngập internet nhiều hơn nội dung thật."
+  }
+ },
+ {
+  "id": "deep-fake",
+  "word": "deep fake",
+  "ipa": "/ˈdiːp feɪk/",
+  "pos": "n",
+  "vi": "nội dung giả mạo bằng AI",
+  "part": 17,
+  "t": 1798,
+  "example": {
+   "en": "And the only way we can still distinguish truth from fake, because I see so many deep fakes now of Zelenskyy, of booting of F-35s",
+   "vi": "Và cách duy nhất chúng ta còn phân biệt được thật và giả, vì tôi thấy rất nhiều deepfake về Zelensky, về Putin, về những chiếc F-35"
+  }
+ },
+ {
+  "id": "cockpit",
+  "word": "cockpit",
+  "ipa": "/ˈkɑːkpɪt/",
+  "pos": "n",
+  "vi": "buồng lái",
+  "part": 17,
+  "t": 1807,
+  "example": {
+   "en": "that crashed in Iran, and we could only tell they were fake because there was still a human in the cockpit because they forgot to prompt it removes the human from the cockpit.",
+   "vi": "bị rơi ở Iran, và ta chỉ nhận ra chúng giả vì vẫn còn người trong buồng lái, do họ quên ra lệnh cho AI xóa người khỏi buồng lái."
+  }
+ },
+ {
+  "id": "triangulate",
+  "word": "triangulate",
+  "ipa": "/traɪˈæŋɡjuleɪt/",
+  "pos": "v",
+  "vi": "đối chiếu từ nhiều nguồn",
+  "part": 17,
+  "t": 1821,
+  "example": {
+   "en": "So what we need to learn again, because learning is important, is to triangulate information to figure out what's real.",
+   "vi": "Vì vậy điều chúng ta cần học, lại là học, vì việc học rất quan trọng, là đối chiếu thông tin từ nhiều nguồn để tìm ra đâu là thật."
+  }
+ },
+ {
+  "id": "regurgitate",
+  "word": "regurgitate",
+  "ipa": "/rɪˈɡɜːrdʒɪteɪt/",
+  "pos": "v",
+  "vi": "lặp lại như vẹt",
+  "part": 17,
+  "t": 1828,
+  "example": {
+   "en": "And this is why I, I'm frustrated with modern media and journalism that thinks that just regurgitating and repeating what no lie or say is somehow journalism.",
+   "vi": "Và đó là lý do tôi thất vọng với truyền thông và báo chí hiện đại, khi họ nghĩ rằng chỉ cần lặp lại những gì người khác nói là làm báo."
+  }
+ },
+ {
+  "id": "frustrated",
+  "word": "frustrated",
+  "ipa": "/ˈfrʌstreɪtɪd/",
+  "pos": "adj",
+  "vi": "bực bội, thất vọng",
+  "part": 17,
+  "t": 1828,
+  "example": {
+   "en": "And this is why I, I'm frustrated with modern media and journalism that thinks that just regurgitating and repeating what no lie or say is somehow journalism.",
+   "vi": "Và đó là lý do tôi thất vọng với truyền thông và báo chí hiện đại, khi họ nghĩ rằng chỉ cần lặp lại những gì người khác nói là làm báo."
+  }
+ },
+ {
+  "id": "quote",
+  "word": "quote",
+  "ipa": "/kwoʊt/",
+  "pos": "n",
+  "vi": "câu trích dẫn",
+  "part": 18,
+  "t": 1838,
+  "example": {
+   "en": "I forgot the quote, but somebody once wrote this if one source tells you it's raining and the other says they're sunshine, your job as a journalist is not to report both, but to open a damn window.",
+   "vi": "Tôi quên mất câu trích dẫn chính xác, nhưng có người từng viết: nếu một nguồn nói trời đang mưa còn nguồn khác nói trời nắng, việc của nhà báo không phải là đưa tin cả hai, mà là mở cái cửa sổ ra mà nhìn."
+  }
+ },
+ {
+  "id": "leverage",
+  "word": "leverage",
+  "ipa": "/ˈlevərɪdʒ/",
+  "pos": "v",
+  "vi": "tận dụng",
+  "part": 18,
+  "t": 1866,
+  "example": {
+   "en": "And I would achieve my goal in a different manner with people from your perspective that start learning now, should they leverage AI tooling or how can they use it to learn effectively?",
+   "vi": "Tôi sẽ đạt mục tiêu theo một cách khác. Theo anh, những người bắt đầu học bây giờ có nên tận dụng công cụ AI không, hay họ có thể dùng nó thế nào để học hiệu quả?"
+  }
+ },
+ {
+  "id": "validation",
+  "word": "validation",
+  "ipa": "/ˌvælɪˈdeɪʃn/",
+  "pos": "n",
+  "vi": "sự kiểm chứng",
+  "part": 18,
+  "t": 1889,
+  "example": {
+   "en": "I would more use it as, a tool for validation rather than something for, for you can generate things. Right.",
+   "vi": "Nhưng tôi sẽ dùng nó như một công cụ để kiểm chứng hơn là một thứ để sinh ra mọi thứ cho bạn."
+  }
+ },
+ {
+  "id": "extend",
+  "word": "extend",
+  "ipa": "/ɪkˈstend/",
+  "pos": "v",
+  "vi": "mở rộng",
+  "part": 18,
+  "t": 1897,
+  "example": {
+   "en": "So if you are not able to actually explain what comes out of this model, and then if you are not able to understand why the code is there, then you will have a very rough problem also maintaining that and extending that.",
+   "vi": "Nếu bạn không giải thích được những gì model đưa ra, và nếu bạn không hiểu vì sao đoạn code lại ở đó, thì bạn sẽ gặp vấn đề rất lớn khi bảo trì và mở rộng nó."
+  }
+ },
+ {
+  "id": "trip-up",
+  "word": "trip up",
+  "ipa": "/trɪp ʌp/",
+  "pos": "phr v",
+  "vi": "mắc lỗi, vấp",
+  "part": 18,
+  "t": 1915,
+  "example": {
+   "en": "But it doesn't need there, there is, there will be a gap of understanding where the model tripped up and you are not able to get it, catch it.",
+   "vi": "Nhưng sẽ luôn có một khoảng trống hiểu biết, chỗ mà model mắc lỗi và bạn không thể nhận ra, không bắt được nó."
+  }
+ },
+ {
+  "id": "gap",
+  "word": "gap",
+  "ipa": "/ɡæp/",
+  "pos": "n",
+  "vi": "khoảng trống",
+  "part": 18,
+  "t": 1915,
+  "example": {
+   "en": "But it doesn't need there, there is, there will be a gap of understanding where the model tripped up and you are not able to get it, catch it.",
+   "vi": "Nhưng sẽ luôn có một khoảng trống hiểu biết, chỗ mà model mắc lỗi và bạn không thể nhận ra, không bắt được nó."
+  }
+ },
+ {
+  "id": "validate",
+  "word": "validate",
+  "ipa": "/ˈvælɪdeɪt/",
+  "pos": "v",
+  "vi": "kiểm chứng",
+  "part": 18,
+  "t": 1923,
+  "example": {
+   "en": "So use, use AI models to validate your understanding. Try to, generate maybe a few things and see.",
+   "vi": "Vì vậy hãy dùng các model AI để kiểm chứng sự hiểu biết của bạn. Thử sinh ra vài thứ và xem."
+  }
+ },
+ {
+  "id": "in-the-long-run",
+  "word": "in the long run",
+  "ipa": "/ɪn ðə lɔːŋ rʌn/",
+  "pos": "idiom",
+  "vi": "về lâu dài",
+  "part": 18,
+  "t": 1957,
+  "example": {
+   "en": "You can also use very much to change of course, and to just so I step all of this hard work of trying to do a sentence. But I don't think that will, in the long run, help you.",
+   "vi": "Tất nhiên bạn cũng có thể dùng nó để bỏ qua tất cả những công sức vất vả. Nhưng tôi không nghĩ về lâu dài điều đó sẽ giúp ích cho bạn."
+  }
+ }
+]

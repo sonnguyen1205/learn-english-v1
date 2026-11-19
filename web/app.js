@@ -90,6 +90,7 @@
       seek: (t) => { if (ytReady) yt.seekTo(part.start + t, true); },
       play: () => ytReady && yt.playVideo(),
       pause: () => ytReady && yt.pauseVideo(),
+      isYouTube: true,
       paused: () => !ytReady || yt.getPlayerState() !== 1,
       setRate: (r) => { rate = r; if (ytReady) yt.setPlaybackRate(r); },
     };
@@ -251,6 +252,7 @@
     }
     syncLine(false);
     updateNowPlaying();
+    if (player.isYouTube && $("#loop-part").checked && t >= partLen(p) - 0.3) { player.seek(0); return; }
     if (t >= partLen(p) - 0.5 && !(state.done || {})[p.id]) {
       state.done = state.done || {}; state.done[p.id] = true; saveNow();
     }
@@ -282,9 +284,16 @@
     video.addEventListener("pause", saveNow);
     video.addEventListener("seeked", saveNow);
     video.addEventListener("ended", () => {
+      if ($("#loop-part").checked) { player.seek(0); player.play(); return; }
       saveNow();
       if (current < lesson.parts.length - 1) selectPart(current + 1, true);
     });
+    for (const id of ["loop-line", "loop-part"]) {
+      $("#" + id).checked = !!(state.loops || {})[id];
+      $("#" + id).addEventListener("change", (e) => {
+        state.loops = { ...(state.loops || {}), [id]: e.target.checked }; store(state);
+      });
+    }
     setInterval(tick, 200);
     saveTimer = setInterval(saveNow, 3000);
     window.addEventListener("pagehide", saveNow);
@@ -307,6 +316,16 @@
     state = load();
     lang = state.lang || "en";
     current = Math.min(state.part || 0, lesson.parts.length - 1);
+    const jump = /(?:^|[#&])t=(\d+(?:\.\d+)?)/.exec(location.hash);
+    if (jump) {
+      const t = +jump[1];
+      const i = lesson.parts.findIndex((p) => t >= p.start && t < p.end);
+      if (i >= 0) {
+        current = i;
+        state.times = { ...(state.times || {}), [lesson.parts[i].id]: Math.max(0, t - lesson.parts[i].start - 0.3) };
+      }
+      history.replaceState(null, "", location.pathname);
+    }
 
     const useLocal = lesson.parts.every((p) => p.file);
     renderParts();

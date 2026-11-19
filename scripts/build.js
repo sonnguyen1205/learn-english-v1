@@ -1,4 +1,4 @@
-// Build web/data/lesson.json + cut.bat (Windows) + cut.sh from data/transcript_*.txt
+// Build web/data/lesson.json + web/data/vocab.json + cut.bat (Windows) + cut.sh from data/transcript_*.txt
 //
 // Transcript format:
 //   ## Part title
@@ -60,5 +60,27 @@ fs.writeFileSync(path.join(ROOT, "cut.sh"),
   ["#!/usr/bin/env bash", "set -e", "mkdir -p web/media", ...lesson.parts.map((p, i) => `# ${p.id}. ${p.title}\n` + cmd("ffmpeg -y", "/")[i])].join("\n") + "\n");
 fs.chmodSync(path.join(ROOT, "cut.sh"), 0o755);
 
+// ---- vocab.json: each word is linked to the transcript line at its timestamp
+const vocab = [];
+const all = lesson.parts.flatMap((p) => p.lines.map((l) => ({ ...l, abs: p.start + l.start, part: p.id })));
+const hasWord = (text, word) => word.toLowerCase().split(/[^a-z]+/).filter(Boolean)
+  .every((w) => text.toLowerCase().includes(w.slice(0, Math.min(w.length, 5))));
+const vf = path.join(ROOT, "data", "vocab.txt");
+if (fs.existsSync(vf)) {
+  for (const raw of fs.readFileSync(vf, "utf8").split(/\r?\n/)) {
+    if (!raw.trim() || raw.startsWith("#")) continue;
+    const [word, ipa, pos, vi, ts] = raw.split("|").map((x) => x.trim());
+    const t = secs(ts);
+    const cands = all.filter((l) => l.abs === t);
+    const line = cands.find((l) => hasWord(l.en, word)) || cands[0];
+    if (!line) { console.warn(`! vocab "${word}": no transcript line at ${ts}`); continue; }
+    if (!hasWord(line.en, word)) console.warn(`! vocab "${word}": not found in line at ${ts}`);
+    vocab.push({ id: word.toLowerCase().replace(/[^a-z0-9]+/g, "-"), word, ipa, pos, vi,
+                 part: line.part, t, example: { en: line.en, vi: line.vi } });
+  }
+  fs.writeFileSync(path.join(ROOT, "web", "data", "vocab.json"), JSON.stringify(vocab, null, 1));
+}
+
 console.log(`${lesson.parts.length} parts, ${lesson.parts.reduce((n, p) => n + p.lines.length, 0)} lines`);
-console.log("-> web/data/lesson.json, cut.bat, cut.sh");
+console.log(`${vocab.length} vocabulary words`);
+console.log("-> web/data/lesson.json, web/data/vocab.json, cut.bat, cut.sh");
