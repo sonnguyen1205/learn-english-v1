@@ -1,0 +1,1789 @@
+{
+ "videoId": "OkXuLNAjrSg",
+ "title": "What World Class Software Engineers Do That You Don't",
+ "channel": "Beyond Coding",
+ "parts": [
+  {
+   "id": 1,
+   "title": "Why You Should Increase Your Breadth, Not Just Focus",
+   "start": 21,
+   "end": 136,
+   "file": "media/part_01.mp4",
+   "lines": [
+    {
+     "start": 0,
+     "end": 8,
+     "en": "What they need to do beyond coding What is your advice for people that really want to become great software engineers?",
+     "vi": "Họ cần làm gì ngoài việc viết code? Lời khuyên của anh cho những ai thực sự muốn trở thành kỹ sư phần mềm giỏi là gì?"
+    },
+    {
+     "start": 8,
+     "end": 16,
+     "en": "What they need to do. Increase your breath. There's a lot of focus on that. Early on in your career, which is important.",
+     "vi": "Họ cần làm gì ư? Hãy mở rộng tầm hiểu biết. Mọi người tập trung rất nhiều vào điều đó ở giai đoạn đầu sự nghiệp, và điều đó quan trọng."
+    },
+    {
+     "start": 16,
+     "end": 23,
+     "en": "And there's an advice that perpetuates which says, focus. True - focus.",
+     "vi": "Và có một lời khuyên cứ được truyền tai nhau, đó là: hãy tập trung. Đúng vậy - tập trung."
+    },
+    {
+     "start": 23,
+     "end": 27,
+     "en": "But at the same time, don't dismiss everything else that's happening. Increase your breadth.",
+     "vi": "Nhưng đồng thời, đừng gạt bỏ mọi thứ khác đang diễn ra. Hãy mở rộng tầm hiểu biết."
+    },
+    {
+     "start": 27,
+     "end": 37,
+     "en": "Personally, I optimized one thing that really got me far, which is having the ability to learn effectively in very short periods of time.",
+     "vi": "Cá nhân tôi đã tối ưu một thứ giúp tôi tiến rất xa, đó là khả năng học hiệu quả trong khoảng thời gian rất ngắn."
+    },
+    {
+     "start": 37,
+     "end": 45,
+     "en": "And that's why whenever I tackle a problem, I don't have a problem digging very deep into anything new I encounter.",
+     "vi": "Và đó là lý do mỗi khi giải quyết một vấn đề, tôi không ngại đào thật sâu vào bất cứ điều gì mới mà tôi gặp."
+    },
+    {
+     "start": 45,
+     "end": 52,
+     "en": "From quantum mechanics all the way to any technical problem that I face on a day to day basis.",
+     "vi": "Từ cơ học lượng tử cho đến bất kỳ vấn đề kỹ thuật nào tôi gặp hằng ngày."
+    },
+    {
+     "start": 52,
+     "end": 58,
+     "en": "I'm a, you know, I mean, if I say drop out, I never finished my computer science education,",
+     "vi": "Tôi là, bạn biết đấy, nói là bỏ học cũng được, tôi chưa bao giờ học xong ngành khoa học máy tính,"
+    },
+    {
+     "start": 58,
+     "end": 67,
+     "en": "but that did not deter me from picking up that education myself and really digging deep into all sorts of theoretical topics, but also practical areas and topics.",
+     "vi": "nhưng điều đó không ngăn tôi tự học lấy kiến thức đó và đào sâu vào đủ loại chủ đề lý thuyết, lẫn các lĩnh vực và chủ đề thực tiễn."
+    },
+    {
+     "start": 67,
+     "end": 70,
+     "en": "And I'm a perpetual learner.",
+     "vi": "Và tôi là người học suốt đời."
+    },
+    {
+     "start": 70,
+     "end": 78,
+     "en": "So in my opinion, the next phase where we're heading is going to require people to be able to learn really fast,",
+     "vi": "Vì vậy theo tôi, giai đoạn tiếp theo mà chúng ta đang hướng tới sẽ đòi hỏi mọi người phải học thật nhanh,"
+    },
+    {
+     "start": 78,
+     "end": 86,
+     "en": "get out of their comfort zone really fast, dig deep really fast, and attain high levels of functional proficiency in any new area.",
+     "vi": "bước ra khỏi vùng an toàn thật nhanh, đào sâu thật nhanh, và đạt mức thành thạo cao để làm việc được trong bất kỳ lĩnh vực mới nào."
+    },
+    {
+     "start": 86,
+     "end": 90,
+     "en": "And then attaining mastery is not always required in everything.",
+     "vi": "Còn việc đạt đến mức tinh thông thì không phải lúc nào cũng cần cho mọi thứ."
+    },
+    {
+     "start": 90,
+     "end": 95,
+     "en": "So just pick a few topics where you attain mastery end, but also increase your breadth.",
+     "vi": "Vậy hãy chọn vài chủ đề để trở nên tinh thông, nhưng đồng thời mở rộng tầm hiểu biết."
+    },
+    {
+     "start": 95,
+     "end": 100,
+     "en": "And if we are talking about the skills that are for the future, you're saying technology accelerates quite quickly.",
+     "vi": "Và nếu nói về những kỹ năng cho tương lai, anh nói công nghệ đang tăng tốc khá nhanh."
+    },
+    {
+     "start": 100,
+     "end": 109,
+     "en": "What are some of the skills that you think people should focus on specifically for their career, but also for like peace of fulfillment and looking towards the future? The ability to learn?",
+     "vi": "Theo anh, mọi người nên tập trung vào những kỹ năng nào, cụ thể cho sự nghiệp, nhưng cũng để cảm thấy trọn vẹn và hướng tới tương lai? Khả năng học hỏi chăng?"
+    },
+    {
+     "start": 109,
+     "end": 115,
+     "en": "First and foremost, none of the tools I work with I learned, I learned as free as people.",
+     "vi": "Trước hết, không công cụ nào tôi đang dùng là thứ tôi được học ở trường, tôi đều tự học."
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "title": "The Only Skill That Survives Every Tech Cycle",
+   "start": 136,
+   "end": 255,
+   "file": "media/part_02.mp4",
+   "lines": [
+    {
+     "start": 0,
+     "end": 4,
+     "en": "Back in the day, some at some people in the audience will be cringing right now.",
+     "vi": "Ngày xưa, chắc vài người đang xem sẽ thấy ngượng thay cho tôi lúc này."
+    },
+    {
+     "start": 4,
+     "end": 10,
+     "en": "SPSS taught myself, to scrape Twitter back before it became shitter.",
+     "vi": "Tôi tự học SPSS, tự học cách thu thập dữ liệu từ Twitter hồi nó còn chưa trở nên tệ hại."
+    },
+    {
+     "start": 10,
+     "end": 21,
+     "en": "And to to model the 2013 14 Syrian refugee crisis. I hated Putin before I knew where Ukraine was on the map.",
+     "vi": "Và để mô hình hóa cuộc khủng hoảng người tị nạn Syria năm 2013-2014. Tôi ghét Putin trước cả khi biết Ukraine nằm ở đâu trên bản đồ."
+    },
+    {
+     "start": 21,
+     "end": 30,
+     "en": "But from I went into Python and now Python is the end all be all. But I'm from an era where people were still asking like, are you sure?",
+     "vi": "Rồi tôi chuyển sang Python, và giờ Python là thứ \"nhất\" rồi. Nhưng tôi đến từ thời mà người ta vẫn còn hỏi kiểu: bạn có chắc không?"
+    },
+    {
+     "start": 30,
+     "end": 35,
+     "en": "Should you be learning SAS because SAS is better in the market? Right now.",
+     "vi": "Có nên học SAS không, vì SAS đang được thị trường chuộng hơn? Ngay lúc này."
+    },
+    {
+     "start": 35,
+     "end": 45,
+     "en": "So God knows what we'll be using in 10 in 10 years, unless all the all the limbs start overfitting on on just languages that are already in use.",
+     "vi": "Nên có trời mới biết 10 năm nữa chúng ta sẽ dùng gì, trừ khi tất cả các LLM bắt đầu \"overfit\" vào những ngôn ngữ đang được dùng sẵn."
+    },
+    {
+     "start": 45,
+     "end": 50,
+     "en": "We might actually see a stagnation in the development, in the development of coding languages.",
+     "vi": "Có khi chúng ta sẽ thấy sự trì trệ trong việc phát triển các ngôn ngữ lập trình."
+    },
+    {
+     "start": 50,
+     "end": 63,
+     "en": "Now, since Claude and Gemini will not be able to adapt to new languages as much as produce more Java whores, meaning we will be stuck with Java until the he death of the universe, I'm pretty sure.",
+     "vi": "Vì Claude và Gemini sẽ không thích nghi được với ngôn ngữ mới bằng việc sinh thêm thật nhiều code Java, nghĩa là chúng ta sẽ kẹt với Java cho đến ngày tận thế của vũ trụ, tôi khá chắc vậy."
+    },
+    {
+     "start": 63,
+     "end": 73,
+     "en": "But what I'm trying to show here is that those tools, those techniques, cloud platforms, they change so fast that you can't focus on learning a technique.",
+     "vi": "Nhưng điều tôi muốn nói là các công cụ, kỹ thuật, nền tảng đám mây đó thay đổi nhanh đến mức bạn không thể chỉ tập trung học một kỹ thuật."
+    },
+    {
+     "start": 73,
+     "end": 81,
+     "en": "You gotta learn a method to learn new stuff that is the most single and most important skill in the entire tech field.",
+     "vi": "Bạn phải học một phương pháp để học cái mới, đó là kỹ năng duy nhất và quan trọng nhất trong toàn bộ ngành công nghệ."
+    },
+    {
+     "start": 81,
+     "end": 88,
+     "en": "To be able to learn, not even master, but just work with new tech. Anytime I have a new project.",
+     "vi": "Có khả năng học, thậm chí không cần tinh thông, chỉ cần làm việc được với công nghệ mới. Mỗi khi tôi có dự án mới."
+    },
+    {
+     "start": 88,
+     "end": 91,
+     "en": "Oh god, it's a new cloud platform I haven't worked with.",
+     "vi": "Trời ơi, lại là một nền tảng đám mây mới mà tôi chưa từng dùng."
+    },
+    {
+     "start": 91,
+     "end": 96,
+     "en": "Okay, well, at AWS Google Azure I'm pretty sure it has most of the same functionalities. Jade.",
+     "vi": "Được thôi, AWS, Google, Azure, tôi khá chắc chúng có hầu hết các chức năng giống nhau."
+    },
+    {
+     "start": 96,
+     "end": 101,
+     "en": "They just call every damn button differently and that's how they vendor lock.",
+     "vi": "Họ chỉ đặt tên khác nhau cho từng cái nút chết tiệt, và đó là cách họ \"khóa\" khách hàng vào nhà cung cấp."
+    },
+    {
+     "start": 101,
+     "end": 109,
+     "en": "So so you can go go to the other cloud platform because the names is different, which is less of a hurdle than you would think.",
+     "vi": "Để bạn ngại chuyển sang nền tảng khác vì tên gọi khác nhau, nhưng thật ra rào cản đó nhỏ hơn bạn nghĩ."
+    },
+    {
+     "start": 109,
+     "end": 115,
+     "en": "And then there's of course nuance, like the billing models are different. The scaling is different.",
+     "vi": "Và tất nhiên có những khác biệt nhỏ, như mô hình tính phí khác nhau. Cách mở rộng quy mô khác nhau."
+    },
+    {
+     "start": 115,
+     "end": 119,
+     "en": "The type of servers you can run it in is different. You cannot.",
+     "vi": "Loại máy chủ bạn có thể chạy cũng khác nhau. Bạn không thể."
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "title": "Buzzwords Are Just Old Ideas in New Clothes",
+   "start": 255,
+   "end": 326,
+   "file": "media/part_03.mp4",
+   "lines": [
+    {
+     "start": 0,
+     "end": 9,
+     "en": "Local host I mean, sovereign, this this version, you remember that people sovereignty is the new local host.",
+     "vi": "Localhost, ý tôi là \"sovereign\" (chủ quyền), phiên bản này, mọi người nhớ nhé: \"sovereignty\" chính là localhost kiểu mới."
+    },
+    {
+     "start": 9,
+     "end": 17,
+     "en": "You're just running your own damn model on your own damn computer. But you don't call it local host. You. You call it sovereign. The client will love it.",
+     "vi": "Bạn chỉ đang chạy cái model của mình trên chính máy tính của mình. Nhưng bạn không gọi nó là localhost. Bạn gọi nó là \"sovereign\". Khách hàng sẽ thích lắm."
+    },
+    {
+     "start": 17,
+     "end": 22,
+     "en": "Thank me later. So. So it's. And that's the other thing.",
+     "vi": "Cảm ơn tôi sau nhé. Vậy đó. Và đó là một điều khác nữa."
+    },
+    {
+     "start": 22,
+     "end": 32,
+     "en": "And I mentioned that before understanding the words because buzzwords will come, but they usually mean something that wasn't new at all.",
+     "vi": "Tôi đã nhắc trước đó về việc hiểu đúng từ ngữ, vì các từ thời thượng sẽ liên tục xuất hiện, nhưng chúng thường chỉ những thứ chẳng mới chút nào."
+    },
+    {
+     "start": 32,
+     "end": 39,
+     "en": "Again, sovereignty is just local host but new. Everybody screams with screaming AI.",
+     "vi": "Một lần nữa, \"sovereignty\" chỉ là localhost nhưng mới. Ai cũng hô hào AI."
+    },
+    {
+     "start": 39,
+     "end": 44,
+     "en": "But we mainly meant just deep learning on steroids with a lot a lot of GPU and compute.",
+     "vi": "Nhưng chủ yếu chúng ta chỉ muốn nói deep learning được \"tăng lực\" với rất rất nhiều GPU và sức tính toán."
+    },
+    {
+     "start": 44,
+     "end": 50,
+     "en": "Big data was just data that you store on multiple different servers, because you don't have a single server that can contain it all.",
+     "vi": "Big data chỉ là dữ liệu bạn lưu trên nhiều máy chủ khác nhau, vì không có máy chủ nào chứa hết được."
+    },
+    {
+     "start": 50,
+     "end": 60,
+     "en": "But nowadays, my laptop has more storage than a whole complex of servers a decade ago, meaning big data is dead long, long live big data.",
+     "vi": "Nhưng ngày nay, laptop của tôi có dung lượng lưu trữ lớn hơn cả một cụm máy chủ cách đây mười năm, nghĩa là big data đã chết, big data muôn năm."
+    },
+    {
+     "start": 60,
+     "end": 71,
+     "en": "The core problem here is the core problem of humanity, which is that sometimes we say the same words, but we mean different things, and sometimes we say different words, but we mean the same thing.",
+     "vi": "Vấn đề cốt lõi ở đây cũng là vấn đề cốt lõi của nhân loại: đôi khi chúng ta nói cùng một từ nhưng ý khác nhau, và đôi khi nói những từ khác nhau nhưng lại cùng một ý."
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "title": "What Clients Say vs What They Actually Want",
+   "start": 326,
+   "end": 405,
+   "file": "media/part_04.mp4",
+   "lines": [
+    {
+     "start": 0,
+     "end": 4,
+     "en": "And all of miscommunication stems from this.",
+     "vi": "Và mọi sự hiểu lầm đều bắt nguồn từ đó."
+    },
+    {
+     "start": 4,
+     "end": 13,
+     "en": "And in our field, it is important to figure out not just what words people are using, which is what sales heavily focuses on,",
+     "vi": "Và trong ngành của chúng ta, điều quan trọng là phải tìm ra không chỉ những từ người ta dùng, vốn là thứ bộ phận bán hàng rất chú trọng,"
+    },
+    {
+     "start": 13,
+     "end": 21,
+     "en": "but what their actual problem is and what they actually mean, which can be which can be completely different from the words that are actually using.",
+     "vi": "mà còn là vấn đề thực sự của họ là gì và họ thực sự muốn nói gì, điều có thể hoàn toàn khác với những từ họ đang dùng."
+    },
+    {
+     "start": 21,
+     "end": 33,
+     "en": "Because I've had clients that that ask for AI, and it could mean a random tree, a random forest, it can mean you have some kind of image recognition model, it can mean some type of speech synthesis.",
+     "vi": "Vì tôi từng có khách hàng yêu cầu AI, và điều đó có thể là một cây quyết định, một random forest, có thể là một mô hình nhận dạng hình ảnh, có thể là một kiểu tổng hợp giọng nói."
+    },
+    {
+     "start": 33,
+     "end": 41,
+     "en": "It can mean producing synthetic data of bananas using 3D models. It can mean so many different things, but they all use the same word.",
+     "vi": "Có thể là tạo dữ liệu tổng hợp về quả chuối bằng mô hình 3D. Nó có thể mang rất nhiều nghĩa khác nhau, nhưng tất cả đều dùng cùng một từ."
+    },
+    {
+     "start": 41,
+     "end": 49,
+     "en": "And it's our job to figure out what the heck they want and then to build that, not just to receive orders and build something,",
+     "vi": "Và việc của chúng ta là tìm ra họ thực sự muốn cái quái gì rồi xây dựng nó, chứ không chỉ nhận yêu cầu rồi làm ra một thứ gì đó,"
+    },
+    {
+     "start": 49,
+     "end": 61,
+     "en": "because that job will be outsourced and automated to hell and back by whatever cloud copilot thing they, they buy and or consume.",
+     "vi": "vì công việc đó sẽ bị thuê ngoài và tự động hóa triệt để bởi bất cứ công cụ copilot đám mây nào mà họ mua hoặc sử dụng."
+    },
+    {
+     "start": 61,
+     "end": 71,
+     "en": "But the core skill to figure out what the fluff they actually want and need, and what is the problem behind the problem, because if they understood the problem, they wouldn't be hiring you.",
+     "vi": "Nhưng kỹ năng cốt lõi là tìm ra họ thực sự muốn và cần gì, và vấn đề nằm sau vấn đề là gì, vì nếu họ hiểu vấn đề thì họ đã không thuê bạn."
+    },
+    {
+     "start": 71,
+     "end": 79,
+     "en": "They to fix it themselves, but they do not understand the problem, do not understand the solution. It's our job to figure out that solution, then do that.",
+     "vi": "Họ đã tự sửa rồi, nhưng họ không hiểu vấn đề, không hiểu giải pháp. Việc của chúng ta là tìm ra giải pháp đó, rồi thực hiện nó."
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "title": "The Bad Architects Are Easier to Spot",
+   "start": 405,
+   "end": 530,
+   "file": "media/part_05.mp4",
+   "lines": [
+    {
+     "start": 0,
+     "end": 7,
+     "en": "And to do that, we need to be able to learn new tech and learn new stuff and that's why learning is key.",
+     "vi": "Và để làm được điều đó, chúng ta cần có khả năng học công nghệ mới, học những điều mới, và đó là lý do việc học là chìa khóa."
+    },
+    {
+     "start": 7,
+     "end": 14,
+     "en": "What have you seen in how architects execute that makes them really good architects for the people that actually go on that career path?",
+     "vi": "Anh thấy cách làm việc nào giúp các kiến trúc sư trở nên thực sự giỏi, đối với những người theo con đường sự nghiệp đó?"
+    },
+    {
+     "start": 14,
+     "end": 18,
+     "en": "Yeah, I always say, I mean, first comment would be it's not a sort of binary choice.",
+     "vi": "Vâng, tôi luôn nói, ý kiến đầu tiên là đây không phải một lựa chọn có-hoặc-không."
+    },
+    {
+     "start": 18,
+     "end": 24,
+     "en": "So I don't think that being an architect is determined by what's on your business card.",
+     "vi": "Tôi không nghĩ việc là một kiến trúc sư được quyết định bởi chức danh trên danh thiếp của bạn."
+    },
+    {
+     "start": 24,
+     "end": 31,
+     "en": "So I think it could be a technical product person with a very architecture mindset, right, for me.",
+     "vi": "Theo tôi, đó có thể là một người làm sản phẩm kỹ thuật có tư duy kiến trúc rất rõ."
+    },
+    {
+     "start": 31,
+     "end": 36,
+     "en": "But let me start the other way around. The the bad architects are easier to spot.",
+     "vi": "Nhưng để tôi bắt đầu theo chiều ngược lại. Những kiến trúc sư tồi thì dễ nhận ra hơn."
+    },
+    {
+     "start": 36,
+     "end": 43,
+     "en": "The good architects are usually the ones where magically everything goes well and nobody knows exactly why. The bad architects are easier to spot.",
+     "vi": "Kiến trúc sư giỏi thường là những người mà mọi thứ cứ trôi chảy một cách thần kỳ và không ai biết chính xác vì sao. Còn kiến trúc sư tồi thì dễ nhận ra hơn."
+    },
+    {
+     "start": 43,
+     "end": 50,
+     "en": "It's like people who spew out a lot of buzz where it's, you know, it's like, oh, everything must be cloud native or loosely coupled.",
+     "vi": "Đó là những người tuôn ra cả đống từ thời thượng, kiểu như: ồ, mọi thứ phải cloud native, hoặc phải loosely coupled."
+    },
+    {
+     "start": 50,
+     "end": 56,
+     "en": "I would say, I don't need an architect to tell me that I can just put a post on the wall. They are. Then why? Why do I need this?",
+     "vi": "Tôi sẽ nói: tôi không cần kiến trúc sư để nói điều đó, tôi chỉ cần dán một tờ giấy lên tường là xong. Vậy thì tại sao? Tại sao tôi cần người này?"
+    },
+    {
+     "start": 56,
+     "end": 65,
+     "en": "This person or people who believe they should have all the decision power is like, oh developers, I'm here to guide you. The I should make three components, right?",
+     "vi": "Hoặc những người tin rằng mình phải nắm mọi quyền quyết định, kiểu: này các developer, tôi ở đây để dẫn dắt các bạn. Phải làm ba component, đúng không?"
+    },
+    {
+     "start": 65,
+     "end": 67,
+     "en": "No more, no less, right?",
+     "vi": "Không hơn, không kém, đúng không?"
+    },
+    {
+     "start": 67,
+     "end": 75,
+     "en": "Those I find the not so stellar architects, the, the mantra that we have in the workshop and that I very much follow",
+     "vi": "Tôi thấy đó là những kiến trúc sư không mấy xuất sắc. Câu thần chú mà chúng tôi có trong workshop và tôi rất tâm đắc"
+    },
+    {
+     "start": 75,
+     "end": 84,
+     "en": "is that architects shouldn't try to be the smartest people, but they should make everybody else smarter. That's an amplifier.",
+     "vi": "là kiến trúc sư không nên cố làm người thông minh nhất, mà nên giúp mọi người khác thông minh hơn. Đó là một bộ khuếch đại."
+    },
+    {
+     "start": 84,
+     "end": 90,
+     "en": "You don't want to be a kind of oracle. People come with the questions and look for magic answers. Oh, what should we do?",
+     "vi": "Bạn không muốn trở thành một kiểu nhà tiên tri, nơi mọi người mang câu hỏi đến và tìm câu trả lời thần kỳ. Ồ, chúng tôi nên làm gì?"
+    },
+    {
+     "start": 90,
+     "end": 99,
+     "en": "People come to me and I'm like, well, it's kind of charming, but how do I know it's your project? It's your application, right? How can I make all the decisions for you?",
+     "vi": "Mọi người đến hỏi tôi, và tôi kiểu: ừ thì cũng dễ thương đấy, nhưng làm sao tôi biết được, đó là dự án của bạn, ứng dụng của bạn mà? Làm sao tôi có thể quyết định mọi thứ thay bạn?"
+    },
+    {
+     "start": 99,
+     "end": 107,
+     "en": "But what I can do is help you make a better decision. And I think to me, that is one of the characteristics of a of a great architect.",
+     "vi": "Nhưng điều tôi có thể làm là giúp bạn đưa ra quyết định tốt hơn. Và với tôi, đó là một trong những đặc điểm của một kiến trúc sư giỏi."
+    },
+    {
+     "start": 107,
+     "end": 114,
+     "en": "You can absorb the context, things that people explain to you, but you can uncover blind spots or maybe help people",
+     "vi": "Bạn có thể nắm được bối cảnh, những điều mọi người giải thích cho bạn, nhưng bạn cũng có thể phát hiện ra những điểm mù, hoặc giúp mọi người"
+    },
+    {
+     "start": 114,
+     "end": 125,
+     "en": "see different points of view, different angles, distill trade offs that they might be implicitly making, but they're not aware of those kind of examples.",
+     "vi": "nhìn từ những quan điểm khác, góc độ khác, chắt lọc ra những đánh đổi mà họ có thể đang ngầm thực hiện nhưng không nhận ra, những ví dụ kiểu như vậy."
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "title": "Why Good Engineers Use Boring Technology",
+   "start": 530,
+   "end": 705,
+   "file": "media/part_06.mp4",
+   "lines": [
+    {
+     "start": 0,
+     "end": 8,
+     "en": "I think that makes a great architect, and it makes a nice architect if you wish, because you're not trying to be the ivory tower big boss.",
+     "vi": "Tôi nghĩ điều đó tạo nên một kiến trúc sư giỏi, và cũng là một kiến trúc sư dễ mến, vì bạn không cố làm ông sếp lớn ngồi trên tháp ngà."
+    },
+    {
+     "start": 8,
+     "end": 11,
+     "en": "Yeah, but he actually an amplifier to the team.",
+     "vi": "Vâng, mà thực sự là bộ khuếch đại cho cả đội."
+    },
+    {
+     "start": 11,
+     "end": 21,
+     "en": "Any other foundations or fundamentals you want to highlight that distinguishes great engineers from not so great ones?",
+     "vi": "Còn nền tảng hay yếu tố cơ bản nào khác anh muốn nhấn mạnh, giúp phân biệt kỹ sư giỏi với kỹ sư không giỏi lắm không?"
+    },
+    {
+     "start": 21,
+     "end": 29,
+     "en": "If I look at, what is happening in the picnic context, again, what what really strikes me is that,",
+     "vi": "Nếu tôi nhìn vào những gì đang diễn ra ở Picnic, một lần nữa, điều thực sự khiến tôi ấn tượng là"
+    },
+    {
+     "start": 29,
+     "end": 44,
+     "en": "our, our engineering culture is relatively, uniform in the sense that when we started, ten years ago, we have a very strong, developer platform that was, developed from the get go.",
+     "vi": "văn hóa kỹ thuật của chúng tôi khá đồng nhất, theo nghĩa là khi bắt đầu mười năm trước, chúng tôi đã có một nền tảng cho developer rất mạnh, được xây dựng ngay từ đầu."
+    },
+    {
+     "start": 44,
+     "end": 50,
+     "en": "And they're what I see in some other companies in other, contexts.",
+     "vi": "Còn ở một số công ty khác, trong những bối cảnh khác, tôi thấy"
+    },
+    {
+     "start": 50,
+     "end": 56,
+     "en": "So there's a lot of, people trying to adopt new technology just for the sake of it.",
+     "vi": "có rất nhiều người cố áp dụng công nghệ mới chỉ vì nó mới."
+    },
+    {
+     "start": 56,
+     "end": 61,
+     "en": "And that is something that I feel that a good engineer doesn't do. Right.",
+     "vi": "Và đó là điều tôi cảm thấy một kỹ sư giỏi không làm. Đúng vậy."
+    },
+    {
+     "start": 61,
+     "end": 69,
+     "en": "So if you adopt new technology, if you find out about the new technology, you need to understand,",
+     "vi": "Nếu bạn áp dụng công nghệ mới, nếu bạn biết đến một công nghệ mới, bạn cần hiểu"
+    },
+    {
+     "start": 69,
+     "end": 78,
+     "en": "whether it's actually an improvement over work, you have, make very clear also, why did this the case, and not just jump on any, any bandwagon.",
+     "vi": "liệu nó có thực sự tốt hơn thứ bạn đang có không, và làm rõ tại sao lại như vậy, chứ không chỉ chạy theo bất kỳ trào lưu nào."
+    },
+    {
+     "start": 78,
+     "end": 86,
+     "en": "And that's something that I feel that's very good engineers are good at. Right. So they there's there's a science. I'm not sure if you know, the boring technology desktop.",
+     "vi": "Và đó là điều tôi thấy các kỹ sư rất giỏi làm tốt. Có một bài nói, tôi không chắc bạn có biết không, bài \"Boring Technology\" (Công nghệ nhàm chán)."
+    },
+    {
+     "start": 86,
+     "end": 94,
+     "en": "I don't know it. That sounds very funny. Yeah, yeah. We should have asked this, for, use what works. Use what is proven.",
+     "vi": "Tôi không biết. Nghe vui đấy. Vâng, vâng. Ý chính là: dùng những gì hiệu quả. Dùng những gì đã được chứng minh."
+    },
+    {
+     "start": 94,
+     "end": 104,
+     "en": "Use, and then use it in a very, effective way, as you mentioned, sir, that that is, I think with both YouTube and, discerning between.",
+     "vi": "Dùng nó, và dùng một cách thật hiệu quả, như anh đã nói, và phân biệt được giữa các lựa chọn."
+    },
+    {
+     "start": 104,
+     "end": 109,
+     "en": "Okay, but what new technology is that interesting to jump on to, etc.. That is super hard. Of course.",
+     "vi": "Ừ, nhưng công nghệ mới nào đáng để nhảy vào, v.v.. Điều đó cực kỳ khó. Tất nhiên rồi."
+    },
+    {
+     "start": 109,
+     "end": 119,
+     "en": "And also maybe a bit more of an art than the science sometimes, but precisely. That's kind of, gut feeling.",
+     "vi": "Và có lẽ đôi khi nó là nghệ thuật nhiều hơn là khoa học, đúng vậy. Đó là một kiểu cảm nhận bản năng."
+    },
+    {
+     "start": 119,
+     "end": 127,
+     "en": "I would say that that the knowledge and the wisdom that you have as a, as a, as a craftsman, as an engineer that sets you apart from people who,",
+     "vi": "Tôi cho rằng kiến thức và sự khôn ngoan mà bạn có với tư cách một người thợ lành nghề, một kỹ sư, là thứ giúp bạn khác biệt với những người"
+    },
+    {
+     "start": 127,
+     "end": 132,
+     "en": "yeah, who don't have that taste or who don't have that knowledge to, to make the decision.",
+     "vi": "không có \"gu\" đó, hoặc không có kiến thức đó để đưa ra quyết định."
+    },
+    {
+     "start": 132,
+     "end": 138,
+     "en": "And then sometimes you end up in situations where there's, companies that are much smaller than.",
+     "vi": "Và đôi khi bạn rơi vào tình huống có những công ty nhỏ hơn nhiều"
+    },
+    {
+     "start": 138,
+     "end": 147,
+     "en": "And then the company I work at that has like dozens of different technology stack soon, because, well, people,",
+     "vi": "so với công ty tôi đang làm, mà lại có hàng chục bộ công nghệ khác nhau, bởi vì, à thì, mọi người"
+    },
+    {
+     "start": 147,
+     "end": 155,
+     "en": "decided that in some kind of context, it was better to use, rest or, teams go or to and then you end up with this fantastic",
+     "vi": "quyết định rằng trong bối cảnh nào đó thì dùng Rust tốt hơn, hoặc nhóm thì dùng Go, rồi cuối cùng bạn có một"
+    },
+    {
+     "start": 155,
+     "end": 164,
+     "en": "collection of technologies that nobody really knows how to manage anymore, really how to operate anymore, who really knows how to how to bring us together and, yeah, that's",
+     "vi": "bộ sưu tập công nghệ \"tuyệt vời\" mà chẳng ai còn biết cách quản lý, cách vận hành, cách kết hợp chúng lại với nhau, và vâng, đó là"
+    },
+    {
+     "start": 164,
+     "end": 175,
+     "en": "I think, one of the hallmarks to go back to your question of a good engineer is to actually also, limit this and, and stick to, yeah, proven things and what works.",
+     "vi": "tôi nghĩ, quay lại câu hỏi của bạn, một trong những dấu hiệu của kỹ sư giỏi là biết hạn chế điều này và gắn bó với những thứ đã được chứng minh, những gì hiệu quả."
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "title": "Stop Building for 100x Scale on Day One",
+   "start": 705,
+   "end": 793,
+   "file": "media/part_07.mp4",
+   "lines": [
+    {
+     "start": 0,
+     "end": 7,
+     "en": "Yeah. Is this then your advice as well. So to stick with what you have, start with initial design that is simple.",
+     "vi": "Vâng. Vậy đây cũng là lời khuyên của anh phải không: gắn bó với những gì đang có, bắt đầu với một thiết kế ban đầu đơn giản."
+    },
+    {
+     "start": 7,
+     "end": 15,
+     "en": "And then stick with it until you actually reach certain limits. And you can kind of based on your usage forecast what the next iteration would be.",
+     "vi": "Rồi giữ nguyên nó cho đến khi thực sự chạm tới giới hạn nhất định. Và dựa trên mức sử dụng, bạn có thể dự đoán phiên bản tiếp theo sẽ thế nào."
+    },
+    {
+     "start": 15,
+     "end": 18,
+     "en": "If I was a startup founder or a CTO of a startup, right.",
+     "vi": "Nếu tôi là nhà sáng lập hay CTO của một startup,"
+    },
+    {
+     "start": 18,
+     "end": 30,
+     "en": "I would never go and start building for 100 x scale, even if I'm a like a firm believer in my idea and know that it's going to reach the masses and it's going to be global, I would never design for that.",
+     "vi": "tôi sẽ không bao giờ bắt đầu xây dựng cho quy mô gấp 100 lần, kể cả khi tôi rất tin vào ý tưởng của mình và biết nó sẽ đến với đông đảo người dùng, sẽ vươn ra toàn cầu, tôi cũng không bao giờ thiết kế cho điều đó."
+    },
+    {
+     "start": 30,
+     "end": 37,
+     "en": "I would design for getting 100 users or maybe even a thousand, right? And I would just run everything on a single VM, to be honest.",
+     "vi": "Tôi sẽ thiết kế cho 100 người dùng, hoặc có thể một nghìn, đúng không? Và thật lòng mà nói, tôi sẽ chạy mọi thứ trên một máy ảo duy nhất."
+    },
+    {
+     "start": 37,
+     "end": 44,
+     "en": "Maybe to make it a bit more available. I would not go and build massive database clusters.",
+     "vi": "Có thể làm cho nó sẵn sàng hơn một chút. Tôi sẽ không đi xây những cụm cơ sở dữ liệu khổng lồ."
+    },
+    {
+     "start": 44,
+     "end": 53,
+     "en": "Yeah, just start with one, maybe two nodes. Stops replication. That's it. And this will like tell you really, really far to be honest.",
+     "vi": "Vâng, chỉ bắt đầu với một, có thể hai node. Thêm replication. Thế thôi. Và thật lòng mà nói, điều này sẽ đưa bạn đi rất, rất xa."
+    },
+    {
+     "start": 53,
+     "end": 60,
+     "en": "Once I attain or I'm get, I'm like close to 80% of these limits of what my resources can do.",
+     "vi": "Khi tôi đạt tới, hoặc gần chạm tới khoảng 80% giới hạn của những gì tài nguyên của tôi có thể xử lý."
+    },
+    {
+     "start": 60,
+     "end": 65,
+     "en": "And by the way, vertical scaling can take you a long way. Like you have no idea.",
+     "vi": "Và nhân tiện, mở rộng theo chiều dọc có thể đưa bạn đi rất xa. Xa hơn bạn tưởng nhiều."
+    },
+    {
+     "start": 65,
+     "end": 72,
+     "en": "We have large scale nodes that have hundreds of CPUs on them.",
+     "vi": "Chúng tôi có những node cỡ lớn với hàng trăm CPU."
+    },
+    {
+     "start": 72,
+     "end": 77,
+     "en": "So you don't really need to go and start sharding and doing all sorts of fancy stuff.",
+     "vi": "Vì vậy bạn không thực sự cần bắt đầu sharding và làm đủ thứ phức tạp."
+    },
+    {
+     "start": 77,
+     "end": 88,
+     "en": "When vertical scaling consists of you and right now with cloud native solutions, you can go pretty far, like you can get a one VM with 120 CPU cores, right?",
+     "vi": "Mở rộng theo chiều dọc, nhất là hiện nay với các giải pháp cloud native, có thể đưa bạn đi khá xa, ví dụ bạn có thể có một máy ảo với 120 lõi CPU, đúng không?"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "title": "The Dogma of Clean Code Is Hurting You",
+   "start": 793,
+   "end": 920,
+   "file": "media/part_08.mp4",
+   "lines": [
+    {
+     "start": 0,
+     "end": 6,
+     "en": "You can get terabytes of memory. Yeah, and that can do a lot for you.",
+     "vi": "Bạn có thể có hàng terabyte bộ nhớ. Vâng, và điều đó có thể làm được rất nhiều thứ cho bạn."
+    },
+    {
+     "start": 6,
+     "end": 11,
+     "en": "You don't need to start doing horizontal scaling before you get you really start hitting these limits.",
+     "vi": "Bạn không cần bắt đầu mở rộng theo chiều ngang trước khi thực sự chạm tới các giới hạn đó."
+    },
+    {
+     "start": 11,
+     "end": 18,
+     "en": "That's what I've seen where it's challenging for people, where they say, okay, I'm a little bit of a perfectionist. I value quality in what I do on a day to day.",
+     "vi": "Đó là điều tôi thấy nhiều người gặp khó khăn, khi họ nói: tôi hơi cầu toàn một chút. Tôi coi trọng chất lượng trong những gì tôi làm hằng ngày."
+    },
+    {
+     "start": 18,
+     "end": 26,
+     "en": "My job is basically part of who I am, and if I don't deliver the highest quality that I can in this aspect, like I'm doing myself with this, just this.",
+     "vi": "Công việc gần như là một phần con người tôi, và nếu tôi không làm ra chất lượng cao nhất có thể thì tôi đang có lỗi với chính mình."
+    },
+    {
+     "start": 26,
+     "end": 35,
+     "en": "And it's very like if I lay it out like that, it might sound selfish, but those people have no clue that what they're saying is selfish. They genuinely think it's best for the organization.",
+     "vi": "Và nếu tôi trình bày như vậy thì nghe có vẻ ích kỷ, nhưng những người đó không hề biết điều họ nói là ích kỷ. Họ thực lòng nghĩ đó là điều tốt nhất cho tổ chức."
+    },
+    {
+     "start": 35,
+     "end": 45,
+     "en": "It's just some misinformation and misunderstanding because there's a dogmatic aspect of software engineering, and it was perpetuated in the previous era until 2000, 2000",
+     "vi": "Đó chỉ là thông tin sai lệch và hiểu lầm, vì kỹ thuật phần mềm có một khía cạnh giáo điều, và nó được duy trì trong thời kỳ trước, cho tới những năm 2000."
+    },
+    {
+     "start": 45,
+     "end": 54,
+     "en": "I when I ventured into working professionals in 2007, eight nine, there was a lot of dogma, like there's a lot of this is how you do things and this is how you should do things.",
+     "vi": "Khi tôi bắt đầu đi làm chuyên nghiệp vào khoảng 2007, 2008, 2009, có rất nhiều giáo điều, kiểu như: đây là cách làm, và đây là cách bạn phải làm."
+    },
+    {
+     "start": 54,
+     "end": 62,
+     "en": "And if you do things any other way, you're wrong. Yeah. And part of that is elegance of code. Code cleanliness, code quality.",
+     "vi": "Và nếu bạn làm theo bất kỳ cách nào khác, bạn sai. Vâng. Và một phần trong đó là sự thanh lịch của code. Code sạch, chất lượng code."
+    },
+    {
+     "start": 62,
+     "end": 65,
+     "en": "You were all raised on this, these these concepts. Right. And they're important.",
+     "vi": "Tất cả chúng ta đều lớn lên cùng những khái niệm này. Và chúng quan trọng."
+    },
+    {
+     "start": 65,
+     "end": 71,
+     "en": "And everybody always complained about bad code and horrible code because it was difficult to maintain. Nobody enjoys that.",
+     "vi": "Và ai cũng luôn phàn nàn về code tồi, code kinh khủng, vì nó khó bảo trì. Không ai thích điều đó."
+    },
+    {
+     "start": 71,
+     "end": 76,
+     "en": "You're going to make it very difficult for the future engineers to solve these problems.",
+     "vi": "Bạn sẽ khiến các kỹ sư sau này rất khó giải quyết những vấn đề đó."
+    },
+    {
+     "start": 76,
+     "end": 84,
+     "en": "But sometimes, you know, you don't have future engineers to solve these problems. Sometimes nobody's going to touch this code for decades to come.",
+     "vi": "Nhưng đôi khi, bạn biết đấy, chẳng có kỹ sư nào sau này phải giải quyết những vấn đề đó cả. Đôi khi sẽ không ai đụng vào đoạn code này trong hàng chục năm tới."
+    },
+    {
+     "start": 84,
+     "end": 87,
+     "en": "It's okay if it's just it just works.",
+     "vi": "Không sao cả nếu nó chỉ đơn giản là chạy được."
+    },
+    {
+     "start": 87,
+     "end": 93,
+     "en": "And then we ended up on the complete other end of the spectrum, where we tried to clean up everything that we started adopting.",
+     "vi": "Rồi chúng ta lại rơi vào thái cực hoàn toàn ngược lại, khi cố làm sạch mọi thứ và bắt đầu áp dụng"
+    },
+    {
+     "start": 93,
+     "end": 100,
+     "en": "All sorts of design, overcomplicated abstractions that are are just horrible to me. Horrible to reason about.",
+     "vi": "đủ loại design pattern, những lớp trừu tượng quá phức tạp mà với tôi thật kinh khủng. Rất khó để suy luận."
+    },
+    {
+     "start": 100,
+     "end": 105,
+     "en": "It takes you decades to become proficient in just reading that type of code.",
+     "vi": "Bạn mất hàng chục năm chỉ để đọc thành thạo kiểu code đó."
+    },
+    {
+     "start": 105,
+     "end": 111,
+     "en": "And then when you write it, it gets even more complicated and it's very difficult to maintain, and big tech.",
+     "vi": "Và khi bạn viết nó, mọi thứ còn phức tạp hơn và rất khó bảo trì, nhất là ở các công ty công nghệ lớn."
+    },
+    {
+     "start": 111,
+     "end": 119,
+     "en": "And I always tell my colleagues in the juniors that report to me, simple is complicated enough, especially at scale. Yeah.",
+     "vi": "Và tôi luôn nói với đồng nghiệp và các bạn junior báo cáo cho tôi: đơn giản đã đủ phức tạp rồi, đặc biệt là ở quy mô lớn. Vâng."
+    },
+    {
+     "start": 119,
+     "end": 127,
+     "en": "So just write it in the dumbest, most simple way possible. This is why I also love gold. For example. That's all I do, right? Yes.",
+     "vi": "Vậy hãy viết theo cách \"ngốc\" nhất, đơn giản nhất có thể. Đó cũng là lý do tôi yêu Go chẳng hạn. Đó là tất cả những gì tôi làm, đúng không? Đúng."
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "title": "Simple Is Complicated Enough at Scale",
+   "start": 920,
+   "end": 988,
+   "file": "media/part_09.mp4",
+   "lines": [
+    {
+     "start": 0,
+     "end": 6,
+     "en": "It's amazing. It's dumb. You don't have to think too much. It's just all in your face.",
+     "vi": "Nó tuyệt vời. Nó \"ngốc\". Bạn không phải nghĩ nhiều. Mọi thứ đều hiện ra ngay trước mắt."
+    },
+    {
+     "start": 6,
+     "end": 12,
+     "en": "Whenever you want to understand how something is built, you just trace it wrong. It's there, it's there. Fantastic.",
+     "vi": "Bất cứ khi nào muốn hiểu thứ gì đó được xây dựng thế nào, bạn chỉ cần lần theo nó. Nó ở đó, ngay đó. Tuyệt vời."
+    },
+    {
+     "start": 12,
+     "end": 19,
+     "en": "I love that, and in the situations where we're building at scale, I don't want to reason about abstractions.",
+     "vi": "Tôi thích điều đó, và trong những tình huống xây dựng ở quy mô lớn, tôi không muốn phải suy luận về các lớp trừu tượng."
+    },
+    {
+     "start": 19,
+     "end": 21,
+     "en": "I don't want to think about edge cases.",
+     "vi": "Tôi không muốn nghĩ về các trường hợp biên."
+    },
+    {
+     "start": 21,
+     "end": 30,
+     "en": "I don't want to think about complicated memory allocations and complicated memory structures. You know, I just want things to be simple.",
+     "vi": "Tôi không muốn nghĩ về việc cấp phát bộ nhớ phức tạp hay các cấu trúc bộ nhớ phức tạp. Bạn biết đấy, tôi chỉ muốn mọi thứ đơn giản."
+    },
+    {
+     "start": 30,
+     "end": 37,
+     "en": "Memory leaks happen often, and they are very catastrophic at scale. I don't want to think about these things.",
+     "vi": "Rò rỉ bộ nhớ xảy ra thường xuyên, và chúng cực kỳ tai hại ở quy mô lớn. Tôi không muốn nghĩ về những thứ đó."
+    },
+    {
+     "start": 37,
+     "end": 48,
+     "en": "I don't want to think about how my garbage collector is going to, you know, shut down the whole world and start causing multi second latency on my API requests, which at scale again become a gigantic problem for me.",
+     "vi": "Tôi không muốn nghĩ về việc bộ thu gom rác sẽ, bạn biết đấy, dừng cả thế giới lại và gây độ trễ nhiều giây cho các request API, điều mà ở quy mô lớn lại trở thành vấn đề khổng lồ."
+    },
+    {
+     "start": 48,
+     "end": 57,
+     "en": "I just want things to be simple, easy to reason about and that's it. What is then your perspective on building systems that can evolve?",
+     "vi": "Tôi chỉ muốn mọi thứ đơn giản, dễ suy luận, vậy thôi. Vậy quan điểm của anh về việc xây dựng hệ thống có khả năng phát triển là gì?"
+    },
+    {
+     "start": 57,
+     "end": 68,
+     "en": "Because some people you can say, okay, this is the system design that we have and we're going to continue on this until we reach a certain level of scale, and then we're going to revamp and say this would be the next iteration.",
+     "vi": "Vì có người sẽ nói: đây là thiết kế hệ thống của chúng ta, ta sẽ tiếp tục với nó cho tới khi đạt quy mô nhất định, rồi sẽ làm lại và đó sẽ là phiên bản tiếp theo."
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "title": "Design Only for the Next Order of Magnitude",
+   "start": 988,
+   "end": 1100,
+   "file": "media/part_10.mp4",
+   "lines": [
+    {
+     "start": 0,
+     "end": 6,
+     "en": "But some people also say, okay, we have a system now, and this is evolve able to whatever scale we need.",
+     "vi": "Nhưng cũng có người nói: chúng ta có một hệ thống, và nó có thể phát triển tới bất kỳ quy mô nào ta cần."
+    },
+    {
+     "start": 6,
+     "end": 20,
+     "en": "And then they put in the extra effort to make sure that that is there from the beginning in our industry, very few technologies last for like a decade plus, and the rest is changing often.",
+     "vi": "Và họ bỏ thêm công sức để đảm bảo điều đó có ngay từ đầu. Trong ngành chúng ta, rất ít công nghệ tồn tại được hơn một thập kỷ, phần còn lại thay đổi liên tục."
+    },
+    {
+     "start": 20,
+     "end": 29,
+     "en": "And that's why I personally don't invest, or I wouldn't design a solution that would last like ten, 20, 30 years, unlike what we did in the 80s or 90s.",
+     "vi": "Và đó là lý do cá nhân tôi không đầu tư, hay không thiết kế một giải pháp kéo dài 10, 20, 30 năm, không giống như những gì chúng ta làm vào thập niên 80, 90."
+    },
+    {
+     "start": 29,
+     "end": 31,
+     "en": "That's what that's how that was the design mentality.",
+     "vi": "Đó là tư duy thiết kế thời đó."
+    },
+    {
+     "start": 31,
+     "end": 37,
+     "en": "But things were way less complicated than they are today, and the scale was different.",
+     "vi": "Nhưng khi ấy mọi thứ ít phức tạp hơn bây giờ rất nhiều, và quy mô cũng khác."
+    },
+    {
+     "start": 37,
+     "end": 46,
+     "en": "So I would always come with the mindset that I'm just going to design for the next order of magnitude, and then I'm going to evolve it from there, and that's going to require another round of investment.",
+     "vi": "Vì vậy tôi luôn mang tư duy: tôi chỉ thiết kế cho bậc quy mô tiếp theo (gấp 10 lần), rồi sẽ phát triển tiếp từ đó, và điều đó sẽ cần thêm một vòng đầu tư nữa."
+    },
+    {
+     "start": 46,
+     "end": 54,
+     "en": "There's going to be continual investments in this and that business people are not going to love this, because that makes accounting much harder.",
+     "vi": "Sẽ có những khoản đầu tư liên tục, và dân kinh doanh sẽ không thích điều này, vì nó khiến việc kế toán khó hơn nhiều."
+    },
+    {
+     "start": 54,
+     "end": 62,
+     "en": "That makes strategic finance much harder because they cannot predict or anticipate the costs that might come in the future. They cannot extrapolate from today.",
+     "vi": "Nó khiến việc hoạch định tài chính chiến lược khó hơn nhiều vì họ không thể dự đoán chi phí trong tương lai. Họ không thể ngoại suy từ hiện tại."
+    },
+    {
+     "start": 62,
+     "end": 66,
+     "en": "You know, they don't like this fuzziness software. It's all risk. Yes.",
+     "vi": "Bạn biết đấy, họ không thích sự mơ hồ này của phần mềm. Toàn là rủi ro. Đúng vậy."
+    },
+    {
+     "start": 66,
+     "end": 72,
+     "en": "So and also like they cannot calculate like their bottom line or projections for the future, which are things that are very realistic,",
+     "vi": "Và họ cũng không thể tính được lợi nhuận hay dự báo cho tương lai, vốn là những nhu cầu rất thực tế,"
+    },
+    {
+     "start": 72,
+     "end": 81,
+     "en": "like publicly, publicly traded companies want to be able to do these projections, and they want to be able to say that, hey, we're not going to be spending more here",
+     "vi": "ví dụ các công ty niêm yết muốn đưa ra được những dự báo đó, và họ muốn có thể nói: chúng tôi sẽ không chi nhiều hơn"
+    },
+    {
+     "start": 81,
+     "end": 89,
+     "en": "than on evolving our software, but we're going to make much more revenue and increase our bottom line and margin. That's what businesses look for. So it's understandable.",
+     "vi": "cho việc phát triển phần mềm, nhưng sẽ tạo ra nhiều doanh thu hơn, tăng lợi nhuận và biên lợi nhuận. Đó là điều doanh nghiệp tìm kiếm. Nên cũng dễ hiểu."
+    },
+    {
+     "start": 89,
+     "end": 92,
+     "en": "But from a software perspective, there's needs to be regular investments.",
+     "vi": "Nhưng từ góc độ phần mềm, cần có những khoản đầu tư đều đặn."
+    },
+    {
+     "start": 92,
+     "end": 104,
+     "en": "And I think the only approachable way, which is something we do at GitHub, is to continuously revisit these investments on a quarterly by quarterly half a year or a year basis.",
+     "vi": "Và tôi nghĩ cách khả thi duy nhất, điều chúng tôi làm ở GitHub, là liên tục xem xét lại các khoản đầu tư này theo từng quý, nửa năm hoặc mỗi năm."
+    },
+    {
+     "start": 104,
+     "end": 105,
+     "en": "Right.",
+     "vi": "Đúng vậy."
+    },
+    {
+     "start": 105,
+     "end": 112,
+     "en": "We can make projections for the next three, four, five years, but the confidence in these projections is less and less and less. Yeah, more time goes.",
+     "vi": "Chúng ta có thể dự báo cho ba, bốn, năm năm tới, nhưng độ tin cậy của các dự báo đó ngày càng giảm khi thời gian càng xa."
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "title": "How to Talk Tech with Non-Technical Stakeholders",
+   "start": 1100,
+   "end": 1170,
+   "file": "media/part_11.mp4",
+   "lines": [
+    {
+     "start": 0,
+     "end": 4,
+     "en": "And I think a lot more companies need to start doing the same. We're always working in teams.",
+     "vi": "Và tôi nghĩ nhiều công ty hơn cần bắt đầu làm như vậy. Chúng ta luôn làm việc theo nhóm."
+    },
+    {
+     "start": 4,
+     "end": 11,
+     "en": "Also, from a business standpoint, how would I, for example, say we're going to design for this until we reach scale and then we're going to need to revamp.",
+     "vi": "Ngoài ra, từ góc độ kinh doanh, làm sao tôi có thể nói, ví dụ, chúng ta sẽ thiết kế cho mức này đến khi đạt quy mô, rồi sẽ cần làm lại."
+    },
+    {
+     "start": 11,
+     "end": 17,
+     "en": "And this is what that's going to entail for people that don't understand how to build software, understand the business constraints.",
+     "vi": "Và điều đó sẽ kéo theo những gì, với những người không hiểu cách xây dựng phần mềm, mà chỉ hiểu các ràng buộc kinh doanh."
+    },
+    {
+     "start": 17,
+     "end": 30,
+     "en": "So they're never going to be able to convince the business folks about how something technically there's just it's too abstract, even if it feels too intuitive for us, for them, it's magic.",
+     "vi": "Bạn sẽ không bao giờ thuyết phục được dân kinh doanh bằng chi tiết kỹ thuật, nó quá trừu tượng, dù với chúng ta nó rất trực quan, thì với họ đó là phép màu."
+    },
+    {
+     "start": 30,
+     "end": 30,
+     "en": "Yeah.",
+     "vi": "Vâng."
+    },
+    {
+     "start": 30,
+     "end": 36,
+     "en": "And even if they try to understand how things work, they're never going to comprehend the magnitude of problems.",
+     "vi": "Và kể cả khi họ cố hiểu mọi thứ hoạt động thế nào, họ cũng sẽ không bao giờ hiểu được tầm cỡ của các vấn đề."
+    },
+    {
+     "start": 36,
+     "end": 45,
+     "en": "And they're never going to have this intuition about how software is and how not hard, you know, how how evolve abilities.",
+     "vi": "Và họ sẽ không bao giờ có trực giác về phần mềm, về độ khó của nó, về khả năng phát triển của nó."
+    },
+    {
+     "start": 45,
+     "end": 53,
+     "en": "So it's our job to get closer to their side. Some people say no we want the business to understand. They're not gonna it's trickier.",
+     "vi": "Vì vậy việc của chúng ta là tiến lại gần phía họ. Có người nói: không, chúng tôi muốn bên kinh doanh hiểu. Họ sẽ không hiểu đâu, điều đó khó hơn."
+    },
+    {
+     "start": 53,
+     "end": 61,
+     "en": "It's easier for you to acquire or assimilate some of the not everything some of the business constraints and discuss them from that perspective.",
+     "vi": "Bạn tiếp thu một số, không phải tất cả, ràng buộc kinh doanh rồi thảo luận từ góc nhìn đó thì dễ hơn."
+    },
+    {
+     "start": 61,
+     "end": 70,
+     "en": "And that's why a lot of engineers who grow are very good at understanding the business constraints and then discussing the technical solutions within those constraints.",
+     "vi": "Và đó là lý do nhiều kỹ sư thăng tiến là những người rất giỏi hiểu các ràng buộc kinh doanh, rồi thảo luận giải pháp kỹ thuật trong phạm vi các ràng buộc đó."
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "title": "The $50,000-Per-Hour Container Terminal Lesson",
+   "start": 1170,
+   "end": 1331,
+   "file": "media/part_12.mp4",
+   "lines": [
+    {
+     "start": 0,
+     "end": 8,
+     "en": "So for example, I used to work in the container terminal industry for a while. We built a huge container terminal.",
+     "vi": "Ví dụ, tôi từng làm trong ngành cảng container một thời gian. Chúng tôi đã xây dựng một cảng container khổng lồ."
+    },
+    {
+     "start": 8,
+     "end": 11,
+     "en": "We furnished everything from the fiber optics layer all the way to the three tier data center.",
+     "vi": "Chúng tôi trang bị mọi thứ, từ lớp cáp quang cho đến trung tâm dữ liệu cấp Tier 3."
+    },
+    {
+     "start": 11,
+     "end": 20,
+     "en": "With all of the enterprise applications running and running on it, and the operating system for the container, and it's one of the most massive operations you can ever imagine.",
+     "vi": "Cùng tất cả các ứng dụng doanh nghiệp chạy trên đó, và hệ thống điều hành cảng container, đó là một trong những hoạt động đồ sộ nhất bạn có thể tưởng tượng."
+    },
+    {
+     "start": 20,
+     "end": 23,
+     "en": "One of the most hazardous as well.",
+     "vi": "Và cũng là một trong những nơi nguy hiểm nhất."
+    },
+    {
+     "start": 23,
+     "end": 35,
+     "en": "So the folks there as far away from tech as possible, you're not never gonna find the terminal operator who's going to understand what it means that your database is running hot and you cannot support the Is.",
+     "vi": "Những người ở đó xa lạ với công nghệ hết mức, bạn sẽ không bao giờ tìm được người vận hành cảng nào hiểu chuyện cơ sở dữ liệu của bạn đang quá tải và không đáp ứng nổi lượng truy cập."
+    },
+    {
+     "start": 35,
+     "end": 42,
+     "en": "All they care about is. I have a ship here, was docked. There's, like, 10,000 containers on it. I need to empty them into my yard.",
+     "vi": "Tất cả những gì họ quan tâm là: tôi có một con tàu vừa cập cảng. Có khoảng 10.000 container trên đó. Tôi cần dỡ hết chúng vào bãi."
+    },
+    {
+     "start": 42,
+     "end": 52,
+     "en": "I have a very fixed window of time. And if I don't do it in that window of time, this is going to cost me money. We were operating at 12% capacity.",
+     "vi": "Tôi có một khung thời gian rất cố định. Và nếu không làm xong trong khung thời gian đó, tôi sẽ mất tiền. Lúc đó chúng tôi mới vận hành ở 12% công suất."
+    },
+    {
+     "start": 52,
+     "end": 59,
+     "en": "That terminal was generating about $50,000 per hour, so 2%.",
+     "vi": "Cảng đó đang tạo ra khoảng 50.000 đô la mỗi giờ, chỉ với mức công suất đó."
+    },
+    {
+     "start": 59,
+     "end": 66,
+     "en": "So you can imagine if we get delayed, every minute of delay is actually money that's disappearing.",
+     "vi": "Vậy bạn có thể tưởng tượng nếu bị chậm trễ, mỗi phút chậm trễ là tiền đang bốc hơi."
+    },
+    {
+     "start": 66,
+     "end": 74,
+     "en": "So this is how you need to discuss problems and investments and solutions. You need to understand what the impact is, what the impact is on the operators.",
+     "vi": "Vì vậy đây là cách bạn cần thảo luận về vấn đề, đầu tư và giải pháp. Bạn cần hiểu tác động là gì, tác động lên những người vận hành là gì."
+    },
+    {
+     "start": 74,
+     "end": 77,
+     "en": "And sometimes it's life threatening impact, right.",
+     "vi": "Và đôi khi đó là tác động đe dọa tính mạng."
+    },
+    {
+     "start": 77,
+     "end": 86,
+     "en": "If your software fails when a SDS when the crane is offloading a container, this can be a very life threatening situation.",
+     "vi": "Nếu phần mềm của bạn gặp lỗi khi cần cẩu đang dỡ một container, đó có thể là tình huống cực kỳ nguy hiểm đến tính mạng."
+    },
+    {
+     "start": 86,
+     "end": 89,
+     "en": "You cannot really have your software malfunction at this point.",
+     "vi": "Bạn không thể để phần mềm trục trặc vào thời điểm đó."
+    },
+    {
+     "start": 89,
+     "end": 98,
+     "en": "So sloppiness of the software sub millisecond latencies, all of these things matter, right? So you need to approach the discussions with the stakeholders. Yes.",
+     "vi": "Vì vậy sự cẩu thả của phần mềm, độ trễ dưới một mili giây, tất cả những điều đó đều quan trọng. Vậy bạn cần tiếp cận các cuộc thảo luận với các bên liên quan. Đúng vậy."
+    },
+    {
+     "start": 98,
+     "end": 100,
+     "en": "By understanding them first.",
+     "vi": "Bằng cách hiểu họ trước."
+    },
+    {
+     "start": 100,
+     "end": 111,
+     "en": "So what I've done, for example, in the industry is I've literally sat on a truck and went there and I sat with every single individual who works in that terminal to really understand what they go through on a daily basis.",
+     "vi": "Ví dụ, điều tôi đã làm trong ngành là tôi thực sự ngồi lên xe tải, đi tới đó và ngồi cùng từng người làm việc ở cảng để thực sự hiểu những gì họ trải qua mỗi ngày."
+    },
+    {
+     "start": 111,
+     "end": 119,
+     "en": "So a truck driver who's driving a truck for six, seven, eight hours, and it was in Saudi Arabia in scorching heat, it's",
+     "vi": "Một tài xế xe tải lái xe sáu, bảy, tám tiếng, ở Ả Rập Xê Út dưới cái nóng như thiêu đốt,"
+    },
+    {
+     "start": 119,
+     "end": 126,
+     "en": "not going to understand like the button that they clicked is just is so slow. Doesn't matter. He doesn't care. Night.",
+     "vi": "sẽ không hiểu vì sao cái nút họ bấm lại chậm như vậy. Không quan trọng. Anh ta không quan tâm."
+    },
+    {
+     "start": 126,
+     "end": 130,
+     "en": "He just wants it to just work. So you got to understand all of these perspectives.",
+     "vi": "Anh ta chỉ muốn nó chạy được thôi. Vậy bạn phải hiểu tất cả những góc nhìn này."
+    },
+    {
+     "start": 130,
+     "end": 138,
+     "en": "And then when you do you can start approaching discussions from that vantage point. And this applies to banks. This applies to hospitals to any other industry.",
+     "vi": "Và khi đã hiểu, bạn có thể bắt đầu tiếp cận các cuộc thảo luận từ góc nhìn đó. Điều này áp dụng cho ngân hàng, bệnh viện, cho bất kỳ ngành nào khác."
+    },
+    {
+     "start": 138,
+     "end": 141,
+     "en": "So understand the industry understand the business constraints.",
+     "vi": "Vậy hãy hiểu ngành, hiểu các ràng buộc kinh doanh."
+    },
+    {
+     "start": 141,
+     "end": 150,
+     "en": "And then any technical solution you want to discuss and investment, you can approach it from that vantage point and you're going to have much more success in these conversations.",
+     "vi": "Rồi bất kỳ giải pháp kỹ thuật hay khoản đầu tư nào bạn muốn bàn, bạn có thể tiếp cận từ góc nhìn đó và sẽ thành công hơn nhiều trong các cuộc trò chuyện này."
+    },
+    {
+     "start": 150,
+     "end": 161,
+     "en": "When you were speaking about hard skills, how much of an enterprise architecture or being an architect in essence, has changed nowadays because I feel like I get bombarded with tools.",
+     "vi": "Khi nói về kỹ năng cứng, kiến trúc doanh nghiệp, hay bản chất của việc làm kiến trúc sư, đã thay đổi bao nhiêu ngày nay? Vì tôi cảm thấy mình bị dội bom bởi đủ loại công cụ."
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "title": "Architects Are No Longer Cartographers, They're Scouts",
+   "start": 1331,
+   "end": 1524,
+   "file": "media/part_13.mp4",
+   "lines": [
+    {
+     "start": 0,
+     "end": 10,
+     "en": "There's a lot more possible specifically with large language models, but in essence, like the Phantom sketch artist, everything underneath kind of still holds true from your perspective.",
+     "vi": "Có nhiều thứ khả thi hơn hẳn, đặc biệt với các mô hình ngôn ngữ lớn, nhưng về bản chất, theo góc nhìn của anh, mọi thứ bên dưới vẫn còn đúng phải không?"
+    },
+    {
+     "start": 10,
+     "end": 19,
+     "en": "Does architecture evolve quickly? Because I feel like tooling does at a more rapid pace. Definitely. The environment in which you operate has changed.",
+     "vi": "Kiến trúc có thay đổi nhanh không? Vì tôi thấy công cụ thay đổi với tốc độ nhanh hơn. Chắc chắn rồi. Môi trường mà bạn làm việc đã thay đổi."
+    },
+    {
+     "start": 19,
+     "end": 27,
+     "en": "So there's a couple of assumptions that architects used to be able to make to make their lives easier, that no longer hold.",
+     "vi": "Có một vài giả định mà trước đây kiến trúc sư có thể đặt ra để cuộc sống dễ dàng hơn, nay không còn đúng nữa."
+    },
+    {
+     "start": 27,
+     "end": 28,
+     "en": "Right.",
+     "vi": "Đúng vậy."
+    },
+    {
+     "start": 28,
+     "end": 36,
+     "en": "The one is like snapshotting like the world is moving too fast to be able to pretend. It's like, okay, let's just assume nothing changes.",
+     "vi": "Một là kiểu \"chụp nhanh\" hiện trạng. Thế giới chuyển động quá nhanh để có thể giả vờ kiểu: thôi, cứ giả sử không có gì thay đổi."
+    },
+    {
+     "start": 36,
+     "end": 40,
+     "en": "Well, that turns out to be a very poor assumption in today's environment. Yeah.",
+     "vi": "Hóa ra đó là một giả định rất tệ trong môi trường ngày nay. Vâng."
+    },
+    {
+     "start": 40,
+     "end": 47,
+     "en": "So that, for example, means exercises like trying to draw a giant ID landscape,",
+     "vi": "Ví dụ, điều đó có nghĩa là những việc như cố vẽ một bức tranh toàn cảnh IT khổng lồ,"
+    },
+    {
+     "start": 47,
+     "end": 54,
+     "en": "you know, or cataloging all the applications you have and putting that into some tool, taking a few months for that. Yeah. And then a few months by the time you're done.",
+     "vi": "hoặc lập danh mục tất cả ứng dụng bạn có rồi đưa vào một công cụ nào đó, mất vài tháng để làm. Vâng. Và sau vài tháng, khi bạn làm xong,"
+    },
+    {
+     "start": 54,
+     "end": 56,
+     "en": "This has already changed.",
+     "vi": "thì mọi thứ đã thay đổi rồi."
+    },
+    {
+     "start": 56,
+     "end": 67,
+     "en": "So for me, the assumption of being able to snapshot and being, I call this the cartographer, being the person who makes all the great landscapes, that is very useful.",
+     "vi": "Với tôi, giả định có thể chụp nhanh hiện trạng, và làm người mà tôi gọi là \"nhà vẽ bản đồ\", người vẽ nên những bức tranh toàn cảnh tuyệt vời, điều đó rất hữu ích."
+    },
+    {
+     "start": 67,
+     "end": 71,
+     "en": "But it's no longer practical because stuff changes too quickly.",
+     "vi": "Nhưng nó không còn thực tế nữa vì mọi thứ thay đổi quá nhanh."
+    },
+    {
+     "start": 71,
+     "end": 84,
+     "en": "So one of the metaphors I use, which captures the changing role for enterprise architects, is rather than trying to be the cartographer who walks around with a giant map of all the pieces, you need to be much more like a scout.",
+     "vi": "Một ẩn dụ tôi hay dùng để mô tả vai trò đang thay đổi của kiến trúc sư doanh nghiệp là: thay vì cố làm nhà vẽ bản đồ đi khắp nơi với tấm bản đồ khổng lồ chứa mọi thứ, bạn cần giống một trinh sát hơn nhiều."
+    },
+    {
+     "start": 84,
+     "end": 87,
+     "en": "You have an objective in mind.",
+     "vi": "Bạn có một mục tiêu trong đầu."
+    },
+    {
+     "start": 87,
+     "end": 96,
+     "en": "You want to cross the river or beat the enemy, or like, move somewhere or like whatever, right? You have some objective, you send some scouts, right? They're going to go look at things.",
+     "vi": "Bạn muốn vượt sông, hoặc đánh bại kẻ thù, hoặc di chuyển tới đâu đó, gì cũng được. Bạn có một mục tiêu, bạn cử vài trinh sát đi. Họ sẽ đi xem xét tình hình."
+    },
+    {
+     "start": 96,
+     "end": 99,
+     "en": "They figure out what works, what won't work. Right.",
+     "vi": "Họ tìm ra điều gì khả thi, điều gì không."
+    },
+    {
+     "start": 99,
+     "end": 107,
+     "en": "And they come back to you with a very simple map, but a very timely and very expressive map. Right. Do you want to cross the river? Is I going to use a mountain?",
+     "vi": "Và họ quay về với một tấm bản đồ rất đơn giản, nhưng rất kịp thời và rất rõ ràng. Bạn muốn vượt sông à? Có nên đi qua núi không?"
+    },
+    {
+     "start": 107,
+     "end": 115,
+     "en": "Yes. The enemy. The bridge is gone, but he is not. So DB, we can cross there. We can go right. Whatever it is. Right? But they have a very situational.",
+     "vi": "Kẻ thù ở đây. Cây cầu đã mất, nhưng chỗ này nước cạn, ta có thể vượt qua đó. Ta có thể đi bên phải. Đại loại vậy. Bản đồ của họ rất sát với tình huống."
+    },
+    {
+     "start": 115,
+     "end": 123,
+     "en": "They have a sort a purpose driven map. The map is not trying to be like the perfect map of all the exact landscape.",
+     "vi": "Họ có một tấm bản đồ phục vụ mục đích. Tấm bản đồ không cố trở thành bản đồ hoàn hảo của toàn bộ địa hình."
+    },
+    {
+     "start": 123,
+     "end": 126,
+     "en": "They only depict what's relevant to your move.",
+     "vi": "Nó chỉ thể hiện những gì liên quan đến bước đi của bạn."
+    },
+    {
+     "start": 126,
+     "end": 133,
+     "en": "And I think that is becoming a more viable metaphor of what enterprise architects should do.",
+     "vi": "Và tôi nghĩ đó đang trở thành ẩn dụ phù hợp hơn cho những gì kiến trúc sư doanh nghiệp nên làm."
+    },
+    {
+     "start": 133,
+     "end": 142,
+     "en": "It's no longer plausible to, like, maintain this giant map where everything is on and everything is up to the head.",
+     "vi": "Không còn khả thi để duy trì tấm bản đồ khổng lồ chứa mọi thứ và mọi thứ luôn được cập nhật."
+    },
+    {
+     "start": 142,
+     "end": 144,
+     "en": "Rather, you need to have the purpose.",
+     "vi": "Thay vào đó, bạn cần có mục đích."
+    },
+    {
+     "start": 144,
+     "end": 151,
+     "en": "You need to have a direction in mind like l'Alliance Jean AI is a great example, right? Okay, the enterprise architect, what's our strategy for this?",
+     "vi": "Bạn cần có một định hướng trong đầu, như LLM hay GenAI là ví dụ rất hay. Này kiến trúc sư doanh nghiệp, chiến lược của chúng ta cho việc này là gì?"
+    },
+    {
+     "start": 151,
+     "end": 160,
+     "en": "Where should we find the best first use cases? How do we integrate this with the rest of our systems? We know LMS have super high rate of evolution.",
+     "vi": "Ta nên tìm những trường hợp sử dụng đầu tiên tốt nhất ở đâu? Làm sao tích hợp nó với phần còn lại của hệ thống? Ta biết LLM phát triển với tốc độ cực kỳ nhanh."
+    },
+    {
+     "start": 160,
+     "end": 167,
+     "en": "Yeah right. So how do we keep that change out of other systems? Right. What are we doing with with agents and a genetic right.",
+     "vi": "Vâng. Vậy làm sao để giữ sự thay đổi đó không lan sang các hệ thống khác? Chúng ta sẽ làm gì với agent và agentic AI?"
+    },
+    {
+     "start": 167,
+     "end": 176,
+     "en": "Is that just another form of workflow integration or is that something novel? Right. Give me a point of view, but is very purpose driven.",
+     "vi": "Đó chỉ là một dạng tích hợp quy trình khác hay là thứ gì đó mới mẻ? Hãy cho tôi một quan điểm, nhưng phải rất có mục đích."
+    },
+    {
+     "start": 176,
+     "end": 184,
+     "en": "And as you will quickly see, you can only do that if you understand the subject matter right. You can sort of, wave your way through that.",
+     "vi": "Và bạn sẽ nhanh chóng thấy rằng bạn chỉ làm được điều đó nếu thực sự hiểu chuyên môn. Bạn không thể nói lấy lệ cho qua."
+    },
+    {
+     "start": 184,
+     "end": 193,
+     "en": "Right? You need to have, you know, the hard tech skills as well. But for me, it's very purpose driven. What should we do? Do we have a point of view? Right?",
+     "vi": "Bạn cũng cần có kỹ năng kỹ thuật cứng. Nhưng với tôi, nó rất hướng mục đích. Chúng ta nên làm gì? Chúng ta có quan điểm chưa?"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "title": "Start with a Question, Not an Answer",
+   "start": 1524,
+   "end": 1609,
+   "file": "media/part_14.mp4",
+   "lines": [
+    {
+     "start": 0,
+     "end": 10,
+     "en": "Do we have a question in mind? Too many architects try to find answers when they don't have a question. It seems like, oh, here's the thing that answers all possible questions.",
+     "vi": "Chúng ta có câu hỏi trong đầu chưa? Quá nhiều kiến trúc sư cố tìm câu trả lời khi họ chưa có câu hỏi. Kiểu như: ồ, đây là thứ trả lời được mọi câu hỏi có thể có."
+    },
+    {
+     "start": 10,
+     "end": 17,
+     "en": "I'm like, that would be nice. Easy. Let me. Would that be easy? That doesn't work anymore.",
+     "vi": "Tôi kiểu: thế thì hay quá. Dễ dàng. Liệu có dễ vậy không? Điều đó không còn hiệu quả nữa."
+    },
+    {
+     "start": 17,
+     "end": 25,
+     "en": "You gotta start with a question in your mind and then like the scale, I just like whatever. Can we cross the river? I said, okay, come back with the answer to this.",
+     "vi": "Bạn phải bắt đầu với một câu hỏi trong đầu, rồi như người trinh sát, kiểu: ta có vượt sông được không? Tôi nói: được, hãy quay lại với câu trả lời cho câu hỏi này."
+    },
+    {
+     "start": 25,
+     "end": 28,
+     "en": "It's got to be situational and timely.",
+     "vi": "Nó phải sát với tình huống và kịp thời."
+    },
+    {
+     "start": 28,
+     "end": 37,
+     "en": "Otherwise it becomes hard work and we might like our ad work, but obviously we're not a museum. No. The it. Yeah, it's it can't be a historian. Yeah, exactly.",
+     "vi": "Nếu không, nó trở thành tác phẩm nghệ thuật, và có thể ta thích tác phẩm của mình, nhưng rõ ràng ta không phải viện bảo tàng. Không. Bộ phận IT không thể làm nhà sử học. Vâng, chính xác."
+    },
+    {
+     "start": 37,
+     "end": 42,
+     "en": "We can be a historian. We're not collecting modern art. Right. Our diagrams serve a purpose, right?",
+     "vi": "Ta không thể là nhà sử học. Ta không sưu tầm nghệ thuật hiện đại. Các sơ đồ của chúng ta phục vụ một mục đích."
+    },
+    {
+     "start": 42,
+     "end": 50,
+     "en": "They help us make better decisions, get better decision, transparency and discipline. So aid the decision is, is clearer.",
+     "vi": "Chúng giúp ta ra quyết định tốt hơn, quyết định minh bạch và có kỷ luật hơn. Để quyết định được rõ ràng hơn."
+    },
+    {
+     "start": 50,
+     "end": 58,
+     "en": "And everybody's on the same page to what the decision was. Actually what drove the decision. What trade offs are we willing to make.",
+     "vi": "Và mọi người đều hiểu như nhau về quyết định là gì. Điều gì thực sự dẫn đến quyết định đó. Ta sẵn sàng chấp nhận những đánh đổi nào."
+    },
+    {
+     "start": 58,
+     "end": 66,
+     "en": "That's what I think the value and that the picture just has to be a means to that end. If that end isn't there, the picture is also worthless.",
+     "vi": "Theo tôi đó là giá trị, và bức tranh chỉ là phương tiện để đạt mục đích đó. Nếu không có mục đích, bức tranh cũng vô giá trị."
+    },
+    {
+     "start": 66,
+     "end": 71,
+     "en": "Yeah. And then it just becomes modern art. Some boxes and triangles, some kind of kind of things.",
+     "vi": "Vâng. Và khi đó nó chỉ trở thành nghệ thuật hiện đại. Vài cái hộp, vài hình tam giác, đại loại vậy."
+    },
+    {
+     "start": 71,
+     "end": 78,
+     "en": "From a career perspective, people are saying very early on topics are getting automated now by agents, which means that the people",
+     "vi": "Từ góc độ sự nghiệp, mọi người nói rằng những công việc ở giai đoạn đầu giờ đang bị agent tự động hóa, nghĩa là những người"
+    },
+    {
+     "start": 78,
+     "end": 85,
+     "en": "that are educating themselves and that usually that's a step for them to build up the skills to do very, very cool things that help society.",
+     "vi": "đang tự học, mà thường đó là bước để họ xây dựng kỹ năng làm những điều rất, rất hay ho giúp ích cho xã hội."
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "title": "Junior to Senior in the Age of AI Agents",
+   "start": 1609,
+   "end": 1649,
+   "file": "media/part_15.mp4",
+   "lines": [
+    {
+     "start": 0,
+     "end": 5,
+     "en": "That step is now changing and people are asking, well, what do I do then to make myself not obsolete?",
+     "vi": "Bước đó giờ đang thay đổi, và mọi người hỏi: vậy tôi phải làm gì để mình không bị lỗi thời?"
+    },
+    {
+     "start": 5,
+     "end": 10,
+     "en": "And we're talking about anything with regards to communication and soft skills and learning. I agree with all of that.",
+     "vi": "Chúng ta đã nói về mọi thứ liên quan đến giao tiếp, kỹ năng mềm và việc học. Tôi đồng ý với tất cả những điều đó."
+    },
+    {
+     "start": 10,
+     "end": 16,
+     "en": "And then there's still a tooling aspect like I don't know what I should advise people with regards to.",
+     "vi": "Nhưng vẫn còn khía cạnh công cụ, mà tôi không biết nên khuyên mọi người thế nào."
+    },
+    {
+     "start": 16,
+     "end": 21,
+     "en": "Okay, how do you go from junior to actually in the end, becoming a senior because it's such a gray area that I don't know yet.",
+     "vi": "Làm sao để đi từ junior đến cuối cùng trở thành senior, vì đó là vùng xám mà tôi vẫn chưa rõ."
+    },
+    {
+     "start": 21,
+     "end": 30,
+     "en": "I feel like we're really figuring things out, and the only advice that I have is be as open minded as you can. Try and familiarize, familiarize yourself with a lot of things.",
+     "vi": "Tôi cảm thấy chúng ta vẫn đang tìm hiểu, và lời khuyên duy nhất tôi có là hãy cởi mở hết mức có thể. Hãy cố làm quen với thật nhiều thứ."
+    },
+    {
+     "start": 30,
+     "end": 40,
+     "en": "Try and build as much foundational knowledge as you can because tooling does change. I'm wondering what your perspective is on that. Don't be a fool with a tool.",
+     "vi": "Hãy cố xây dựng càng nhiều kiến thức nền tảng càng tốt vì công cụ thì luôn thay đổi. Tôi muốn biết quan điểm của anh về điều đó. Đừng làm kẻ ngốc chỉ biết một công cụ."
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "title": "Don't Be a Fool with a Tool",
+   "start": 1649,
+   "end": 1783,
+   "file": "media/part_16.mp4",
+   "lines": [
+    {
+     "start": 0,
+     "end": 3,
+     "en": "That is one of the core pieces of advice.",
+     "vi": "Đó là một trong những lời khuyên cốt lõi."
+    },
+    {
+     "start": 3,
+     "end": 11,
+     "en": "I got started my career some over nine years ago. Got don't be a fool with a tool",
+     "vi": "Khi tôi bắt đầu sự nghiệp hơn chín năm trước, tôi được dặn: đừng làm kẻ ngốc chỉ biết một công cụ."
+    },
+    {
+     "start": 11,
+     "end": 18,
+     "en": "back then we refer to only knowing are only knowing Python or only back then. Do you remember RPA people?",
+     "vi": "Hồi đó câu này ám chỉ những người chỉ biết R hoặc chỉ biết Python. Bạn có nhớ dân RPA không?"
+    },
+    {
+     "start": 18,
+     "end": 26,
+     "en": "Do you remember back when RPA was, was a thing? I was using a Python package back in the day to to scrape Twitter.",
+     "vi": "Bạn có nhớ hồi RPA còn là trào lưu không? Ngày đó tôi dùng một thư viện Python để thu thập dữ liệu Twitter."
+    },
+    {
+     "start": 26,
+     "end": 29,
+     "en": "I forgot forgot the name selenium.",
+     "vi": "Tôi quên mất tên, à, Selenium."
+    },
+    {
+     "start": 29,
+     "end": 38,
+     "en": "Yeah, yeah, I was learning selenium because that was one of the first Python based browser to automate the browser and click down.",
+     "vi": "Vâng, tôi học Selenium vì nó là một trong những công cụ đầu tiên dùng Python để tự động hóa trình duyệt và bấm chuột."
+    },
+    {
+     "start": 38,
+     "end": 40,
+     "en": "Back then, those were bots. Yeah.",
+     "vi": "Hồi đó, chúng được gọi là bot. Vâng."
+    },
+    {
+     "start": 40,
+     "end": 48,
+     "en": "But I knew people who doubled down on only learning selenium and all the ins and outs, but selenium was open source and it was great.",
+     "vi": "Nhưng tôi biết có người dốc sức chỉ học Selenium với mọi ngóc ngách của nó. Selenium là mã nguồn mở và nó rất tuyệt."
+    },
+    {
+     "start": 48,
+     "end": 49,
+     "en": "You could do everything with it.",
+     "vi": "Bạn có thể làm mọi thứ với nó."
+    },
+    {
+     "start": 49,
+     "end": 62,
+     "en": "But then the blue prism came in, which was basically the, the company, or the company organization equivalent of it, but it was reliable because you could sue somebody if it didn't work.",
+     "vi": "Nhưng rồi Blue Prism xuất hiện, về cơ bản là phiên bản dành cho doanh nghiệp, nhưng nó đáng tin cậy vì bạn có thể kiện ai đó nếu nó không chạy."
+    },
+    {
+     "start": 62,
+     "end": 68,
+     "en": "And suddenly the whole selenium market disappeared because people went for it for larger infrastructure tools instead.",
+     "vi": "Và đột nhiên cả thị trường Selenium biến mất vì mọi người chuyển sang các công cụ hạ tầng lớn hơn."
+    },
+    {
+     "start": 68,
+     "end": 74,
+     "en": "And the guy who knew everything about selenium was stuck. And the people who learned, Blue Prism were laughing at him.",
+     "vi": "Và anh chàng biết mọi thứ về Selenium bị mắc kẹt. Còn những người học Blue Prism thì cười nhạo anh ta."
+    },
+    {
+     "start": 74,
+     "end": 82,
+     "en": "Nowadays, we laugh at the people who only know Blue Prism because the cycle continues. It's not about learning any one tool.",
+     "vi": "Ngày nay, chúng ta lại cười những người chỉ biết Blue Prism vì vòng lặp cứ tiếp diễn. Vấn đề không phải là học một công cụ nào đó."
+    },
+    {
+     "start": 82,
+     "end": 88,
+     "en": "It's about being able to learn in general. And that involves learning the ins and outs of tools.",
+     "vi": "Mà là có khả năng học nói chung. Và điều đó bao gồm cả việc học tường tận các công cụ."
+    },
+    {
+     "start": 88,
+     "end": 101,
+     "en": "I think it, we are switching from an explicit knowledge economy to an implicit knowledge economy, and our education systems haven't adjusted to that.",
+     "vi": "Tôi nghĩ chúng ta đang chuyển từ nền kinh tế tri thức tường minh sang nền kinh tế tri thức ngầm, và hệ thống giáo dục của chúng ta chưa thích nghi với điều đó."
+    },
+    {
+     "start": 101,
+     "end": 107,
+     "en": "Yeah, that the worth of knowing stuff in your head, memorizing it, that worth is only going down.",
+     "vi": "Vâng, giá trị của việc biết mọi thứ trong đầu, ghi nhớ chúng, giá trị đó chỉ ngày càng giảm."
+    },
+    {
+     "start": 107,
+     "end": 114,
+     "en": "But the ability to look up stuff that was introduced, like what, 25 years ago when Google",
+     "vi": "Nhưng khả năng tra cứu thông tin, thứ xuất hiện khoảng 25 năm trước khi Google"
+    },
+    {
+     "start": 114,
+     "end": 122,
+     "en": "hit the market, before we had that, we had, start start by that has been introduced during our lifetimes,",
+     "vi": "ra mắt, trước đó chúng ta không có, điều đó mới xuất hiện ngay trong cuộc đời chúng ta,"
+    },
+    {
+     "start": 122,
+     "end": 134,
+     "en": "but the value of that of finding stuff in large amounts of information that is only going up, especially in the age of disinformation, because we are drowning it in the information.",
+     "vi": "giá trị của việc tìm ra điều cần thiết trong khối thông tin khổng lồ chỉ ngày càng tăng, đặc biệt trong thời đại tin giả, vì chúng ta đang chìm ngập trong thông tin."
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "title": "From Explicit to Implicit Knowledge Economy",
+   "start": 1783,
+   "end": 1838,
+   "file": "media/part_17.mp4",
+   "lines": [
+    {
+     "start": 0,
+     "end": 8,
+     "en": "But truth and wisdom has only increased, invaluable, and has become relatively more scarce,",
+     "vi": "Nhưng sự thật và sự khôn ngoan thì ngày càng quý giá, và trở nên khan hiếm hơn,"
+    },
+    {
+     "start": 8,
+     "end": 15,
+     "en": "because now there's more bots and more fake stuff flooding in the internet than actual real stuff.",
+     "vi": "vì giờ đây bot và nội dung giả tràn ngập internet nhiều hơn nội dung thật."
+    },
+    {
+     "start": 15,
+     "end": 24,
+     "en": "And the only way we can still distinguish truth from fake, because I see so many deep fakes now of Zelenskyy, of booting of F-35s",
+     "vi": "Và cách duy nhất chúng ta còn phân biệt được thật và giả, vì tôi thấy rất nhiều deepfake về Zelensky, về Putin, về những chiếc F-35"
+    },
+    {
+     "start": 24,
+     "end": 33,
+     "en": "that crashed in Iran, and we could only tell they were fake because there was still a human in the cockpit because they forgot to prompt it removes the human from the cockpit.",
+     "vi": "bị rơi ở Iran, và ta chỉ nhận ra chúng giả vì vẫn còn người trong buồng lái, do họ quên ra lệnh cho AI xóa người khỏi buồng lái."
+    },
+    {
+     "start": 33,
+     "end": 38,
+     "en": "We can only tell truth from fake because of human error and that too will end.",
+     "vi": "Chúng ta chỉ phân biệt được thật giả nhờ lỗi của con người, và điều đó rồi cũng sẽ chấm dứt."
+    },
+    {
+     "start": 38,
+     "end": 45,
+     "en": "So what we need to learn again, because learning is important, is to triangulate information to figure out what's real.",
+     "vi": "Vì vậy điều chúng ta cần học, lại là học, vì việc học rất quan trọng, là đối chiếu thông tin từ nhiều nguồn để tìm ra đâu là thật."
+    },
+    {
+     "start": 45,
+     "end": 55,
+     "en": "And this is why I, I'm frustrated with modern media and journalism that thinks that just regurgitating and repeating what no lie or say is somehow journalism.",
+     "vi": "Và đó là lý do tôi thất vọng với truyền thông và báo chí hiện đại, khi họ nghĩ rằng chỉ cần lặp lại những gì người khác nói là làm báo."
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "title": "Use AI to Validate, Not to Generate",
+   "start": 1838,
+   "end": 1972,
+   "file": "media/part_18.mp4",
+   "lines": [
+    {
+     "start": 0,
+     "end": 14,
+     "en": "I forgot the quote, but somebody once wrote this if one source tells you it's raining and the other says they're sunshine, your job as a journalist is not to report both, but to open a damn window.",
+     "vi": "Tôi quên mất câu trích dẫn chính xác, nhưng có người từng viết: nếu một nguồn nói trời đang mưa còn nguồn khác nói trời nắng, việc của nhà báo không phải là đưa tin cả hai, mà là mở cái cửa sổ ra mà nhìn."
+    },
+    {
+     "start": 14,
+     "end": 19,
+     "en": "And that's what I'm missing. What is your perspective on AI tooling in this building frame?",
+     "vi": "Và đó là điều tôi thấy còn thiếu. Quan điểm của anh về công cụ AI trong bối cảnh xây dựng sản phẩm này là gì?"
+    },
+    {
+     "start": 19,
+     "end": 28,
+     "en": "Because if you're looking towards end goals, if my end goal is to build a product or an e-commerce website, I can I can generate a lot of that stuff. But would I then learn how to actually do that?",
+     "vi": "Vì nếu nhìn vào mục tiêu cuối cùng, nếu mục tiêu của tôi là xây dựng một sản phẩm hay một trang web thương mại điện tử, tôi có thể sinh ra rất nhiều thứ bằng AI. Nhưng liệu tôi có thực sự học được cách làm không?"
+    },
+    {
+     "start": 28,
+     "end": 39,
+     "en": "And I would achieve my goal in a different manner with people from your perspective that start learning now, should they leverage AI tooling or how can they use it to learn effectively?",
+     "vi": "Tôi sẽ đạt mục tiêu theo một cách khác. Theo anh, những người bắt đầu học bây giờ có nên tận dụng công cụ AI không, hay họ có thể dùng nó thế nào để học hiệu quả?"
+    },
+    {
+     "start": 39,
+     "end": 43,
+     "en": "This is a great question, and we're still finding that out. I think, yeah.",
+     "vi": "Đây là câu hỏi rất hay, và chúng ta vẫn đang tìm câu trả lời. Tôi nghĩ vậy."
+    },
+    {
+     "start": 43,
+     "end": 51,
+     "en": "So so my take is, yes, you can use it to, to set up a lot of things for you.",
+     "vi": "Quan điểm của tôi là: đúng, bạn có thể dùng nó để thiết lập rất nhiều thứ cho bạn."
+    },
+    {
+     "start": 51,
+     "end": 59,
+     "en": "I would more use it as, a tool for validation rather than something for, for you can generate things. Right.",
+     "vi": "Nhưng tôi sẽ dùng nó như một công cụ để kiểm chứng hơn là một thứ để sinh ra mọi thứ cho bạn."
+    },
+    {
+     "start": 59,
+     "end": 72,
+     "en": "So if you are not able to actually explain what comes out of this model, and then if you are not able to understand why the code is there, then you will have a very rough problem also maintaining that and extending that.",
+     "vi": "Nếu bạn không giải thích được những gì model đưa ra, và nếu bạn không hiểu vì sao đoạn code lại ở đó, thì bạn sẽ gặp vấn đề rất lớn khi bảo trì và mở rộng nó."
+    },
+    {
+     "start": 72,
+     "end": 77,
+     "en": "And of course, and you can say, okay, well then I have some agents, who does silly.",
+     "vi": "Và tất nhiên bạn có thể nói: được thôi, vậy tôi sẽ có vài agent làm việc đó."
+    },
+    {
+     "start": 77,
+     "end": 85,
+     "en": "But it doesn't need there, there is, there will be a gap of understanding where the model tripped up and you are not able to get it, catch it.",
+     "vi": "Nhưng sẽ luôn có một khoảng trống hiểu biết, chỗ mà model mắc lỗi và bạn không thể nhận ra, không bắt được nó."
+    },
+    {
+     "start": 85,
+     "end": 94,
+     "en": "So use, use AI models to validate your understanding. Try to, generate maybe a few things and see.",
+     "vi": "Vì vậy hãy dùng các model AI để kiểm chứng sự hiểu biết của bạn. Thử sinh ra vài thứ và xem."
+    },
+    {
+     "start": 94,
+     "end": 99,
+     "en": "Do I actually understand what's happening here? If not, ask the model that. That's great.",
+     "vi": "Mình có thực sự hiểu chuyện gì đang diễn ra ở đây không? Nếu không, hãy hỏi model. Như vậy rất tốt."
+    },
+    {
+     "start": 99,
+     "end": 108,
+     "en": "But don't focus on getting, a product out of it and then getting sort of the the yeah, the products",
+     "vi": "Nhưng đừng chỉ tập trung vào việc tạo ra sản phẩm từ nó, vì cái sản phẩm"
+    },
+    {
+     "start": 108,
+     "end": 116,
+     "en": "there in the end is really, a tool that you can use, especially if you're like a taxi driver who, who's going to and doing coding.",
+     "vi": "rốt cuộc chỉ là một công cụ bạn có thể dùng, đặc biệt nếu bạn là, kiểu như, một tài xế taxi chuyển sang học lập trình."
+    },
+    {
+     "start": 116,
+     "end": 119,
+     "en": "It's a tool that you can use to to build your knowledge.",
+     "vi": "Nó là công cụ bạn có thể dùng để xây dựng kiến thức của mình."
+    },
+    {
+     "start": 119,
+     "end": 129,
+     "en": "You can also use very much to change of course, and to just so I step all of this hard work of trying to do a sentence. But I don't think that will, in the long run, help you.",
+     "vi": "Tất nhiên bạn cũng có thể dùng nó để bỏ qua tất cả những công sức vất vả. Nhưng tôi không nghĩ về lâu dài điều đó sẽ giúp ích cho bạn."
+    },
+    {
+     "start": 129,
+     "end": 134,
+     "en": "beyond coding",
+     "vi": "Beyond Coding (Ngoài việc viết code)"
+    }
+   ]
+  }
+ ]
+}

@@ -35,3 +35,20 @@ Options:
 > Use `scripts/serve.py` instead of `python -m http.server`: it supports HTTP Range requests, which the browser needs to seek in the video.
 
 Keyboard shortcuts: `Shift+←` / `Shift+→` previous/next line, `R` replay line.
+
+## Lesson data from a transcript you provide
+
+The transcript (with Vietnamese translations) lives in `data/transcript_*.txt`:
+
+```
+## Part title
+m:ss|English line|Vietnamese line
+```
+
+Build `web/data/lesson.json` from it:
+
+```bash
+python scripts/build_lesson.py                 # parts play web/media/part_01.mp4 … part_18.mp4
+python scripts/build_lesson.py --cut full.mp4  # also cut your full video into those files
+python scripts/build_lesson.py --youtube       # no local files, play from the YouTube embed
+```
