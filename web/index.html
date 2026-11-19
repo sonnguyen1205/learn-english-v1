@@ -4,34 +4,47 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Learn English</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700;800&family=Nunito:wght@500;600;700;800&display=swap">
   <link rel="stylesheet" href="style.css">
 </head>
 <body class="home-page">
-  <header class="topbar">
-    <h1>📺 Learn English</h1>
-    <span class="muted">Học tiếng Anh qua video</span>
+  <header class="topbar home-top">
+    <div class="logo">
+      <svg aria-hidden="true" width="44" height="44" viewBox="0 0 44 44"><path d="M8 6h28a6 6 0 0 1 6 6v16a6 6 0 0 1-6 6H20l-9 7v-7H8a6 6 0 0 1-6-6V12a6 6 0 0 1 6-6z" fill="#FFCB45" stroke="#1E2142" stroke-width="2.5" stroke-linejoin="round"/><circle cx="15" cy="18" r="2.2" fill="#1E2142"/><circle cx="29" cy="18" r="2.2" fill="#1E2142"/><path d="M15 24c2 3.5 12 3.5 14 0" fill="none" stroke="#1E2142" stroke-width="2.5" stroke-linecap="round"/></svg>
+      Learn English
+    </div>
+    <div class="chips">
+      <div class="chip streak" id="streak" title="Số ngày học liên tiếp"></div>
+      <div class="chip stars" id="known-total" title="Tổng số từ đã thuộc"></div>
+    </div>
   </header>
 
   <main class="home-main">
+    <div class="hello">
+      <h2 id="hello-title">Chào bạn! Hôm nay học tiếp nhé</h2>
+      <p>Mỗi ngày một phần video, vài từ mới. Cứ từ từ mà tiến.</p>
+    </div>
+
     <section id="continue" class="continue" hidden>
-      <a class="continue-thumb" id="c-link"><img id="c-img" alt=""><span class="play">▶</span></a>
+      <a class="continue-thumb" id="c-link" aria-label="Tiếp tục xem"><img id="c-img" alt=""><span class="play"><i data-icon="play" data-size="28"></i></span></a>
       <div class="continue-body">
         <div class="eyebrow">Tiếp tục xem</div>
         <h2 id="c-title"></h2>
-        <p class="muted" id="c-where"></p>
+        <p id="c-where"></p>
         <div class="bar"><i id="c-bar"></i></div>
         <div class="actions">
-          <a class="btn primary" id="c-watch">▶ Tiếp tục</a>
-          <a class="btn" id="c-vocab">📚 Từ vựng</a>
+          <a class="btn primary" id="c-watch"><i data-icon="play"></i> Tiếp tục</a>
+          <a class="btn" id="c-vocab"><i data-icon="book"></i> Ôn từ vựng</a>
         </div>
       </div>
     </section>
 
-    <h2 class="section-title">Tất cả video <span id="count" class="muted"></span></h2>
+    <h2 class="section-title">Video của bạn <small id="count"></small></h2>
     <section id="videos" class="video-grid"></section>
-    <p id="empty" class="muted" hidden>Chưa có video nào. Thêm vào <code>data/videos/</code> rồi chạy <code>npm run build</code>.</p>
   </main>
 
+  <script src="common.js"></script>
   <script src="home.js"></script>
 </body>
 </html>

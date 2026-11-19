@@ -4,36 +4,41 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Từ vựng</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700;800&family=Nunito:wght@500;600;700;800&display=swap">
   <link rel="stylesheet" href="style.css">
 </head>
 <body class="vocab-page">
   <header class="topbar">
-    <a href="index.html" class="home-link" title="Trang chủ">← Trang chủ</a>
+    <a href="index.html" class="home-link" aria-label="Về trang chủ" title="Trang chủ"><i data-icon="back" data-size="20"></i></a>
     <h1 id="lesson-title">Từ vựng</h1>
     <nav class="nav">
-      <a id="nav-watch" href="watch.html">🎬 Video</a>
-      <a id="nav-vocab" href="vocab.html" class="active">📚 Từ vựng</a>
+      <a id="nav-watch" href="watch.html"><i data-icon="video"></i> Video</a>
+      <a id="nav-vocab" href="vocab.html" class="active"><i data-icon="book"></i> Từ vựng</a>
     </nav>
   </header>
 
   <main class="vocab-main">
-    <div class="vocab-toolbar">
-      <div class="seg" id="mode">
-        <button data-mode="list" class="active">☰ Danh sách</button>
-        <button data-mode="cards">🃏 Thẻ ghi nhớ</button>
-      </div>
-      <select id="f-part" title="Lọc theo phần"><option value="">Tất cả các phần</option></select>
-      <select id="f-status" title="Lọc theo trạng thái">
-        <option value="">Tất cả</option>
-        <option value="new">Chưa thuộc</option>
-        <option value="known">Đã thuộc</option>
-      </select>
-      <input id="f-search" type="search" placeholder="Tìm từ hoặc nghĩa…">
-      <div class="progress" title="Số từ đã thuộc">
-        <span id="progress-text">0 / 0</span>
+    <section class="vocab-hero">
+      <i data-icon="star" data-size="52"></i>
+      <div class="progress">
+        <span id="progress-text">Đã thuộc 0 / 0 từ</span>
         <span class="progress-bar"><i id="progress-bar"></i></span>
       </div>
-    </div>
+      <div class="vocab-toolbar">
+        <div class="seg" id="mode">
+          <button data-mode="list" class="active"><i data-icon="list" data-size="16"></i> Danh sách</button>
+          <button data-mode="cards"><i data-icon="cards" data-size="16"></i> Thẻ ghi nhớ</button>
+        </div>
+        <select id="f-part" aria-label="Lọc theo phần"><option value="">Tất cả các phần</option></select>
+        <select id="f-status" aria-label="Lọc theo trạng thái">
+          <option value="">Tất cả</option>
+          <option value="new">Chưa thuộc</option>
+          <option value="known">Đã thuộc</option>
+        </select>
+        <input id="f-search" type="search" placeholder="Tìm từ hoặc nghĩa…" aria-label="Tìm từ hoặc nghĩa">
+      </div>
+    </section>
 
     <!-- list mode -->
     <section id="list" class="vocab-list"></section>
@@ -43,25 +48,25 @@
       <div class="card-count muted" id="card-count"></div>
       <div class="flashcard" id="flashcard" tabindex="0" title="Bấm hoặc nhấn Space để lật thẻ">
         <div class="face front">
+          <span class="fc-pos" id="fc-pos"></span>
           <div class="fc-word" id="fc-word"></div>
           <div class="fc-ipa muted" id="fc-ipa"></div>
-          <div class="fc-pos" id="fc-pos"></div>
-          <div class="fc-hint muted">Bấm để xem nghĩa</div>
+          <div class="fc-hint muted">Bấm thẻ để lật xem nghĩa</div>
         </div>
         <div class="face back">
           <div class="fc-vi" id="fc-vi"></div>
           <p class="fc-ex" id="fc-ex"></p>
           <p class="fc-ex-vi muted" id="fc-ex-vi"></p>
-          <a class="watch" id="fc-watch" href="#">▶ Xem trong video</a>
+          <a class="watch" id="fc-watch" href="#"><i data-icon="play" data-size="14"></i> Xem trong video</a>
         </div>
       </div>
       <div class="card-actions">
-        <button id="fc-prev" title="Thẻ trước (←)">←</button>
-        <button id="fc-speak" title="Nghe phát âm (S)">🔊</button>
-        <button id="fc-new" class="btn-new" title="Chưa thuộc (1)">✗ Chưa thuộc</button>
-        <button id="fc-known" class="btn-known" title="Đã thuộc (2)">✓ Đã thuộc</button>
-        <button id="fc-shuffle" title="Trộn thẻ">🔀</button>
-        <button id="fc-next" title="Thẻ sau (→)">→</button>
+        <button id="fc-prev" aria-label="Thẻ trước" title="Thẻ trước (←)"><i data-icon="back" data-size="20"></i></button>
+        <button id="fc-speak" aria-label="Nghe phát âm" title="Nghe phát âm (S)"><i data-icon="speaker" data-size="22"></i></button>
+        <button id="fc-new" class="btn-new" title="Chưa thuộc (1)"><i data-icon="x"></i> Chưa thuộc</button>
+        <button id="fc-known" class="btn-known" title="Đã thuộc (2)"><i data-icon="check"></i> Đã thuộc</button>
+        <button id="fc-shuffle" aria-label="Trộn thẻ" title="Trộn thẻ"><i data-icon="shuffle" data-size="22"></i></button>
+        <button id="fc-next" aria-label="Thẻ sau" title="Thẻ sau (→)"><i data-icon="forward" data-size="20"></i></button>
       </div>
       <p class="muted keys">Phím tắt: Space lật thẻ · ← → chuyển thẻ · 1 chưa thuộc · 2 đã thuộc · S nghe</p>
     </section>
@@ -69,6 +74,7 @@
     <p id="empty-list" class="muted empty-list" hidden>Không có từ nào phù hợp.</p>
   </main>
 
+  <script src="common.js"></script>
   <script src="vocab.js"></script>
 </body>
 </html>

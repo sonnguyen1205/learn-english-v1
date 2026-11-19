@@ -40,14 +40,14 @@
 
   function setKnown(w, known) {
     state.known = state.known || {};
-    if (known) state.known[w.id] = true; else delete state.known[w.id];
+    if (known) { state.known[w.id] = true; LE.markStudyDay(); } else delete state.known[w.id];
     store();
     updateProgress();
   }
 
   function updateProgress() {
     const n = words.filter(isKnown).length;
-    $("#progress-text").textContent = `Đã thuộc ${n} / ${words.length}`;
+    $("#progress-text").textContent = `Đã thuộc ${n} / ${words.length} từ`;
     $("#progress-bar").style.width = `${(n / words.length) * 100}%`;
   }
 
@@ -84,16 +84,16 @@
       el.className = "word-card" + (isKnown(w) ? " known" : "");
       el.innerHTML = `
         <div class="wc-head">
-          <button class="speak" title="Nghe phát âm">🔊</button>
+          <button class="speak" aria-label="Nghe phát âm" title="Nghe phát âm">${LE.icon("speaker", 18)}</button>
           <div class="wc-word"></div>
           <span class="pos"></span>
-          <label class="known-toggle" title="Đánh dấu đã thuộc"><input type="checkbox"> Đã thuộc</label>
+          <label class="known-toggle" title="Đánh dấu đã thuộc"><input type="checkbox"><span>${LE.icon("check", 14)} Đã thuộc</span></label>
         </div>
         <div class="wc-ipa muted"></div>
         <div class="wc-vi"></div>
-        <p class="wc-ex"><button class="speak small" title="Nghe câu ví dụ">🔊</button> <span></span></p>
+        <p class="wc-ex"><button class="speak small" aria-label="Nghe câu ví dụ" title="Nghe câu ví dụ">${LE.icon("speaker", 14)}</button> <span></span></p>
         <p class="wc-ex-vi muted"></p>
-        <a class="watch" href="${watchUrl(w)}">▶ Xem trong video · ${fmt(w.t)}</a>`;
+        <a class="watch" href="${watchUrl(w)}">${LE.icon("play", 14)} Xem trong video · ${fmt(w.t)}</a>`;
       el.querySelector(".wc-word").textContent = w.word;
       el.querySelector(".pos").textContent = w.pos;
       el.querySelector(".wc-ipa").textContent = w.ipa;
@@ -184,7 +184,7 @@
     $("#nav-vocab").href = `vocab.html?v=${slug}`;
     KEY = `learn-english-vocab:${lesson.videoId}`;
     state = load();
-    $("#lesson-title").textContent = `Từ vựng · ${lesson.title}`;
+    $("#lesson-title").textContent = lesson.title;
     document.title = `Từ vựng · ${lesson.title}`;
     for (const p of lesson.parts) {
       const n = words.filter((w) => w.part === p.id).length;

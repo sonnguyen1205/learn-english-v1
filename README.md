@@ -1,14 +1,15 @@
 # Learn English
 
 Learn English from YouTube videos: each video is split into parts, with an EN/VI transcript and a vocabulary list.
-Node.js only, no dependencies.
+Node.js only, no dependencies. The look uses the Baloo 2 and Nunito fonts from Google Fonts (falls back to system fonts offline); icons are inline SVG in `web/common.js`.
 
 ## Pages
 
-- **Home (`index.html`):** list of videos with watch progress and words learned, plus "Tiếp tục xem" to resume the last video.
+- **Home (`index.html`):** list of videos with watch progress and words learned, "Tiếp tục xem" to resume the last video, and a daily study streak (a day counts when you play a video or mark a word as known).
 - **Video (`watch.html?v=<video>`):**
   - Left column: player (full / 1/2 / hidden), with the list of parts below.
   - Right column: transcript with **EN / VI / Ẩn** tabs; hover a line to see the other language.
+  - Vocabulary words are underlined in yellow in the EN transcript; click one to see its IPA and meaning and hear it.
   - Loop a line, loop a part, speed slider 0.5×–2×.
   - Remembers the position in every part.
 - **Vocabulary (`vocab.html?v=<video>`):**

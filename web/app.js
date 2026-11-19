@@ -122,6 +122,9 @@
     li.querySelector(".bar i").style.width = done ? "100%" : `${Math.min(100, (t / partLen(p)) * 100)}%`;
     li.classList.toggle("done", !!done);
     li.classList.toggle("active", i === current);
+    li.querySelector(".num").innerHTML = done ? LE.icon("check", 18) : String(i + 1);
+    const nDone = lesson.parts.filter((x) => (state.done || {})[x.id]).length;
+    $("#parts-done").textContent = `Đã xong ${nDone}/${lesson.parts.length}`;
   }
 
   function renderTranscript() {
@@ -129,16 +132,24 @@
     hideTip();
     transcriptEl.innerHTML = "";
     transcriptEl.classList.toggle("masked", lang === "hide");
+    hideWord();
+    $("#legend").hidden = !(lang === "en" && vocabAt.size);
     const frag = document.createDocumentFragment();
     p.lines.forEach((l, i) => {
       const div = document.createElement("div");
       div.className = "line";
       div.dataset.i = i;
       div.innerHTML = `<span class="t">${fmt(p.start + l.start)}</span><span class="text"></span>`;
-      div.querySelector(".text").textContent = (lang === "vi" ? l.vi : l.en) || l.en;
+      const words = lang === "en" ? vocabAt.get(p.start + l.start) : null;
+      if (words) div.querySelector(".text").innerHTML = markVocab(l.en, words);
+      else div.querySelector(".text").textContent = (lang === "vi" ? l.vi : l.en) || l.en;
       div.addEventListener("mouseenter", () => showTip(div, l));
       div.addEventListener("mouseleave", hideTip);
-      div.addEventListener("click", () => { player.seek(l.start); player.play(); });
+      div.addEventListener("click", (e) => {
+        const vw = e.target.closest(".vw");
+        if (vw) { showWord(vw); return; }
+        player.seek(l.start); player.play();
+      });
       frag.appendChild(div);
     });
     transcriptEl.appendChild(frag);
@@ -188,6 +199,48 @@
     renderTranscript();
   }
 
+  // ---------------------------------------------------------------- vocabulary words inside the transcript
+  const vocabAt = new Map();   // absolute time of a line -> vocab entries used in that line
+  const vocabById = new Map();
+  const STOP = new Set(["the", "and", "for", "with", "you", "your", "its", "out", "off"]);
+  const esc = (t) => t.replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  function markVocab(sentence, words) {
+    const stems = [];
+    for (const w of words)
+      for (const tok of w.word.toLowerCase().split(/[^a-z]+/))
+        if (tok.length > 2 && !STOP.has(tok)) stems.push([tok.slice(0, Math.min(tok.length, 5)), w.id]);
+    return esc(sentence).replace(/[A-Za-z']+/g, (tok) => {
+      const hit = stems.find(([s]) => tok.toLowerCase().startsWith(s));
+      return hit ? `<span class="vw" data-id="${hit[1]}">${tok}</span>` : tok;
+    });
+  }
+  const pop = $("#word-pop");
+  function showWord(el) {
+    const w = vocabById.get(el.dataset.id);
+    if (!w) return;
+    hideTip();
+    pop.innerHTML = `<div class="wp-head"><span class="wp-word"></span><button class="speak" aria-label="Nghe phát âm">${LE.icon("speaker", 18)}</button></div>
+      <div class="wp-ipa"></div><div class="wp-vi"></div><a href="vocab.html?v=${lesson.slug}">Mở trang từ vựng</a>`;
+    pop.querySelector(".wp-word").textContent = w.word;
+    pop.querySelector(".wp-ipa").textContent = `${w.ipa} · ${w.pos}`;
+    pop.querySelector(".wp-vi").textContent = w.vi;
+    pop.querySelector(".speak").onclick = () => speak(w.word);
+    pop.hidden = false;
+    const r = el.getBoundingClientRect();
+    const top = r.bottom + 8 + pop.offsetHeight < window.innerHeight ? r.bottom + 8 : r.top - pop.offsetHeight - 8;
+    pop.style.top = Math.max(8, top) + "px";
+    pop.style.left = Math.max(8, Math.min(r.left, window.innerWidth - pop.offsetWidth - 8)) + "px";
+  }
+  function hideWord() { pop.hidden = true; }
+  function speak(text) {
+    if (!("speechSynthesis" in window)) return;
+    speechSynthesis.cancel();
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang = "en-US"; u.rate = 0.8;
+    speechSynthesis.speak(u);
+  }
+  document.addEventListener("click", (e) => { if (!e.target.closest(".vw, .word-pop")) hideWord(); });
+
   // ---------------------------------------------------------------- tooltip
   const tip = $("#tip");
   function showTip(el, l) {
@@ -224,7 +277,10 @@
     const p = lesson.parts[current];
     const playing = !player.paused();
     $("#now-playing").classList.toggle("playing", playing);
-    $("#np-toggle").textContent = playing ? "❚❚" : "▶";
+    if ($("#np-toggle").dataset.playing !== String(playing)) {
+      $("#np-toggle").dataset.playing = String(playing);
+      $("#np-toggle").innerHTML = LE.icon(playing ? "pause" : "play", 20);
+    }
     $("#np-title").textContent = `${current + 1}. ${p.title}`;
     $("#np-time").textContent = `${fmt(player.time())} / ${fmt(partLen(p))}`;
   }
@@ -273,7 +329,7 @@
     $("#speed").addEventListener("dblclick", () => setSpeed(1));
     document.querySelectorAll("#view-mode button").forEach((b) => b.addEventListener("click", () => setView(b.dataset.view)));
     $("#np-toggle").onclick = togglePlay;
-    transcriptEl.addEventListener("scroll", hideTip);
+    transcriptEl.addEventListener("scroll", () => { hideTip(); hideWord(); });
     document.addEventListener("keydown", (e) => {
       if (e.target.matches("input, select, textarea")) return;
       if (e.key === "ArrowLeft" && e.shiftKey) { jumpLine(-1); e.preventDefault(); }
@@ -312,12 +368,19 @@
       $("#empty").hidden = false;
       return;
     }
+    try {
+      const vocab = await fetch(`data/${lesson.slug}/vocab.json`, { cache: "no-cache" }).then((r) => (r.ok ? r.json() : []));
+      for (const w of vocab) {
+        vocabById.set(w.id, w);
+        if (!vocabAt.has(w.t)) vocabAt.set(w.t, []);
+        vocabAt.get(w.t).push(w);
+      }
+    } catch {}
     document.title = lesson.title;
     $("#nav-watch").href = `watch.html?v=${lesson.slug}`;
     $("#nav-vocab").href = `vocab.html?v=${lesson.slug}`;
     try { localStorage.setItem("learn-english:last", JSON.stringify({ slug: lesson.slug, at: Date.now() })); } catch {}
     $("#lesson-title").textContent = lesson.title;
-    $("#lesson-channel").textContent = lesson.channel || "";
     state = load();
     lang = state.lang || "en";
     current = Math.min(state.part || 0, lesson.parts.length - 1);
@@ -346,6 +409,7 @@
       video.addEventListener("ratechange", () => {   // keep the slider in sync with native controls
         if (ready && Math.abs(video.playbackRate - (+$("#speed").value)) > 0.001) setSpeed(video.playbackRate); });
       video.addEventListener("play", updateNowPlaying);
+      video.addEventListener("play", LE.markStudyDay);
       video.addEventListener("pause", updateNowPlaying);
       selectPart(current, false);
       video.addEventListener("loadedmetadata", () => { video.playbackRate = state.speed || 1; });
