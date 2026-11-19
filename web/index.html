@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Learn English</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <h1 id="lesson-title">Learn English</h1>
+    <span id="lesson-channel" class="muted"></span>
+  </header>
+
+  <main class="layout">
+    <section class="left">
+      <div class="player-wrap">
+        <video id="video" controls playsinline preload="metadata"></video>
+        <div id="yt-player" hidden></div>
+      </div>
+      <div class="player-tools">
+        <button id="prev-line" title="Câu trước (Shift+←)">⏮ Câu trước</button>
+        <button id="replay-line" title="Nghe lại câu (R)">↻ Nghe lại</button>
+        <button id="next-line" title="Câu sau (Shift+→)">Câu sau ⏭</button>
+        <label class="loop"><input type="checkbox" id="loop-line"> Lặp câu</label>
+        <select id="speed" title="Tốc độ">
+          <option value="0.5">0.5×</option><option value="0.75">0.75×</option>
+          <option value="1" selected>1×</option><option value="1.25">1.25×</option><option value="1.5">1.5×</option>
+        </select>
+      </div>
+      <h2 class="section-title">Các phần</h2>
+      <ol id="parts" class="parts"></ol>
+    </section>
+
+    <section class="right">
+      <div class="tabs" role="tablist">
+        <button role="tab" data-lang="en" class="tab active">EN</button>
+        <button role="tab" data-lang="vi" class="tab">VI</button>
+      </div>
+      <div id="transcript" class="transcript"></div>
+    </section>
+  </main>
+
+  <div id="empty" class="empty" hidden>
+    <p>Chưa có dữ liệu bài học. Chạy:</p>
+    <pre>python scripts/prepare.py https://www.youtube.com/watch?v=OkXuLNAjrSg</pre>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,3 @@
+web/media/*.mp4
+__pycache__/
+*.part
