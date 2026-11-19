@@ -5,8 +5,12 @@ A one-page app for learning English from the video
 
 - **Left column:** video player, with the 18 parts listed below it (a progress bar for each part)
 - **Right column:** transcript of the current part, with **EN / VI** tabs; the current line is highlighted, and clicking a line jumps to it
-- Previous / replay / next line, loop a line, playback speed
-- **Remembers playback** (in `localStorage`): the current part, the position in each part, the language tab and the speed
+- **EN / VI / Ẩn** tabs; "Ẩn" blurs the transcript for listening practice
+- Hover a line to see a tooltip in the other language (in "Ẩn" mode the tooltip shows both EN and VI)
+- Video size: full / 1/2 / hidden; when hidden, a "now playing" bar shows with play/pause
+- Speed slider from 0.5× to 2× (double-click to reset to 1×)
+- Previous / replay / next line, loop a line, `Space` to play/pause
+- **Remembers** (in `localStorage`): the current part, the position in each part, the tab, the speed and the video size
 
 Node.js only, no dependencies.
 

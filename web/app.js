@@ -11,7 +11,8 @@
   let activeLine = -1;
   let player = null;          // abstraction over <video> / YouTube iframe
   let saveTimer = 0;
-  let ready = false;          // true once the current part has been loaded at its saved time
+  let ready = false;
+  let view = "full";          // video size: full | half | hidden          // true once the current part has been loaded at its saved time
 
   // ---------------------------------------------------------------- storage
   const KEY = () => `learn-english:${lesson.videoId}`;
@@ -54,8 +55,9 @@
       time: () => video.currentTime,
       seek: (t) => { video.currentTime = t; },
       play: () => video.play().catch(() => {}),
+      pause: () => video.pause(),
       paused: () => video.paused,
-      setRate: (r) => { video.playbackRate = r; },
+      setRate: (r) => { video.defaultPlaybackRate = r; video.playbackRate = r; },
     };
   }
 
@@ -87,6 +89,7 @@
       time: () => (ytReady && part ? Math.max(0, (yt.getCurrentTime() || 0) - part.start) : 0),
       seek: (t) => { if (ytReady) yt.seekTo(part.start + t, true); },
       play: () => ytReady && yt.playVideo(),
+      pause: () => ytReady && yt.pauseVideo(),
       paused: () => !ytReady || yt.getPlayerState() !== 1,
       setRate: (r) => { rate = r; if (ytReady) yt.setPlaybackRate(r); },
     };
@@ -122,7 +125,9 @@
 
   function renderTranscript() {
     const p = lesson.parts[current];
+    hideTip();
     transcriptEl.innerHTML = "";
+    transcriptEl.classList.toggle("masked", lang === "hide");
     const frag = document.createDocumentFragment();
     p.lines.forEach((l, i) => {
       const div = document.createElement("div");
@@ -130,6 +135,8 @@
       div.dataset.i = i;
       div.innerHTML = `<span class="t">${fmt(p.start + l.start)}</span><span class="text"></span>`;
       div.querySelector(".text").textContent = (lang === "vi" ? l.vi : l.en) || l.en;
+      div.addEventListener("mouseenter", () => showTip(div, l));
+      div.addEventListener("mouseleave", hideTip);
       div.addEventListener("click", () => { player.seek(l.start); player.play(); });
       frag.appendChild(div);
     });
@@ -180,6 +187,57 @@
     renderTranscript();
   }
 
+  // ---------------------------------------------------------------- tooltip
+  const tip = $("#tip");
+  function showTip(el, l) {
+    const rows = lang === "en" ? [["VI", l.vi]] : lang === "vi" ? [["EN", l.en]] : [["EN", l.en], ["VI", l.vi]];
+    tip.innerHTML = "";
+    rows.filter(([, t]) => t).forEach(([k, t]) => {
+      const lab = document.createElement("span"); lab.className = "lang"; lab.textContent = k;
+      tip.append(lab, document.createTextNode(t));
+    });
+    if (!tip.childNodes.length) return;
+    tip.hidden = false;
+    const r = el.getBoundingClientRect(), c = transcriptEl.getBoundingClientRect();
+    tip.style.maxWidth = Math.min(420, c.width - 16) + "px";
+    const th = tip.offsetHeight;
+    const top = r.top - th - 6 >= 8 ? r.top - th - 6 : r.bottom + 6;  // above, or below if no room
+    tip.style.top = top + "px";
+    tip.style.left = Math.max(8, Math.min(c.left + 56, window.innerWidth - tip.offsetWidth - 8)) + "px";
+  }
+  function hideTip() { tip.hidden = true; }
+
+  // ---------------------------------------------------------------- video size: full | half | hidden
+  function setView(v) {
+    view = v;
+    const wrap = $(".player-wrap");
+    wrap.classList.toggle("half", v === "half");
+    wrap.classList.toggle("hidden", v === "hidden");
+    $("#now-playing").hidden = v !== "hidden";
+    document.querySelectorAll("#view-mode button").forEach((b) => b.classList.toggle("active", b.dataset.view === v));
+    state.view = v; store(state);
+    updateNowPlaying();
+  }
+  function updateNowPlaying() {
+    if (view !== "hidden" || !player) return;
+    const p = lesson.parts[current];
+    const playing = !player.paused();
+    $("#now-playing").classList.toggle("playing", playing);
+    $("#np-toggle").textContent = playing ? "❚❚" : "▶";
+    $("#np-title").textContent = `${current + 1}. ${p.title}`;
+    $("#np-time").textContent = `${fmt(player.time())} / ${fmt(partLen(p))}`;
+  }
+  function togglePlay() { player.paused() ? player.play() : player.pause(); }
+
+  // ---------------------------------------------------------------- speed
+  function setSpeed(r, save = true) {
+    r = Math.min(2, Math.max(0.5, Math.round(r * 100) / 100));
+    $("#speed").value = r;
+    $("#speed-val").textContent = r.toFixed(2) + "×";
+    if (player) player.setRate(r);
+    if (save) { state.speed = r; store(state); }
+  }
+
   // ---------------------------------------------------------------- loop / tick
   function tick() {
     if (!player) return;
@@ -192,6 +250,7 @@
       if (t >= end - 0.05) { player.seek(l.start); return; }
     }
     syncLine(false);
+    updateNowPlaying();
     if (t >= partLen(p) - 0.5 && !(state.done || {})[p.id]) {
       state.done = state.done || {}; state.done[p.id] = true; saveNow();
     }
@@ -208,12 +267,17 @@
     $("#prev-line").onclick = () => jumpLine(-1);
     $("#next-line").onclick = () => jumpLine(1);
     $("#replay-line").onclick = () => jumpLine(0);
-    $("#speed").onchange = (e) => { player.setRate(+e.target.value); state.speed = +e.target.value; store(state); };
+    $("#speed").addEventListener("input", (e) => setSpeed(+e.target.value));
+    $("#speed").addEventListener("dblclick", () => setSpeed(1));
+    document.querySelectorAll("#view-mode button").forEach((b) => b.addEventListener("click", () => setView(b.dataset.view)));
+    $("#np-toggle").onclick = togglePlay;
+    transcriptEl.addEventListener("scroll", hideTip);
     document.addEventListener("keydown", (e) => {
       if (e.target.matches("input, select, textarea")) return;
       if (e.key === "ArrowLeft" && e.shiftKey) { jumpLine(-1); e.preventDefault(); }
       else if (e.key === "ArrowRight" && e.shiftKey) { jumpLine(1); e.preventDefault(); }
       else if (e.key === "r" || e.key === "R") jumpLine(0);
+      else if (e.key === " " && e.target === document.body) { togglePlay(); e.preventDefault(); }
     });
     video.addEventListener("pause", saveNow);
     video.addEventListener("seeked", saveNow);
@@ -249,13 +313,16 @@
     bindUI();
     document.querySelectorAll(".tab").forEach((b) => b.classList.toggle("active", b.dataset.lang === lang));
     const speed = state.speed || 1;
-    $("#speed").value = String(speed);
+    setSpeed(speed, false);
+    setView(state.view || "full");
 
     if (useLocal) {
       player = localPlayer();
       player.setRate(speed);
-      video.addEventListener("ratechange", () => { /* keep the select in sync with native controls */
-        $("#speed").value = String(video.playbackRate); });
+      video.addEventListener("ratechange", () => {   // keep the slider in sync with native controls
+        if (ready && Math.abs(video.playbackRate - (+$("#speed").value)) > 0.001) setSpeed(video.playbackRate); });
+      video.addEventListener("play", updateNowPlaying);
+      video.addEventListener("pause", updateNowPlaying);
       selectPart(current, false);
       video.addEventListener("loadedmetadata", () => { video.playbackRate = state.speed || 1; });
     } else {

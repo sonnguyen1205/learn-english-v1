@@ -14,6 +14,20 @@
 
   <main class="layout">
     <section class="left">
+      <div class="view-bar">
+        <span class="muted">Video</span>
+        <div class="seg" id="view-mode" role="group" aria-label="Kích thước video">
+          <button data-view="full" class="active" title="Kích thước đầy đủ">▭ Đầy đủ</button>
+          <button data-view="half" title="Thu nhỏ 1/2">▫ 1/2</button>
+          <button data-view="hidden" title="Ẩn video, chỉ nghe">◌ Ẩn</button>
+        </div>
+      </div>
+      <div class="now-playing" id="now-playing" hidden>
+        <button id="np-toggle" class="np-btn" title="Phát / Tạm dừng (Space)">▶</button>
+        <span class="eq" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+        <span class="np-title" id="np-title"></span>
+        <span class="np-time muted" id="np-time">0:00</span>
+      </div>
       <div class="player-wrap">
         <video id="video" controls playsinline preload="metadata"></video>
         <div id="yt-player" hidden></div>
@@ -23,10 +37,11 @@
         <button id="replay-line" title="Nghe lại câu (R)">↻ Nghe lại</button>
         <button id="next-line" title="Câu sau (Shift+→)">Câu sau ⏭</button>
         <label class="loop"><input type="checkbox" id="loop-line"> Lặp câu</label>
-        <select id="speed" title="Tốc độ">
-          <option value="0.5">0.5×</option><option value="0.75">0.75×</option>
-          <option value="1" selected>1×</option><option value="1.25">1.25×</option><option value="1.5">1.5×</option>
-        </select>
+        <label class="speed" title="Tốc độ (nhấp đúp để về 1×)">
+          <span>Tốc độ</span>
+          <input type="range" id="speed" min="0.5" max="2" step="0.05" value="1">
+          <output id="speed-val">1.00×</output>
+        </label>
       </div>
       <h2 class="section-title">Các phần</h2>
       <ol id="parts" class="parts"></ol>
@@ -36,14 +51,16 @@
       <div class="tabs" role="tablist">
         <button role="tab" data-lang="en" class="tab active">EN</button>
         <button role="tab" data-lang="vi" class="tab">VI</button>
+        <button role="tab" data-lang="hide" class="tab" title="Ẩn transcript để luyện nghe">Ẩn</button>
       </div>
       <div id="transcript" class="transcript"></div>
+      <div id="tip" class="tip" role="tooltip" hidden></div>
     </section>
   </main>
 
   <div id="empty" class="empty" hidden>
     <p>Chưa có dữ liệu bài học. Chạy:</p>
-    <pre>python scripts/prepare.py https://www.youtube.com/watch?v=OkXuLNAjrSg</pre>
+    <pre>npm run build</pre>
   </div>
 
   <script src="app.js"></script>
