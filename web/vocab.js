@@ -35,7 +35,7 @@
     return esc(sentence).replace(/[A-Za-z']+/g, (tok) =>
       stems.some((s) => tok.toLowerCase().startsWith(s)) ? `<mark>${tok}</mark>` : tok);
   }
-  const watchUrl = (w) => `index.html#t=${w.t}`;
+  const watchUrl = (w) => `watch.html?v=${lesson.slug}#t=${w.t}`;
   const partName = (id) => { const p = lesson.parts.find((x) => x.id === id); return p ? `Phần ${id}: ${p.title}` : `Phần ${id}`; };
 
   function setKnown(w, known) {
@@ -174,10 +174,14 @@
   }
 
   async function boot() {
-    [lesson, words] = await Promise.all([
-      fetch("data/lesson.json", { cache: "no-cache" }).then((r) => r.json()),
-      fetch("data/vocab.json", { cache: "no-cache" }).then((r) => r.json()),
-    ]);
+    const slug = new URLSearchParams(location.search).get("v");
+    if (!slug) { location.replace("index.html"); return; }
+    const get = (f) => fetch(`data/${encodeURIComponent(slug)}/${f}`, { cache: "no-cache" }).then((r) => {
+      if (!r.ok) throw new Error(r.status); return r.json(); });
+    try { [lesson, words] = await Promise.all([get("lesson.json"), get("vocab.json")]); }
+    catch { location.replace("index.html"); return; }
+    $("#nav-watch").href = `watch.html?v=${slug}`;
+    $("#nav-vocab").href = `vocab.html?v=${slug}`;
     KEY = `learn-english-vocab:${lesson.videoId}`;
     state = load();
     $("#lesson-title").textContent = `Từ vựng · ${lesson.title}`;

@@ -1,0 +1,107 @@
+[
+ {
+  "slug": "what-world-class",
+  "videoId": "OkXuLNAjrSg",
+  "title": "What World Class Software Engineers Do That You Don't",
+  "channel": "Beyond Coding",
+  "parts": 18,
+  "start": 21,
+  "end": 1972,
+  "duration": 1951,
+  "lines": 270,
+  "words": 167,
+  "thumb": "media/what-world-class/thumb.jpg",
+  "partList": [
+   {
+    "id": 1,
+    "title": "Why You Should Increase Your Breadth, Not Just Focus",
+    "len": 115
+   },
+   {
+    "id": 2,
+    "title": "The Only Skill That Survives Every Tech Cycle",
+    "len": 119
+   },
+   {
+    "id": 3,
+    "title": "Buzzwords Are Just Old Ideas in New Clothes",
+    "len": 71
+   },
+   {
+    "id": 4,
+    "title": "What Clients Say vs What They Actually Want",
+    "len": 79
+   },
+   {
+    "id": 5,
+    "title": "The Bad Architects Are Easier to Spot",
+    "len": 125
+   },
+   {
+    "id": 6,
+    "title": "Why Good Engineers Use Boring Technology",
+    "len": 175
+   },
+   {
+    "id": 7,
+    "title": "Stop Building for 100x Scale on Day One",
+    "len": 88
+   },
+   {
+    "id": 8,
+    "title": "The Dogma of Clean Code Is Hurting You",
+    "len": 127
+   },
+   {
+    "id": 9,
+    "title": "Simple Is Complicated Enough at Scale",
+    "len": 68
+   },
+   {
+    "id": 10,
+    "title": "Design Only for the Next Order of Magnitude",
+    "len": 112
+   },
+   {
+    "id": 11,
+    "title": "How to Talk Tech with Non-Technical Stakeholders",
+    "len": 70
+   },
+   {
+    "id": 12,
+    "title": "The $50,000-Per-Hour Container Terminal Lesson",
+    "len": 161
+   },
+   {
+    "id": 13,
+    "title": "Architects Are No Longer Cartographers, They're Scouts",
+    "len": 193
+   },
+   {
+    "id": 14,
+    "title": "Start with a Question, Not an Answer",
+    "len": 85
+   },
+   {
+    "id": 15,
+    "title": "Junior to Senior in the Age of AI Agents",
+    "len": 40
+   },
+   {
+    "id": 16,
+    "title": "Don't Be a Fool with a Tool",
+    "len": 134
+   },
+   {
+    "id": 17,
+    "title": "From Explicit to Implicit Knowledge Economy",
+    "len": 55
+   },
+   {
+    "id": 18,
+    "title": "Use AI to Validate, Not to Generate",
+    "len": 134
+   }
+  ]
+ }
+]

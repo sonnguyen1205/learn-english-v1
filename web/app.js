@@ -303,7 +303,9 @@
   // ---------------------------------------------------------------- boot
   async function boot() {
     try {
-      const res = await fetch("data/lesson.json", { cache: "no-cache" });
+      const slug = new URLSearchParams(location.search).get("v");
+      if (!slug) { location.replace("index.html"); return; }
+      const res = await fetch(`data/${encodeURIComponent(slug)}/lesson.json`, { cache: "no-cache" });
       if (!res.ok) throw new Error(res.status);
       lesson = await res.json();
     } catch (e) {
@@ -311,6 +313,9 @@
       return;
     }
     document.title = lesson.title;
+    $("#nav-watch").href = `watch.html?v=${lesson.slug}`;
+    $("#nav-vocab").href = `vocab.html?v=${lesson.slug}`;
+    try { localStorage.setItem("learn-english:last", JSON.stringify({ slug: lesson.slug, at: Date.now() })); } catch {}
     $("#lesson-title").textContent = lesson.title;
     $("#lesson-channel").textContent = lesson.channel || "";
     state = load();
@@ -324,7 +329,7 @@
         current = i;
         state.times = { ...(state.times || {}), [lesson.parts[i].id]: Math.max(0, t - lesson.parts[i].start - 0.3) };
       }
-      history.replaceState(null, "", location.pathname);
+      history.replaceState(null, "", location.pathname + location.search);
     }
 
     const useLocal = lesson.parts.every((p) => p.file);
